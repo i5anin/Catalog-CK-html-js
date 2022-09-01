@@ -8,10 +8,10 @@ class Header {
 
           <div class="header-container">
             <div div class="header-counter" >
-            <a class="header-link" href="./1_Power/">Электродвигатели</a> 
-            <a class="header-link" href="./2_Ventilation_gas/">Вентиляционные и газовые</a>
-            <a class="header-link" href="./3_Electronics/">Электроника</a>
-            <a class="header-link" href="./4_Mechanical/">Механообработка</a>
+            <a class="header-link" href="https://salesk.ru/1_Power/">Электродвигатели</a> 
+            <a class="header-link" href="https://salesk.ru/2_Ventilation_gas/">Вентиляционные и газовые</a>
+            <a class="header-link" href="https://salesk.ru/3_Electronics/">Электроника</a>
+            <a class="header-link" href="https://salesk.ru/4_Mechanical/">Механообработка</a>
             </div>
           </div>
 
