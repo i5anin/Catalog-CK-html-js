@@ -18,7 +18,7 @@ fetch("server/catalog.json")
     setTimeout(() => {
       spinnerPage.handleClear();
       render();
-    }, 1000);
+    }, 200);
   })
   .catch(() => {
     spinnerPage.handleClear();
