@@ -1,0 +1,4808 @@
+[
+  {
+    "name": "Интерфейсный модуль Siemens Simatic CP443-1",
+    "id": "ID:1005003836217707",
+    "price": 131000,
+    "img": "http://ae01.alicdn.com/kf/A54c416dd80cd4ae1a09949ba5021282b4.jpg"
+  },
+  {
+    "name": "Siemens 6ES7350-1AH01-0AE0",
+    "id": "ID:1005004161851968",
+    "price": 41000,
+    "img": "http://ae01.alicdn.com/kf/U82751d00578e4e56a01422457ce400d68.jpg"
+  },
+  {
+    "name": "Блок питания Siemens Sitop 6EP1336-3BA00-8AA0",
+    "id": "ID:1005004167806858",
+    "price": 26000,
+    "img": "http://ae01.alicdn.com/kf/U3cfba90477d24d8784b6c1976558aa08E.jpg"
+  },
+  {
+    "name": "Вибрационный двигатель Vibra DV-B4/45",
+    "id": "ID:1005004195982509",
+    "price": 21000,
+    "img": "http://ae01.alicdn.com/kf/Ud2202bea454b453b827b2dfcb8960675X.jpg"
+  },
+  {
+    "name": "Вибрационный двигатель Aviteq UV G 21W-A1.1",
+    "id": "ID:1005004213556819",
+    "price": 26000,
+    "img": "http://ae01.alicdn.com/kf/U5080799a1bbd489193e1525a07e9ef2dT.jpg"
+  },
+  {
+    "name": "Вибрационный двигатель JOST JV 176-550",
+    "id": "ID:1005004213566703",
+    "price": 24000,
+    "img": "http://ae01.alicdn.com/kf/U072df1ad13104e77adf716cd4c1363adZ.jpg"
+  },
+  {
+    "name": "Вибрационный двигатель Красный маяк ИВ-106 Э1 У2",
+    "id": "ID:1005004213570673",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/Uad00853905154af5be4c7c2833d6442bC.jpg"
+  },
+  {
+    "name": "Вибрационный двигатель AEG 18W-K",
+    "id": "ID:1005004213582473",
+    "price": 21000,
+    "img": "http://ae01.alicdn.com/kf/U69631b1eb7da4dd8827fc3a42d1fa086f.jpg"
+  },
+  {
+    "name": "Вибрационный двигатель AEG U6X-K",
+    "id": "ID:1005004213585577",
+    "price": 24000,
+    "img": "http://ae01.alicdn.com/kf/U28cb188ec511409abe80e7c3da824a13i.jpg"
+  },
+  {
+    "name": "Вибрационный двигатель Красный маяк ИВ-106-2",
+    "id": "ID:1005004213604458",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/Ua7caf5fc1ef9479a8d4de4a58294e49fe.jpg"
+  },
+  {
+    "name": "Вибрационный двигатель Красный маяк ИВ-Б У2",
+    "id": "ID:1005004213610340",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/Ud29d1e1b65d2452f831ce603d64a3b08w.jpg"
+  },
+  {
+    "name": "Вибрационный двигатель Красный маяк ИВ-104Б У2",
+    "id": "ID:1005004213611348",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/Uadfe2a1680f946aaa85f5ea1885c1949d.jpg"
+  },
+  {
+    "name": "Вибрационный двигатель Красный маяк ИВ-99Б2",
+    "id": "ID:1005004213621249",
+    "price": 17000,
+    "img": "http://ae01.alicdn.com/kf/Uc69f5169c0cb414783a67bd46a07232dY.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Siemens 1FT5042-0AF71-1-Z",
+    "id": "ID:1005004222990777",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Ub0d45999249f4361a99f20ff0d9bcfcfy.jpg"
+  },
+  {
+    "name": "Двигатель A.REDL RFC 63A-2",
+    "id": "ID:1005004227639995",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/Uc7af11ec06484f4d8e78e652afeaf4b50.jpg"
+  },
+  {
+    "name": "Двигатель АИР 100S4УЗ",
+    "id": "ID:1005004227639997",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/Uc5455d79c27141edbcdee8ff815a1293b.jpg"
+  },
+  {
+    "name": "Мотор-редуктор BAUER DK6453-2211/163",
+    "id": "ID:1005004227647997",
+    "price": 53000,
+    "img": "http://ae01.alicdn.com/kf/U907253519de4491bbdaf40bb156d7a92n.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Vemat VTB 71C",
+    "id": "ID:1005004227647998",
+    "price": 53000,
+    "img": "http://ae01.alicdn.com/kf/U087f6db4f7b64c13b8171dc5c7e8f334m.jpg"
+  },
+  {
+    "name": "Мотор-редуктор VEMAT VTB 63C",
+    "id": "ID:1005004227647999",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U13a05da6f68e4e70a6efd16847876bf1n.jpg"
+  },
+  {
+    "name": "Двигатель Siemens 1LA7070-4AB11",
+    "id": "ID:1005004227648954",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U6c191c8f02104ed5a9df73e8bf0cc17eO.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE RX81 DV132S4TF",
+    "id": "ID:1005004227651912",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/Ue80f2a22a0364e73adddc2e0f2eba64ef.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Bauer G03",
+    "id": "ID:1005004227653917",
+    "price": 53000,
+    "img": "http://ae01.alicdn.com/kf/U628623dd41844954af8ef5debdb23a2ah.jpg"
+  },
+  {
+    "name": "Двигатель АИС 56А4УЗ",
+    "id": "ID:1005004227653918",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/Ueeab81e4cb024ec28101b7aec06d38b2c.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE SAF47 DRS71M4/TF",
+    "id": "ID:1005004227654948",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U88066886d4cd4a9ba20cc7a331de9d9dd.jpg"
+  },
+  {
+    "name": "Двигатель Flux-Gerate AF 90L/6D-11",
+    "id": "ID:1005004227654950",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U5727ce14886543dbb681ce4726e9c3efP.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R27 DT71D4/MM03/BW1",
+    "id": "ID:1005004227655996",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U5a750d1d9a1a4458a2e1e3277944e3f36.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE WF30 DT71D4/MM05/MLU/BW1",
+    "id": "ID:1005004227657884",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Ua4e4ba1ce34b4f45aea8b022c74474cfw.jpg"
+  },
+  {
+    "name": "Двигатель ABB 3GAA092002-BSE",
+    "id": "ID:1005004227657885",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/Uf709fd6c57e64615bf209569c3e15bd07.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R77 DT90S4/BMG/TF",
+    "id": "ID:1005004227658906",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U4760dd265b8a41c89d78700b9368e120a.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R47 DT80N4/BMG/MM07",
+    "id": "ID:1005004227660856",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U2170c0e5051e4dec9c944fca406ad554i.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R43 DT80K4BM/TF",
+    "id": "ID:1005004227662982",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U40f5efe0a3934feaade2b08e7645c3cdu.jpg"
+  },
+  {
+    "name": "Двигатель RVM AB 031/35-30",
+    "id": "ID:1005004227663849",
+    "price": 38000,
+    "img": "http://ae01.alicdn.com/kf/U0765f324f69246e29d3eb625396ceb63d.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R27 DT71D4",
+    "id": "ID:1005004227666867",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U67a0d3a10e7946679ea15ee87456897bx.jpg"
+  },
+  {
+    "name": "Двигатель AEG AM 160 MZA4 Q4",
+    "id": "ID:1005004227668913",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Ub2cecc8f5dd14fdab3da5fdd2bf30c8cf.jpg"
+  },
+  {
+    "name": "Двигатель Siemens 1LA3060-4AB22",
+    "id": "ID:1005004227668914",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U3184597142574529b2d9ef204199f29fF.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R72 DT100LS4TF",
+    "id": "ID:1005004227668915",
+    "price": 64000,
+    "img": "http://ae01.alicdn.com/kf/Uaea90a693ca841469f3447671222f80cF.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Bauer DKF 640/163 L",
+    "id": "ID:1005004227668916",
+    "price": 53000,
+    "img": "http://ae01.alicdn.com/kf/U54aeb08fff4f4d9cb83e42e0d2022077F.jpg"
+  },
+  {
+    "name": "Двигатель АИР 56А4УЗ",
+    "id": "ID:1005004227668917",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U197ca7ed0ab64fa096213b2feca52a16B.jpg"
+  },
+  {
+    "name": "Двигатель Bonfiglioli BN 71 B 4 FD",
+    "id": "ID:1005004227668918",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/Ue433fcaf88db4e5b9674712e89dd37ff9.jpg"
+  },
+  {
+    "name": "Двигатель Siemens 1LA7063-4AB12",
+    "id": "ID:1005004227669870",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U62493d9210cb4f82a5bc9a91668004a5U.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R27 DT71D4/MM03/BW1",
+    "id": "ID:1005004227669871",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U5a108c87984e4d0ea972a35e4b9dc3982.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord SK 32-100L/40",
+    "id": "ID:1005004227669872",
+    "price": 64000,
+    "img": "http://ae01.alicdn.com/kf/Ua5cece38707c447587111b2c3d840d26N.jpg"
+  },
+  {
+    "name": "Двигатель Elektromotoren-Werke-Kaiser DN 90 L/2 SFI",
+    "id": "ID:1005004227669873",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/Ue01d7012fba445e9a1374772615c13614.jpg"
+  },
+  {
+    "name": "Двигатель Sew-Eurodrive DFV160M4RM/HF/TF/FV1R",
+    "id": "ID:1005004227669874",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/Uccd2eefe5aaa4de88e98eaf91c7b89e4g.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R43 WD80K2",
+    "id": "ID:1005004227670858",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U98286cf8b6a3448e85ea600f78d3663eI.jpg"
+  },
+  {
+    "name": "Двигатель АИР 100L4 УЗ",
+    "id": "ID:1005004227671839",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U64d6a370a508435d9b63bf30689a1b56D.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord SK 90L/4 TF",
+    "id": "ID:1005004227671843",
+    "price": 58000,
+    "img": "http://ae01.alicdn.com/kf/Uf55b3212b44e476b8c189c59363a41a0T.jpg"
+  },
+  {
+    "name": "Серводвигатель Siemens 1LA5062-1AC71-4EB0",
+    "id": "ID:1005004227672874",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/U41b3ad79cbbd4572b4f075d3d4857955L.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord SK 90L/4 TF",
+    "id": "ID:1005004227673870",
+    "price": 58000,
+    "img": "http://ae01.alicdn.com/kf/U28fa25158ab045a9ac2e3366ec9f4ba45.jpg"
+  },
+  {
+    "name": "Мотор-редуктор BAUER SZ2-10/DO 54-17",
+    "id": "ID:1005004227673871",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U50a2fa51bb824933a709dbd1249f839bm.jpg"
+  },
+  {
+    "name": "Мотор-редуктор АИР 63В4У3 SITI MU40",
+    "id": "ID:1005004227673872",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Ubeed36e461ac49baaa9555bbef93657am.jpg"
+  },
+  {
+    "name": "Мотор-редуктор LENZE 7C4-051H",
+    "id": "ID:1005004227673873",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U05e8e628de7e4a46aeabaa96d162cef3A.jpg"
+  },
+  {
+    "name": "Двигатель VEM B21R 80 G 2",
+    "id": "ID:1005004227675826",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U88e03e5b43bf48e78b40950d3f73ddf9W.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Siemens 1FK6083-6AF71-1TB0",
+    "id": "ID:1005004227675827",
+    "price": 41000,
+    "img": "http://ae01.alicdn.com/kf/U5c64aea3c0164e898306bf261736fb80Z.jpg"
+  },
+  {
+    "name": "Двигатель Bonfiglioli BN 63 A 4 FD",
+    "id": "ID:1005004227676831",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/Ud5d3fa376ea24617b5c0a1e3de2770faK.jpg"
+  },
+  {
+    "name": "Серводвигатель Siemens 1FK7060-5AF71-1DB3-Z",
+    "id": "ID:1005004227677807",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/U290f8e153714478dbd0c21be88a7e82bV.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord 33-132 S/4",
+    "id": "ID:1005004227678750",
+    "price": 64000,
+    "img": "http://ae01.alicdn.com/kf/U03696974b46f425e93ee4bc554e03cf6F.jpg"
+  },
+  {
+    "name": "Серводвигатель Siemens 1FK7083-5AF71-1DB3-Z",
+    "id": "ID:1005004227679771",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/U53076a7550774151bcdad04e9bd4c169M.jpg"
+  },
+  {
+    "name": "Двигатель Siemens 1LA7107-4AA10",
+    "id": "ID:1005004227682748",
+    "price": 36000,
+    "img": "http://ae01.alicdn.com/kf/U81db433bad0a4e519c646d77c952d55fw.jpg"
+  },
+  {
+    "name": "Двигатель ATB NF80/2B-11",
+    "id": "ID:1005004227683780",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U23094a8ab5dd49bb8c9b16c5c4a0487aE.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE DFR63L4/BR",
+    "id": "ID:1005004227683782",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U23a4b36bf41d4926ade14bf89d6e8790X.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE SAF37 DT71D4",
+    "id": "ID:1005004227684752",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Uf7fcc9bfaca24762841019c68448f081M.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SIEMENS CUW 80",
+    "id": "ID:1005004227684755",
+    "price": 47000,
+    "img": "http://ae01.alicdn.com/kf/Ub79691271fa94c8ca13c947116425f65z.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Stephan-Werke-Hameln Z2L D90L 20-4",
+    "id": "ID:1005004227686717",
+    "price": 58000,
+    "img": "http://ae01.alicdn.com/kf/Udba7b24f6aea4a30b9cd684026b640dbu.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE DFT80K-2",
+    "id": "ID:1005004227686718",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Ud74521eb19624ca8b7fbca490add3c42M.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R97 DV100M4/TF",
+    "id": "ID:1005004227688672",
+    "price": 64000,
+    "img": "http://ae01.alicdn.com/kf/U544e73e70da945879f30bf1cc99b87d1R.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord SK 90L/4",
+    "id": "ID:1005004227688676",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Uef33dd619c0942a09ae7792aa078f7fdd.jpg"
+  },
+  {
+    "name": "Серводвигатель Siemens 1LA2015-4AB22",
+    "id": "ID:1005004227689649",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/U2d69b097e009443eb904fef1cee69306M.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord 112M/4",
+    "id": "ID:1005004227689650",
+    "price": 64000,
+    "img": "http://ae01.alicdn.com/kf/U1a653c00d49e4381a2fac7fa954f4519o.jpg"
+  },
+  {
+    "name": "Двигатель SSB 6-DRTF-0922,40X,92-S-K-B5",
+    "id": "ID:1005004227690697",
+    "price": 43000,
+    "img": "http://ae01.alicdn.com/kf/U8e49cc046c59469980f201dfdae7204fY.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R72 DT100LS4TF",
+    "id": "ID:1005004227692581",
+    "price": 64000,
+    "img": "http://ae01.alicdn.com/kf/Uff3b9d78d91a4400b03a78c5c6b130a1e.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord SK 112M/4",
+    "id": "ID:1005004227692582",
+    "price": 64000,
+    "img": "http://ae01.alicdn.com/kf/Ua5ad1637eaf346cf8032f24b5218bdb7U.jpg"
+  },
+  {
+    "name": "Мотор-редуктор FLENDER С38-М80S4",
+    "id": "ID:1005004227694594",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Ue6aff70a616f42f480cfa8c249e23a59I.jpg"
+  },
+  {
+    "name": "Серводвигатель LENZE MCA 14L35-RS0BO-A24R-ST5F10N-R0SU",
+    "id": "ID:1005004227695606",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/U88d97e31c02f4a4aaf532a885b1b2d61J.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Siemens 1LA7053-2AA13-Z",
+    "id": "ID:1005004227696652",
+    "price": 53000,
+    "img": "http://ae01.alicdn.com/kf/U9d6df1ea60be4b5292fe16ec54a9dbb3y.jpg"
+  },
+  {
+    "name": "Двигатель Siemens VDE 0530",
+    "id": "ID:1005004227697012",
+    "price": 37000,
+    "img": "http://ae01.alicdn.com/kf/U5bd4e76431784373944bf8db8cf47787p.jpg"
+  },
+  {
+    "name": "Двигатель Elektromaschinenbau A.REDL. RFE 80B-2",
+    "id": "ID:1005004227698577",
+    "price": 38000,
+    "img": "http://ae01.alicdn.com/kf/Uf29fd20bd4214ddf9ed9f599b11cbc8aq.jpg"
+  },
+  {
+    "name": "Двигатель Elektra 1TZ90010EB422AB4-Z",
+    "id": "ID:1005004227701558",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U850d063bd303492387a26b98797c4663S.jpg"
+  },
+  {
+    "name": "Двигатель ATB A 90L/41-11",
+    "id": "ID:1005004227703506",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U3dd4587b2df242d79f146192f182a169k.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R802 DV132S4TF",
+    "id": "ID:1005004227704499",
+    "price": 64000,
+    "img": "http://ae01.alicdn.com/kf/Uc41ebb1b589c44bd9de0269b0ddf2b7a8.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE S37 DR63M2",
+    "id": "ID:1005004227706509",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U65477a27f11743899a6db07fe999fa01w.jpg"
+  },
+  {
+    "name": "Двигатель Siemens 1LA5083-2AA22",
+    "id": "ID:1005004227706510",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U91ad90f57dfa4cbc835fd0c740099ed55.jpg"
+  },
+  {
+    "name": "Мотор-редуктор FLENDER YAF 90S/4H-11 (Stober DVW3-3017-110-4)",
+    "id": "ID:1005004227706511",
+    "price": 68000,
+    "img": "http://ae01.alicdn.com/kf/U8d9d8d193fae4021bbcb08df6f392067H.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE RF17 DT71D4/TF",
+    "id": "ID:1005004227707447",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Ue951a8397a2d4a1ead04faf61aadb1a7i.jpg"
+  },
+  {
+    "name": "Двигатель Kobold PO 7110-1-16/2 MB/G",
+    "id": "ID:1005004227709491",
+    "price": 38000,
+    "img": "http://ae01.alicdn.com/kf/U3daff4eda6aa43508ae4b1f4da73d9908.jpg"
+  },
+  {
+    "name": "Двигатель Nord Sk 80L/4",
+    "id": "ID:1005004227713429",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U8e7a349146ec455d894699418844c96aG.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE SA40 DT21D4/2",
+    "id": "ID:1005004227715389",
+    "price": 53000,
+    "img": "http://ae01.alicdn.com/kf/U9f003b4a2d444d6ba489b1452139be0fu.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord SK 100L/4 TF",
+    "id": "ID:1005004227715390",
+    "price": 64000,
+    "img": "http://ae01.alicdn.com/kf/U6951b2b49b42439a80dcc7c303c2f408t.jpg"
+  },
+  {
+    "name": "Двигатель Siemens 1LA7083-2AA12",
+    "id": "ID:1005004227718351",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/Ub5079c7692144560b122822300377eafq.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord SK 32F-100L/40",
+    "id": "ID:1005004227718353",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Ufe4d9e315c1a452894082f48af8ea56er.jpg"
+  },
+  {
+    "name": "Двигатель VOGEL DB63G4180-10+100",
+    "id": "ID:1005004227719304",
+    "price": 43000,
+    "img": "http://ae01.alicdn.com/kf/U27e7551d37d04291b77dca773f9041faO.jpg"
+  },
+  {
+    "name": "Двигатель AEG AM 80K4",
+    "id": "ID:1005004227720310",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U1e9fd349e32041efaf8a92f38d437d41X.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE R43 DT80K4TF",
+    "id": "ID:1005004227720312",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Ufdedda07b776434b9569404c773824d4E.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord SK 90LH/4",
+    "id": "ID:1005004227720317",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/Ud9b1759f7128441080314311df4c8b51v.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Ruhrgetriebe 7KB4-195",
+    "id": "ID:1005004227720318",
+    "price": 53000,
+    "img": "http://ae01.alicdn.com/kf/Ube6c4d3bf2244941a861cc03eb158297m.jpg"
+  },
+  {
+    "name": "Двигатель VEM K21R 71 R 2",
+    "id": "ID:1005004227721330",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/Ud604c38a2c994cc5abc321f7fc44b5064.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Siemens 1LA7070-4AB13",
+    "id": "ID:1005004227721331",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Uee7afcdf2fa14330b308c332d0a09c3cb.jpg"
+  },
+  {
+    "name": "Двигатель Bonfiglioli BN 71 A 4 FD",
+    "id": "ID:1005004227722312",
+    "price": 38000,
+    "img": "http://ae01.alicdn.com/kf/U20aeff17934c435ca9359c760452dd48Q.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Siemens 1LA71(ZTS EP 43-10)",
+    "id": "ID:1005004227723297",
+    "price": 87000,
+    "img": "http://ae01.alicdn.com/kf/Ue5dae83dd5f74548bbcb68742e12ca0bV.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE K47 DT90L4/BMG/TF",
+    "id": "ID:1005004227723299",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Ucfef96247ca24f6181950003caec8a69w.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord SK 32-100L/40",
+    "id": "ID:1005004227724304",
+    "price": 64000,
+    "img": "http://ae01.alicdn.com/kf/Ufb49d59bf2f6433b870bb9ceff7b041e1.jpg"
+  },
+  {
+    "name": "Двигатель ATB-Flender A 80/4A-11",
+    "id": "ID:1005004227725294",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U74e2ac65d43b4edba85731f61d473722p.jpg"
+  },
+  {
+    "name": "Мотор-редуктор BAUER G33-20/DK64-163L",
+    "id": "ID:1005004227725295",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U6bdecd653c8e4eea95d25bab6d15349fq.jpg"
+  },
+  {
+    "name": "Двигатель SCHORCH KA 3160L-AB011",
+    "id": "ID:1005004227725296",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/Ud25db4225687428596af239fe68eb394x.jpg"
+  },
+  {
+    "name": "Двигатель Siemens 1LA7083-2AA10-Z",
+    "id": "ID:1005004227728220",
+    "price": 38000,
+    "img": "http://ae01.alicdn.com/kf/U68980277a5f447aaa7ebbd3a24360ee1l.jpg"
+  },
+  {
+    "name": "Двигатель Siemens 1LA5090-4AA10",
+    "id": "ID:1005004227729216",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U83aa19529d8e473d899dde21e89586f4w.jpg"
+  },
+  {
+    "name": "Серводвигатель Siemens 1FT5076-0AC71-1-Z",
+    "id": "ID:1005004227729217",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/Ud8b9011add5f41a7b4bbc32618c484e63.jpg"
+  },
+  {
+    "name": "Двигатель Kaiser-Motoren DNK 90L/2sFI",
+    "id": "ID:1005004227730197",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U465014e7f9ee4ea4827d414f734c63a3R.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Stephan-Werke-Hameln D 034s",
+    "id": "ID:1005004227732202",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/U6e2697bf39bf4aaf8e4d6b607877f6f8K.jpg"
+  },
+  {
+    "name": "Двигатель Helmke H-PLUS DOR80M1-4(A)-145",
+    "id": "ID:1005004227735147",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/Uf031a0f97fb74ca6999826117b83c476l.jpg"
+  },
+  {
+    "name": "Двигатель HEW R 80L/4",
+    "id": "ID:1005004227736196",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U21936dd6eb2543f08415a5720074f068x.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE RF17 DR63S4/BR",
+    "id": "ID:1005004227737165",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/Ub5dc7cfbf8b34df4b58696a355888c8c9.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE SA57/T DT80K4",
+    "id": "ID:1005004227738165",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U743b5c2a54614b59863eada9f832091b0.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Nord SK 80 S/4",
+    "id": "ID:1005004227738173",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Uca046f10b8584c469bf08014cb0d655au.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE S52 DT80K",
+    "id": "ID:1005004227739124",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Uf3d7e54bf77b4410910d5e67da6d8c5dc.jpg"
+  },
+  {
+    "name": "Двигатель Elmot-Schafer TE 0 160M2B-40 H",
+    "id": "ID:1005004227739127",
+    "price": 38000,
+    "img": "http://ae01.alicdn.com/kf/U68a7755364ab4773bde1eba6ba6806adg.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE RF17 DT71D4/TF",
+    "id": "ID:1005004227740127",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Uecedd80cc8ab4287bcee66ec37103124q.jpg"
+  },
+  {
+    "name": "Мотор-редуктор BAUER G02-20/DK64-163L",
+    "id": "ID:1005004227741115",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Ud56aae281230494fbd70bcb631d0e0f27.jpg"
+  },
+  {
+    "name": "Мотор-редуктор ATB RF0,09/4-71",
+    "id": "ID:1005004227742117",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U5de6df4984424200b806f174096dbcf8T.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE DFT80K-2",
+    "id": "ID:1005004227743123",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U633b2aead7424d75adcacad0040bf3a02.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Siemens 1FK6063-6AF71-1TB0 (Alpha SP100-MF1-4-131-000)",
+    "id": "ID:1005004227745098",
+    "price": 41000,
+    "img": "http://ae01.alicdn.com/kf/Uda7edd0e61d3418d8711ed315fb66e0bY.jpg"
+  },
+  {
+    "name": "Двигатель Siemens 1LA5134-6CA20",
+    "id": "ID:1005004227748070",
+    "price": 38000,
+    "img": "http://ae01.alicdn.com/kf/Ubfb271fffd6445e4848dc6afa5080435I.jpg"
+  },
+  {
+    "name": "Мотор-редуктор ABM VDE 0530",
+    "id": "ID:1005004227749061",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U4d4801adc5af4d3288f1056be9f087c6x.jpg"
+  },
+  {
+    "name": "Двигатель Nord SK 2-100L/8-2",
+    "id": "ID:1005004227749063",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U9ea1b2d864264a1f8b6b67df60f61705V.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Bauer BG20Z-11/D06LA4-TF",
+    "id": "ID:1005004227750057",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/U6a34c8cb8fd340b89c63cbc7457437aeJ.jpg"
+  },
+  {
+    "name": "Двигатель Siemens 1LA5070-4AB11",
+    "id": "ID:1005004227750059",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/Ue1591d368e7b482e9d7804a3df78bc7aW.jpg"
+  },
+  {
+    "name": "Мотор-редуктор ABB ZD 244S",
+    "id": "ID:1005004227750060",
+    "price": 54000,
+    "img": "http://ae01.alicdn.com/kf/Uc8ef4411d61b47a78171753f5ef9b954G.png"
+  },
+  {
+    "name": "Двигатель Sew-Eurodrive DFT71D4-ANBAU",
+    "id": "ID:1005004227751047",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/U52ecec9310374314bd9037d27fad1d13a.jpg"
+  },
+  {
+    "name": "Двигатель Leroy-Somer LS80L T",
+    "id": "ID:1005004227752051",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/Ub79d0fc3f7314e5b87484e37423e4a565.jpg"
+  },
+  {
+    "name": "Двигатель ATB YAF 100L/4R-12",
+    "id": "ID:1005004227752052",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/U16022a52a86e41a7baf20f51a567ebc55.jpg"
+  },
+  {
+    "name": "Двигатель Siemens 1LA7083-2AA22",
+    "id": "ID:1005004227755032",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/U9b87f1a35dad40909abac429d5c40205i.jpg"
+  },
+  {
+    "name": "Мотор-редуктор SEW-EURODRIVE S40 DT80K-4B",
+    "id": "ID:1005004227756009",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/Ubaf822bd29e74b84b037384c821eaf18a.jpg"
+  },
+  {
+    "name": "Двигатель VEM K21R 90 L 4 KR TPM155/170",
+    "id": "ID:1005004227757005",
+    "price": 31000,
+    "img": "http://ae01.alicdn.com/kf/Ud02dd89bc5904622bb37da33ef9bc00fN.jpg"
+  },
+  {
+    "name": "Выключатель Siemens 3UN22 3UN2234-0EN7",
+    "id": "ID:1005004320552991",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/Af6fd0647c94e4e7eb28a9150d9b7932bl.jpg"
+  },
+  {
+    "name": "Панель оператора Berthold LB 440-M",
+    "id": "ID:1005004320555950",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/A42e20cc6db3e4eafb6e2cfea1f3ecedaM.jpg"
+  },
+  {
+    "name": "Регулятор Siemens Sipart DR22 6DR2200-5",
+    "id": "ID:1005004320556951",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/A4428f21a12c44b899b2127b04c50fa4bj.jpg"
+  },
+  {
+    "name": "Тормозной резистор Lenze ERBD047R01K2",
+    "id": "ID:1005004320557921",
+    "price": 26000,
+    "img": "http://ae01.alicdn.com/kf/Aed4fbc17a4944fc0911c872642a38d2fD.jpg"
+  },
+  {
+    "name": "Модуль Siemens SIMATIC S7 6ES7350-1AH01-0AE0",
+    "id": "ID:1005004320557929",
+    "price": 51000,
+    "img": "http://ae01.alicdn.com/kf/Aa1284a10f71947e182ed7542a58025a9O.jpg"
+  },
+  {
+    "name": "Mодуль Heidenhain 246 4 9",
+    "id": "ID:1005004320557934",
+    "price": 61000,
+    "img": "http://ae01.alicdn.com/kf/A01e607ab2bf84834a20df143d40c698cE.jpg"
+  },
+  {
+    "name": "Блок питания Siemens Sinamics Smart Line Module 6SL3130-6TE21-6AA3",
+    "id": "ID:1005004320559942",
+    "price": 141000,
+    "img": "http://ae01.alicdn.com/kf/A515ce55daca8430c80b77086da863a0fR.jpg"
+  },
+  {
+    "name": "Реле Finder Type 60.13",
+    "id": "ID:1005004320559946",
+    "price": 1800,
+    "img": "http://ae01.alicdn.com/kf/A8d1d3feced694493950b305feb71e140G.jpg"
+  },
+  {
+    "name": "Анализатор мощности Janitza UMG 604 EP 52.16.001",
+    "id": "ID:1005004320560881",
+    "price": 41000,
+    "img": "http://ae01.alicdn.com/kf/A1ebb0c13287e4228aae69452c081ab3fN.jpg"
+  },
+  {
+    "name": "Регулятор Siemens SIPART 6DR2210-5",
+    "id": "ID:1005004320561885",
+    "price": 61000,
+    "img": "http://ae01.alicdn.com/kf/Af19f14cb727b4b259c4ff2c871a19a9bP.jpg"
+  },
+  {
+    "name": "Автоматический выключатель Siemens 3VU1300-1MF00",
+    "id": "ID:1005004320561889",
+    "price": 14000,
+    "img": "http://ae01.alicdn.com/kf/Af527cb0a130a4ab1a2247117017079e9b.jpg"
+  },
+  {
+    "name": "Клапан MAC 161B-611 JM",
+    "id": "ID:1005004320562854",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/A8e64909d9859443da7c500519a3d759c8.jpg"
+  },
+  {
+    "name": "Фильтр двигателя Lenze ELM3-014H010",
+    "id": "ID:1005004320562858",
+    "price": 31000,
+    "img": "http://ae01.alicdn.com/kf/A6b9a61d6edb049c8a867c678fcfb3af9L.jpg"
+  },
+  {
+    "name": "Извещатель EAO Lse16-611.710",
+    "id": "ID:1005004320563811",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/Aacd537cd050c477798919b9603cfb760K.jpg"
+  },
+  {
+    "name": "Универсальная стойка Siemens SIMATIC S7-400 6ES7400-1JA11-0AA0",
+    "id": "ID:1005004320563815",
+    "price": 46000,
+    "img": "http://ae01.alicdn.com/kf/A907bc0bd14c34dc6854f3dcd95c3edadF.jpg"
+  },
+  {
+    "name": "Автоматический выключатель Siemens 5Sx21",
+    "id": "ID:1005004320564768",
+    "price": 1600,
+    "img": "http://ae01.alicdn.com/kf/A827051f098ce45ca95a51a6c27e7dc358.jpg"
+  },
+  {
+    "name": "Процессор Siemens Simatic S5 6GK1543-1AA01",
+    "id": "ID:1005004320565757",
+    "price": 46000,
+    "img": "http://ae01.alicdn.com/kf/Aeb4575adf9cf40aba58ace09d7e18a93k.jpg"
+  },
+  {
+    "name": "Тахогенератор ТМГ ТМГ-30",
+    "id": "ID:1005004320565765",
+    "price": 21000,
+    "img": "http://ae01.alicdn.com/kf/A309786cd81784ee58d8badf7e136cea2f.jpg"
+  },
+  {
+    "name": "Модуль Beta LiserMike LN1040XY-D",
+    "id": "ID:1005004320566769",
+    "price": 78000,
+    "img": "http://ae01.alicdn.com/kf/A14d7d734a15c40edb5abb98364bc22e7V.jpg"
+  },
+  {
+    "name": "Трансформатор Gossen-Metrawatt ASK 63.4 1717V1260",
+    "id": "ID:1005004320569679",
+    "price": 14000,
+    "img": "http://ae01.alicdn.com/kf/A2e88fbc243f84ae19ee5b480bb6224044.jpg"
+  },
+  {
+    "name": "Реле Siemens LZX PT370024",
+    "id": "ID:1005004320569683",
+    "price": 1600,
+    "img": "http://ae01.alicdn.com/kf/A507a44cc6b4e418c89fce2a3a8c72e2fs.jpg"
+  },
+  {
+    "name": "Трансформатор Siemens 7KG6113-2AN27-0B",
+    "id": "ID:1005004320569684",
+    "price": 41000,
+    "img": "http://ae01.alicdn.com/kf/A70da7b36cff941deb8a49153553b94238.jpg"
+  },
+  {
+    "name": "Выключатель E-T-A ESX10-TB-102-DC24V-1A",
+    "id": "ID:1005004320570709",
+    "price": 5600,
+    "img": "http://ae01.alicdn.com/kf/Aff33ac1397d64f1cb7026ba382f607a3Q.jpg"
+  },
+  {
+    "name": "Реле Comus WG A5 6D 25 Z",
+    "id": "ID:1005004320572760",
+    "price": 5100,
+    "img": "http://ae01.alicdn.com/kf/A8ced2845806d4380b8b2e6243a2c1ae4h.jpg"
+  },
+  {
+    "name": "Монтажная стойка Siemens S5 6ES5 700-2LA12",
+    "id": "ID:1005004320574708",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/A907bc0bd14c34dc6854f3dcd95c3edadF.jpg"
+  },
+  {
+    "name": "Трансформатор Murrelektronik MEN 1/2-PHASE SMOOTHED 85349",
+    "id": "ID:1005004320578687",
+    "price": 8100,
+    "img": "http://ae01.alicdn.com/kf/A14065831cae24aedab691e74a1f89bf2K.jpg"
+  },
+  {
+    "name": "Принтер CAB A4+/300",
+    "id": "ID:1005004320578697",
+    "price": 41000,
+    "img": "http://ae01.alicdn.com/kf/Ac4ef1a6893e04df09dca1a91bc6c6e77w.jpg"
+  },
+  {
+    "name": "Модуль Siemens 720 2001-01 PC-GF20",
+    "id": "ID:1005004320578698",
+    "price": 290,
+    "img": "http://ae01.alicdn.com/kf/A0909fcadf672434c97e1e8a0729d8962Z.jpg"
+  },
+  {
+    "name": "Блок управления RNA ESM906-230VAC",
+    "id": "ID:1005004320579665",
+    "price": 61000,
+    "img": "http://ae01.alicdn.com/kf/A1bfbc331237d4ad7a2094793da0d0408R.jpg"
+  },
+  {
+    "name": "Электронный модуль Osram JET lZM-A/EB-A",
+    "id": "ID:1005004320579673",
+    "price": 68000,
+    "img": "http://ae01.alicdn.com/kf/A64e13107fdff4168842b3c9a40ab6216a.jpg"
+  },
+  {
+    "name": "Модуль Simatic S7-400 6ES7422-1BH11-0AA0",
+    "id": "ID:1005004320581643",
+    "price": 41000,
+    "img": "http://ae01.alicdn.com/kf/A1036d8be61fe4f60bb03efa5105bd254X.jpg"
+  },
+  {
+    "name": "Теплообменник Rittal SK 3374104",
+    "id": "ID:1005004320584613",
+    "price": 71000,
+    "img": "http://ae01.alicdn.com/kf/Aed4d6b8799cf4d17bd2945678c6a4f7dl.jpg"
+  },
+  {
+    "name": "Преобразователь частоты Lenze E82EV371 2B",
+    "id": "ID:1005004320584615",
+    "price": 24000,
+    "img": "http://ae01.alicdn.com/kf/A1f9e5eba1ee8443e8d5f98a18cf701a2M.jpg"
+  },
+  {
+    "name": "Контактор Siemens 3TF2001-0AP0",
+    "id": "ID:1005004320584618",
+    "price": 5800,
+    "img": "http://ae01.alicdn.com/kf/A354d7332784c4bdc8ab2948ce6999fd4W.jpg"
+  },
+  {
+    "name": "Турбинный счетчик газа RMG TRZ 3",
+    "id": "ID:1005004320585603",
+    "price": 98000,
+    "img": "http://ae01.alicdn.com/kf/Ad64726458c99480ba841bd757cfa0c5aw.jpg"
+  },
+  {
+    "name": "Блок контактов Siemens 3TX4422-1A",
+    "id": "ID:1005004320585606",
+    "price": 1600,
+    "img": "http://ae01.alicdn.com/kf/A6a789b6cee734a57bdd7e4ebbc10e580z.jpg"
+  },
+  {
+    "name": "Коммутатор Siemens Ethernet Switch 6GK5205-3BD00-2",
+    "id": "ID:1005004320587626",
+    "price": 46000,
+    "img": "http://ae01.alicdn.com/kf/A376bd3d3d306435fbe12b90e847ba60fR.jpg"
+  },
+  {
+    "name": "Датчик давления ABB D-32425 MINDEN",
+    "id": "ID:1005004320588618",
+    "price": 31000,
+    "img": "http://ae01.alicdn.com/kf/A8d32e060461741678da2557733223dc7v.jpg"
+  },
+  {
+    "name": "Модуль Pilz Pnoz m1p",
+    "id": "ID:1005004320589587",
+    "price": 46000,
+    "img": "http://ae01.alicdn.com/kf/Aa94fbd8aa09441ddaef115c88233896fR.jpg"
+  },
+  {
+    "name": "Процессор Siemens Simatic S5 6ES5944-7UB21",
+    "id": "ID:1005004320590592",
+    "price": 46000,
+    "img": "http://ae01.alicdn.com/kf/A3f56d2a9966e4492938143b18e3d2eeaM.jpg"
+  },
+  {
+    "name": "Модуль ввода аналоговых сигналов Siemens Simatic S7-300 6ES7331-7KF02-0AB0",
+    "id": "ID:1005004320590596",
+    "price": 51000,
+    "img": "http://ae01.alicdn.com/kf/A16da89332bda487b82595bab2657571fB.jpg"
+  },
+  {
+    "name": "Преобразователь частоты Siemens Micromaster 440 6SE6440-2AB15-5AA1",
+    "id": "ID:1005004320594596",
+    "price": 41000,
+    "img": "http://ae01.alicdn.com/kf/A28dca44d4d87426fa98994e7d1c4211eX.jpg"
+  },
+  {
+    "name": "Самописец Yokogawa Hybrid Recorder DR240",
+    "id": "ID:1005004320597553",
+    "price": 78000,
+    "img": "http://ae01.alicdn.com/kf/Ae0a0ec135dbd48dab82228b8bad4dfbev.jpg"
+  },
+  {
+    "name": "Предохранитель Gl-Gg 20 A 500 V",
+    "id": "ID:1005004320598541",
+    "price": 190,
+    "img": "http://ae01.alicdn.com/kf/Ab5a0a2a91f814629adfea535ea712a31A.jpg"
+  },
+  {
+    "name": "Шинный модуль Siemens 6ES7195-7HB00-0XA0",
+    "id": "ID:1005004320599548",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/A7e711fbbe30247ccb6eaa0ceb18bacb5c.jpg"
+  },
+  {
+    "name": "Преобразователь давления Siemens Sitrans P 7MF4033-1BA00-1BB7-Z",
+    "id": "ID:1005004320601521",
+    "price": 86000,
+    "img": "http://ae01.alicdn.com/kf/Aa75f253017c84454b5ddeedf198cc379J.jpg"
+  },
+  {
+    "name": "Предохранитель Siemens 3NA7882NH000-gL/gG",
+    "id": "ID:1005004320602545",
+    "price": 1600,
+    "img": "http://ae01.alicdn.com/kf/A4ef86a1b2d7641148abd676244bd2c92I.jpg"
+  },
+  {
+    "name": "Датчик потока EGE Elektronik SNS 450-A4-GR",
+    "id": "ID:1005004320602546",
+    "price": 26000,
+    "img": "http://ae01.alicdn.com/kf/A5b7822ed497e4a5cba65950d3bbc3e79T.jpg"
+  },
+  {
+    "name": "Преобразователь давления Siemens Sitrans P 7MF4420-1BA02-1AA3-Z",
+    "id": "ID:1005004320602550",
+    "price": 61000,
+    "img": "http://ae01.alicdn.com/kf/Aa070fa97f4a34742bd7fa4fd3e4e1541L.jpg"
+  },
+  {
+    "name": "Модуль ввода Siemens 6ES7323-1BL00-0AA0",
+    "id": "ID:1005004320603566",
+    "price": 41000,
+    "img": "http://ae01.alicdn.com/kf/A7ad55f7fc0c448e3be272220ea0a393eV.jpg"
+  },
+  {
+    "name": "Модуль Siemens 7MF 1101-18342-1BA1",
+    "id": "ID:1005004320603575",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/A226f0e0aa48e44a28de11e3ae22ed526X.jpg"
+  },
+  {
+    "name": "Сетевой фильтр Elfis Type 3 Elf 25l",
+    "id": "ID:1005004320605537",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/Sa4661c925957498f9f648564b4897667N.jpg"
+  },
+  {
+    "name": "Электромагнитный расходомер Endress-Hauser E+H 53P15-EF0B1AA0AADD",
+    "id": "ID:1005004320605540",
+    "price": 91000,
+    "img": "http://ae01.alicdn.com/kf/Af4dae59cef864ae1b134362c29656bccC.jpg"
+  },
+  {
+    "name": "Температурный преобразователь Siemens SITRANS TW 7NG3242-0AA02",
+    "id": "ID:1005004320605541",
+    "price": 36000,
+    "img": "http://ae01.alicdn.com/kf/A3415ee0f1b3443409429438289cb9cfdY.jpg"
+  },
+  {
+    "name": "Датчик расходомера Siemens Sitrans MAG 5100 W 7ME6520-3TC12-2AA1",
+    "id": "ID:1005004320608493",
+    "price": 71000,
+    "img": "http://ae01.alicdn.com/kf/A3bd689fa4db6405b8c3a18a4a4e5f216M.jpg"
+  },
+  {
+    "name": "Линейный самописец Sirec L 7ND3121-1CA11-1NA1",
+    "id": "ID:1005004320608494",
+    "price": 61000,
+    "img": "http://ae01.alicdn.com/kf/A6ef25e7806764f4ab129a4b4026707c0t.jpg"
+  },
+  {
+    "name": "Панель оператора Siemens SIMATIC S5 OP396 Operator Panel 6ES5396-0UA11",
+    "id": "ID:1005004320609567",
+    "price": 21000,
+    "img": "http://ae01.alicdn.com/kf/Af6dbd4e278e5452db6f758ed3d881a95H.jpg"
+  },
+  {
+    "name": "Шинный модуль Siemens 6ES7195-7HA00-0XA0",
+    "id": "ID:1005004320609572",
+    "price": 11000,
+    "img": "http://ae01.alicdn.com/kf/A911b9473995d4caeabfb1ed0ba4a5278o.jpg"
+  },
+  {
+    "name": "Модуль Siemens 6SN1 227-2ED10-OHAO",
+    "id": "ID:1005004320610526",
+    "price": 51000,
+    "img": "http://ae01.alicdn.com/kf/A847043c3790c4ebab543778bd7c30b90A.jpg"
+  },
+  {
+    "name": "Модуль Beta LN1025XY",
+    "id": "ID:1005004320611520",
+    "price": 71000,
+    "img": "http://ae01.alicdn.com/kf/A4c2c8941f0e945cebcf0c6304b60ce61W.jpg"
+  },
+  {
+    "name": "Манометр Wika Druckmessgerat",
+    "id": "ID:1005004320612548",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/Abf34278a2e3c46c08954d097209313f2T.jpg"
+  },
+  {
+    "name": "Модуль Siemens 6ES5700-8MA11",
+    "id": "ID:1005004320615526",
+    "price": 6100,
+    "img": "http://ae01.alicdn.com/kf/Acae207be4d1640c1aa982d9b2b879f66Z.jpg"
+  },
+  {
+    "name": "Реле давления Dungs GW 150 A6",
+    "id": "ID:1005004320616474",
+    "price": 4600,
+    "img": "http://ae01.alicdn.com/kf/A726e8f26c7c34c6c922a7e8bfde3a2395.jpg"
+  },
+  {
+    "name": "Преобразователь давления Siemens SITRANS P 7MF4433-1CA02-1AB7-Z",
+    "id": "ID:1005004320616478",
+    "price": 86000,
+    "img": "http://ae01.alicdn.com/kf/Af3cfdfe129944fbbb5076d828c8f1b68O.jpg"
+  },
+  {
+    "name": "Блок питания Siemens Sitop 6EP1336-3BA00-8AA0",
+    "id": "ID:1005004320617488",
+    "price": 36000,
+    "img": "http://ae01.alicdn.com/kf/U3cfba90477d24d8784b6c1976558aa08E.jpg"
+  },
+  {
+    "name": "Модуль Pilz PNOZ mc1p",
+    "id": "ID:1005004320618517",
+    "price": 31000,
+    "img": "http://ae01.alicdn.com/kf/A2ff228109ea64686a2a1e6213ca1feb61.jpg"
+  },
+  {
+    "name": "Камера Sony XC-ST50CE с объективом",
+    "id": "ID:1005004320619500",
+    "price": 11000,
+    "img": "http://ae01.alicdn.com/kf/Aaefd44b5c5d944e2a2d66c9d3db40ad4D.jpeg"
+  },
+  {
+    "name": "Реле Siemens 3UG9050-0AA10",
+    "id": "ID:1005004320622467",
+    "price": 21000,
+    "img": "http://ae01.alicdn.com/kf/A154273b353b54e97bf95a815feb1e1c6l.jpg"
+  },
+  {
+    "name": "Монитор Siemens Sirec D300 7ND4421-1aa01-1AA1",
+    "id": "ID:1005004320622468",
+    "price": 76000,
+    "img": "http://ae01.alicdn.com/kf/A4bed0e6595354c6ca5e4ce42b73e4679H.jpg"
+  },
+  {
+    "name": "Контактор Siemens 3RT1015-1BB42",
+    "id": "ID:1005004320623470",
+    "price": 2100,
+    "img": "http://ae01.alicdn.com/kf/A82e17085420f40d29de8e1df96fa49fcb.jpg"
+  },
+  {
+    "name": "Модуль Siemens 7KG6113-2AN24-0B",
+    "id": "ID:1005004320624450",
+    "price": 51000,
+    "img": "http://ae01.alicdn.com/kf/A4f74010b52854dd1a680e422cab346208.jpg"
+  },
+  {
+    "name": "Модуль Berthold D7547 Wildbad LB 323-1",
+    "id": "ID:1005004320625445",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/A28f586dfb97345568bf97f3a487cfa94Q.jpg"
+  },
+  {
+    "name": "Блок питания Siemens Sitop modular 6EP1 333-3BA00",
+    "id": "ID:1005004320626457",
+    "price": 21000,
+    "img": "http://ae01.alicdn.com/kf/A4b93d6aaad6b49479788367189ae95bbK.jpg"
+  },
+  {
+    "name": "Полупроводниковый контактор Siemens 3RF2310-1BA02",
+    "id": "ID:1005004320626466",
+    "price": 5800,
+    "img": "http://ae01.alicdn.com/kf/Ad635fcefeccc4400b6a2bf56dd8bc96cW.jpg"
+  },
+  {
+    "name": "Мотор Nanotec PD4-N5918L4204 Servo Motor",
+    "id": "ID:1005004320627397",
+    "price": 21000,
+    "img": "http://ae01.alicdn.com/kf/A054eb98b21d64c629793d3e4ee2a4298K.jpg"
+  },
+  {
+    "name": "Цифровой модуль ввода-вывода Siemens 6ES5 482-8MA13 SIMATIC S5",
+    "id": "ID:1005004320627398",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/A4759d0dcbd5e43549cef982ac03cc1c3r.jpg"
+  },
+  {
+    "name": "Модуль питания Simodrive 611 power module 6SN1123-1AA00-0BA0",
+    "id": "ID:1005004320628373",
+    "price": 67000,
+    "img": "http://ae01.alicdn.com/kf/Aef9e2332cd6843d5bab676ac63e10f79R.jpg"
+  },
+  {
+    "name": "Блок питания Siemens SITOP Power PSU300M 6EP1437-3BA10",
+    "id": "ID:1005004320632364",
+    "price": 36000,
+    "img": "http://ae01.alicdn.com/kf/A9a54e797197546b7a5e5e08185765a8fX.jpg"
+  },
+  {
+    "name": "Самописец Yokogawa Hybrid Recorder Hr2400",
+    "id": "ID:1005004320632367",
+    "price": 87000,
+    "img": "http://ae01.alicdn.com/kf/A44bb0165bf0a40e7a82ed764e7a68427k.jpg"
+  },
+  {
+    "name": "Плавкая вставка Siemens NEOZED 5SE2302",
+    "id": "ID:1005004320632370",
+    "price": 160,
+    "img": "http://ae01.alicdn.com/kf/Af37de38886bd41fb8ef9987fae9d976dv.jpg"
+  },
+  {
+    "name": "Выключатель автоматический Siemens 3RV1011-1EA10",
+    "id": "ID:1005004320632375",
+    "price": 3600,
+    "img": "http://ae01.alicdn.com/kf/A558b9351fac245ccacd9f594ab2cf8bah.jpg"
+  },
+  {
+    "name": "Блок питания Siemens SIMATIC S7-400 6ES7405-0KA02-0AA0",
+    "id": "ID:1005004320635358",
+    "price": 46000,
+    "img": "http://ae01.alicdn.com/kf/A58316dbfca634c5c9416ba4fc7c0ee6ea.jpg"
+  },
+  {
+    "name": "Ротаметр Yokogawa Rotameters",
+    "id": "ID:1005004320636347",
+    "price": 21000,
+    "img": "http://ae01.alicdn.com/kf/Ad4cc096f1a4946d099079bbcaab672e31.jpg"
+  },
+  {
+    "name": "Реле безопасности Moeller ESR4-NO-31 24 V AC/DC",
+    "id": "ID:1005004320636348",
+    "price": 14000,
+    "img": "http://ae01.alicdn.com/kf/Aa2e542a087e54f818438e05c2ac6d0c6j.jpg"
+  },
+  {
+    "name": "Двухдвигательный модуль Siemens Sinamics 6SL3120-2TE21-0AA3",
+    "id": "ID:1005004320637314",
+    "price": 134000,
+    "img": "http://ae01.alicdn.com/kf/A67ab0a3c29044a70b3114db883c3bb78T.jpg"
+  },
+  {
+    "name": "Реле Siemens 3TK2801-0DB4",
+    "id": "ID:1005004320638273",
+    "price": 36000,
+    "img": "http://ae01.alicdn.com/kf/Aeab9f8362bd647d99538a92887e28ad5Y.jpg"
+  },
+  {
+    "name": "Амперметр GMW Digem 96x24 B5 A1375",
+    "id": "ID:1005004320639298",
+    "price": 14000,
+    "img": "http://ae01.alicdn.com/kf/A32d7cdac2bdd4649a9a033838891d3399.jpg"
+  },
+  {
+    "name": "Монтажная стойка Siemens SIMATIC S7-400 6ES7400-1TA01-0AA0",
+    "id": "ID:1005004320639300",
+    "price": 41000,
+    "img": "http://ae01.alicdn.com/kf/A36e0aa6174414f439f2e649152ee50bau.jpg"
+  },
+  {
+    "name": "Плата реле Siemens 6DR2804-8A",
+    "id": "ID:1005004320640295",
+    "price": 21000,
+    "img": "http://ae01.alicdn.com/kf/Ac3214eb052f547e799af2c70179ebfb2F.jpg"
+  },
+  {
+    "name": "Преобразователь давления Siemens SITRANS P 7mf4433-1ba22-1ab7-z y01+y21",
+    "id": "ID:1005004320640301",
+    "price": 81000,
+    "img": "http://ae01.alicdn.com/kf/A5d5adcb411b44f03bb1a564bf72842bfJ.jpg"
+  },
+  {
+    "name": "Контактор Siemens 3TK2807-0BB4",
+    "id": "ID:1005004320642275",
+    "price": 51000,
+    "img": "http://ae01.alicdn.com/kf/Ae71c981c85a14afaac9f602df9eb2d62u.jpg"
+  },
+  {
+    "name": "Электронный модуль ITW Packaging Systems Group D-40721 Hilden OB360",
+    "id": "ID:1005004320642293",
+    "price": 198000,
+    "img": "http://ae01.alicdn.com/kf/A8b61fa0ec4394a40a376fa99ca047999y.jpg"
+  },
+  {
+    "name": "Преобразователь Siemens Sitrans MAG 5000 7ME6910-1AA10-1AA0",
+    "id": "ID:1005004320643245",
+    "price": 61000,
+    "img": "http://ae01.alicdn.com/kf/A6a14e289ed2543ecbf41e9f3e3cfe987P.jpg"
+  },
+  {
+    "name": "Блок питания Siemens PS307 SIMATIC S7",
+    "id": "ID:1005004320644266",
+    "price": 9000,
+    "img": "http://ae01.alicdn.com/kf/A093311489680420bba492c68a76857297.jpg"
+  },
+  {
+    "name": "Панель оператора Siemens 3UF7200-1AA00-0",
+    "id": "ID:1005004320646259",
+    "price": 9000,
+    "img": "http://ae01.alicdn.com/kf/A8a3abcb162da409598217e6a7bf63cccX.jpg"
+  },
+  {
+    "name": "Модуль Siemens SIMATIC S7-300 PS307",
+    "id": "ID:1005004320647202",
+    "price": 8000,
+    "img": "http://ae01.alicdn.com/kf/A9557eef318bd4f71add199f5caadd050y.jpg"
+  },
+  {
+    "name": "Реле контроля напряжения ABB CM-ESN 1SVR450221R0200",
+    "id": "ID:1005004320647203",
+    "price": 9000,
+    "img": "http://ae01.alicdn.com/kf/Af7d9c2c2efb942a9b2fa985344aaac7eI.jpg"
+  },
+  {
+    "name": "Центральный процессор Siemens SIMATIC 6ES7315-2AF03-0AB0",
+    "id": "ID:1005004320648176",
+    "price": 36000,
+    "img": "http://ae01.alicdn.com/kf/Af635a3b4abb0433e97f54ca3902c3fc4B.jpg"
+  },
+  {
+    "name": "Модуль измерения тока Siemens 3UF7100-1AA00-0",
+    "id": "ID:1005004320649203",
+    "price": 8100,
+    "img": "http://ae01.alicdn.com/kf/Add9482c42bec43abbb806bcb2a362cf30.jpg"
+  },
+  {
+    "name": "Автоматический выключатель Eaton LZM 2",
+    "id": "ID:1005004320649209",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/A9411f748a0ec4df2a2fd05e7d3fa3342W.jpg"
+  },
+  {
+    "name": "Расширение ввода-вывода Pilz Pnoz mo1p",
+    "id": "ID:1005004320650166",
+    "price": 27000,
+    "img": "http://ae01.alicdn.com/kf/Uf6061e6a16d9462dbb1b2905a06316e0n.jpg"
+  },
+  {
+    "name": "Блок питания Lenze EMB9342-E SERVO INVERTER 33.9342-E",
+    "id": "ID:1005004320650168",
+    "price": 56000,
+    "img": "http://ae01.alicdn.com/kf/Ab278460cf1484cb1b36ab7cb6c879f2e2.jpg"
+  },
+  {
+    "name": "Турбинный счетчик газа RMG TERZ 94",
+    "id": "ID:1005004320650171",
+    "price": 98000,
+    "img": "http://ae01.alicdn.com/kf/Aac755e3350b8434db9c0a440c237c2dd6.jpg"
+  },
+  {
+    "name": "Блок питания Siemens SIMATIC S5 6ES5 951-7LB21",
+    "id": "ID:1005004320653111",
+    "price": 29000,
+    "img": "http://ae01.alicdn.com/kf/A8dcef3b2384c46eda153e28cbdc6c528u.jpg"
+  },
+  {
+    "name": "Контроллер Siemens SIMATIC S7 DP 6ES7153-1AA03-0XB0",
+    "id": "ID:1005004320653112",
+    "price": 36000,
+    "img": "http://ae01.alicdn.com/kf/Aa9bb458390994f31ab49e66ae3aa00beN.jpg"
+  },
+  {
+    "name": "Панель оператора Siemens Simatic TP 177A 6AV6642-0AA11-0AX0",
+    "id": "ID:1005004320655070",
+    "price": 67000,
+    "img": "http://ae01.alicdn.com/kf/A66a9ea005f8e4e8286e64fe867a236722.jpg"
+  },
+  {
+    "name": "Цифровой модуль Siemens SIMATIC S5 DIGITAL INPUT MODULE 6ES5 434-7LA12│",
+    "id": "ID:1005004320655071",
+    "price": 36000,
+    "img": "http://ae01.alicdn.com/kf/Af4c97a61b617452fa0df48d635f9f026x.jpg"
+  },
+  {
+    "name": "Модуль Witt MFS 2-Kanal Auswerteeinheit",
+    "id": "ID:1005004320655078",
+    "price": 46000,
+    "img": "http://ae01.alicdn.com/kf/A4958dfadf2c7484d8918eaf664b7fc399.jpg"
+  },
+  {
+    "name": "Сетевой фильтр Siemens SIMODRIVE 611 Basic LINE FILTER 6SL3000-0BE21-6DA0",
+    "id": "ID:1005004320658053",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/Ae4fc1d890e714a9d950aee6ec04ebbfcS.jpg"
+  },
+  {
+    "name": "Регулятор частоты Reo-Elektronik REOVIB-MFS-268",
+    "id": "ID:1005004320658055",
+    "price": 71000,
+    "img": "http://ae01.alicdn.com/kf/A3df98b26319449a1909754e12c48fd23i.jpg"
+  },
+  {
+    "name": "Фильтр Roxburgh IHF 25 Line Filter",
+    "id": "ID:1005004320659056",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/Af8dce8eb00214071a69ce42719054003A.jpg"
+  },
+  {
+    "name": "Электронный модуль Hiednhain PGM 246 181-01",
+    "id": "ID:1005004320659069",
+    "price": "54444,00-77778,00",
+    "img": "http://ae01.alicdn.com/kf/A33100c8fe1c344b3be21d271741baca2z.jpg"
+  },
+  {
+    "name": "Ротаметр Kobold KDM-VD80W23H0O",
+    "id": "ID:1005004376162971",
+    "price": 18000,
+    "img": "http://ae01.alicdn.com/kf/Abb23bb735a014a9f830a49e46d00a00cn.jpg"
+  },
+  {
+    "name": "Алмазный круг. 200 40 5 76 40/28",
+    "id": "ID:1005004532381954",
+    "price": 6800,
+    "img": "http://ae01.alicdn.com/kf/A30bea1ec1e2d46dcacb796a3fe31ef41B.png"
+  },
+  {
+    "name": "Частотный преобразователь Danfoss VLT FC-302P18KT5E20H",
+    "id": "ID:1005004635244648",
+    "price": 172000,
+    "img": "http://ae01.alicdn.com/kf/A93cba94fd1b1438dbfe04791c07f9ddcx.jpg"
+  },
+  {
+    "name": "Частотный преобразовательLenzeECSEP004C4B",
+    "id": "ID:1005004647055987",
+    "price": 31000,
+    "img": "http://ae01.alicdn.com/kf/A9bd087f7d7f74f819cd1a476c3e7665eo.jpg"
+  },
+  {
+    "name": "Частотный преобразовательLenzeECSEE040C4B",
+    "id": "ID:1005004647058942",
+    "price": 41000,
+    "img": "http://ae01.alicdn.com/kf/A3c4f30dec34e4e8290c030c58230bd3f6.jpg"
+  },
+  {
+    "name": "Фильтр Lenze ELM3-014H010",
+    "id": "ID:1005004647067878",
+    "price": 57000,
+    "img": "http://ae01.alicdn.com/kf/A49ca1450f10348088cf125bbf04c44b4H.jpg"
+  },
+  {
+    "name": "Частотный преобразователь LenzeECSES008C4B",
+    "id": "ID:1005004647067880",
+    "price": 32000,
+    "img": "http://ae01.alicdn.com/kf/A8c47241a01e74fec86d1335cc36320fbG.jpg"
+  },
+  {
+    "name": "Преобразователь частоты LenzeE82EV371 2B",
+    "id": "ID:1005004647076799",
+    "price": 14000,
+    "img": "http://ae01.alicdn.com/kf/Ade9cd91650b242fba683a6ef32930ac77.jpg"
+  },
+  {
+    "name": "Фильтр Lenze E82ZM22232B",
+    "id": "ID:1005004647103594",
+    "price": 9000,
+    "img": "http://ae01.alicdn.com/kf/A2d0ae61924264a72876039cc072f0519G.jpg"
+  },
+  {
+    "name": "Фильтр Lenze EZN3A0088H024",
+    "id": "ID:1005004647106580",
+    "price": 18000,
+    "img": "http://ae01.alicdn.com/kf/A49ca1450f10348088cf125bbf04c44b4H.jpg"
+  },
+  {
+    "name": "Частотный преобразователь Lenze EVF 8214-E",
+    "id": "ID:1005004647113533",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/A8b0f6afd21ca45ef8b4786550e375010k.jpg"
+  },
+  {
+    "name": "Серводвигатель Lenze MDSKSRS056-33",
+    "id": "ID:1005004647122406",
+    "price": 28000,
+    "img": "http://ae01.alicdn.com/kf/U8a47fceee56541b19955926a1c0691c8E.jpg"
+  },
+  {
+    "name": "Частотный преобразователь Lenze ECSES032C4B",
+    "id": "ID:1005004647132329",
+    "price": 68000,
+    "img": "http://ae01.alicdn.com/kf/A9bd087f7d7f74f819cd1a476c3e7665eo.jpg"
+  },
+  {
+    "name": "Фильтр Lenze E82ZM22234B",
+    "id": "ID:1005004647137373",
+    "price": 9000,
+    "img": "http://ae01.alicdn.com/kf/A03ed0e2a539b480d95ece8386bd3635ef.jpg"
+  },
+  {
+    "name": "Датчик уровня Endress Hauser Liquipoint T FTW31-A1A3DA4A",
+    "id": "ID:1005004647239993",
+    "price": 14000,
+    "img": "http://ae01.alicdn.com/kf/A762aa1e3295f4cacadba25cda0a12fddk.jpg"
+  },
+  {
+    "name": "Датчик уровня Endress Hauser Nivocompact FTC 130",
+    "id": "ID:1005004647246883",
+    "price": 22222,
+    "img": "http://ae01.alicdn.com/kf/A0e4a334cde0542b9930837105a073240Y.jpg"
+  },
+  {
+    "name": "Преобразователь Oppermann KLK100-N",
+    "id": "ID:1005004647253894",
+    "price": 21000,
+    "img": "http://ae01.alicdn.com/kf/Ab388a4d5aa0849d2ba73823997600bd2A.jpg"
+  },
+  {
+    "name": "Датчик уровня Endress Hauser Liquicap T FMI21-A1A1C1",
+    "id": "ID:1005004647272708",
+    "price": 46000,
+    "img": "http://ae01.alicdn.com/kf/A05cf71129d8145949aa0f02bef9982811.jpg"
+  },
+  {
+    "name": "Датчик уровня Endress Hauser NIVOPILOT VS1",
+    "id": "ID:1005004647285634",
+    "price": 22222,
+    "img": "http://ae01.alicdn.com/kf/Abec768ec86734028b4f5a92c48b000c1H.jpg"
+  },
+  {
+    "name": "Датчик уровня Endress Hauser Nivocompact FTW 130",
+    "id": "ID:1005004647313383",
+    "price": 22222,
+    "img": "http://ae01.alicdn.com/kf/A56e0257c5bf84a2bbb032678a36fae56U.jpg"
+  },
+  {
+    "name": "Алмазный круг 1A1 200 40 5 76 40/28",
+    "id": "ID:1005004647900889",
+    "price": 6800,
+    "img": "http://ae01.alicdn.com/kf/Ac8cde3bebb8249b796df070a81cd5450B.jpg"
+  },
+  {
+    "name": "Модуль Pilz PNOZ mo4p",
+    "id": "ID:1005004647906919",
+    "price": 27000,
+    "img": "http://ae01.alicdn.com/kf/A8cbbc838693141cc994bc34737f52d15W.jpg"
+  },
+  {
+    "name": "Процессор Siemens Simatic 6ES5470-7LA13",
+    "id": "ID:1005004647945992",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab9ad82d33dc34c45b8ee52e718ef51f86.jpg"
+  },
+  {
+    "name": "Модуль вывода Siemens Simatic 6ES7323-1BH00-0AA0",
+    "id": "ID:1005004647945999",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Af78c7251ff28484eb49b73f1c5975717k.jpg"
+  },
+  {
+    "name": "Алмазный круг 1A1 150 20 3 32 40/28",
+    "id": "ID:1005004647949505",
+    "price": 3800,
+    "img": "http://ae01.alicdn.com/kf/Abc83894584ed46c184c1961b648fe9f63.jpg"
+  },
+  {
+    "name": "Пневмоцилиндр Camozzi 61M2P040A0100",
+    "id": "ID:1005004647951968",
+    "price": 3800,
+    "img": "http://ae01.alicdn.com/kf/A684e2037d9c844dba6ca8468759c816fP.jpg"
+  },
+  {
+    "name": "Модуль Siemens Simatic 6ES7422-1BH11-0AA0",
+    "id": "ID:1005004647953976",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A379e58b20133421b8b70ec1fe0456e0dd.jpg"
+  },
+  {
+    "name": "Пневмоцилиндр JACOB 288957",
+    "id": "ID:1005004647958943",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A1e172ed4675d43b980b395651017c14eR.jpg"
+  },
+  {
+    "name": "Модуль Siemens Simodrive 6SN1123-1AA00-0BA0",
+    "id": "ID:1005004647960905",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ae430ed14cc8943f294debb541e394289x.jpg"
+  },
+  {
+    "name": "Центральный процессор Siemens Simatic 6ES7315-2AF03-0AB0",
+    "id": "ID:1005004647961867",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A43f87798d59f4539bde425f1d31a0010Z.jpg"
+  },
+  {
+    "name": "Блок питания Siemens Simatic 6ES7407-0RA02-0AA0",
+    "id": "ID:1005004647962898",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5311395c07d54e98ada6385d83dc7f3cy.jpg"
+  },
+  {
+    "name": "Модуль счета Siemens Simatic 6ES7350-1AH01-0AE0",
+    "id": "ID:1005004647965883",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A6da5914cabcd4e189ad6b9dc0769e7cdd.jpg"
+  },
+  {
+    "name": "Алмазный круг 1A1 100 20 3 40/28",
+    "id": "ID:1005004647966339",
+    "price": 3400,
+    "img": "http://ae01.alicdn.com/kf/Adcfe77ee469545ee99ae147a054e340cF.jpg"
+  },
+  {
+    "name": "Блок питания Siemens SITOP 6EP1437-3BA10",
+    "id": "ID:1005004647966864",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Abd479e669b10466dab5881ecfafa82385.jpg"
+  },
+  {
+    "name": "Блок питания Siemens Simatic 6ES7307-1BA00-0AA0",
+    "id": "ID:1005004647967827",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A47fcc73b4f19479bae3ca14ee81def02u.jpg"
+  },
+  {
+    "name": "Измеритель тока Siemens SIMOCODE Pro 3UF7100-1AA00-0",
+    "id": "ID:1005004647969799",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ae400e7f6741147bebf2fdaf48e8d35f2t.jpg"
+  },
+  {
+    "name": "Модуль ввода Siemens Simatic 6ES7323-1BL00-0AA0",
+    "id": "ID:1005004647970850",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab6fceef7b27d4c85ad05d966cbc8f93eH.jpg"
+  },
+  {
+    "name": "Частотный преобразователь Danfoss VLT 302P15KT5E20H",
+    "id": "ID:1005004647971295",
+    "price": 490000,
+    "img": "http://ae01.alicdn.com/kf/Aded29f698366415d8ce60f1827098eacV.jpg"
+  },
+  {
+    "name": "Модуль Pilz PNOZ mi1p",
+    "id": "ID:1005004647979302",
+    "price": 27000,
+    "img": "http://ae01.alicdn.com/kf/Af0bfde3aea8c4555adc1053cc7db39f0K.jpg"
+  },
+  {
+    "name": "Частотный преобразователь Danfoss VLT FC-302P18KT5E20H",
+    "id": "ID:1005004647981246",
+    "price": 490000,
+    "img": "http://ae01.alicdn.com/kf/Aded29f698366415d8ce60f1827098eacV.jpg"
+  },
+  {
+    "name": "Плавкая вставка Siemens Neozed D01",
+    "id": "ID:1005004647982744",
+    "price": 190,
+    "img": "http://ae01.alicdn.com/kf/A13edb76e808945f18690be35fa436d1cx.jpg"
+  },
+  {
+    "name": "Модуль Siemens Simatic 6ES7421-1BL01-0AA0",
+    "id": "ID:1005004647983810",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Adaa05ae5b6a34ae79c715f9c03ef8cd6f.jpg"
+  },
+  {
+    "name": "Центральный процессор Siemens Simatic 6ES7315-2AG10-0AB0",
+    "id": "ID:1005004647983819",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aa36c5b4766504eddb1975e83acaca5fc8.jpg"
+  },
+  {
+    "name": "Крупная техника",
+    "id": "ID:1005004647988205",
+    "price": 6400,
+    "img": "http://ae01.alicdn.com/kf/Ac8cde3bebb8249b796df070a81cd5450B.jpg"
+  },
+  {
+    "name": "Панель оператора Siemens SIMATIC TP 177B 6AV6642-0BD01-3AX0",
+    "id": "ID:1005004647989187",
+    "price": 298000,
+    "img": "http://ae01.alicdn.com/kf/A936ee11c32fe44fea212d63d8229b94a4.jpg"
+  },
+  {
+    "name": "Двухдвигательный модуль Siemens Sinamics 6SL3120-2TE21-0AA3",
+    "id": "ID:1005004647993642",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5a6f47fe80644b3db2ef1de11ab1dd88d.jpg"
+  },
+  {
+    "name": "Фильтр Siemens Filter 6SL3000-0BE21-6DA0",
+    "id": "ID:1005004647993647",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Add7f6817aeba42ad8bdb3508c15964a6r.jpg"
+  },
+  {
+    "name": "Плавкая вставка Siemens 3NA7822-NH000-gL/gG",
+    "id": "ID:1005004647993650",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A300e1e441f754c6f8d861ccca16a1bcd9.jpg"
+  },
+  {
+    "name": "Блок питания Siemens SITOP 6EP1333-3BA00",
+    "id": "ID:1005004647994667",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5a72cdfcb0e84db595eefd4411772162Z.jpg"
+  },
+  {
+    "name": "Блок питания Siemens Simatic 6ES7307-1EA00-0AA0",
+    "id": "ID:1005004647997627",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac6d1fa10e71141d7bc63071a570072ce1.jpg"
+  },
+  {
+    "name": "Плата Siemens Simodrive 6SN1114-0AA01-0AA0",
+    "id": "ID:1005004647998608",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A05d633a5eeeb4a1789dd2e84c97c0ea2s.jpg"
+  },
+  {
+    "name": "Процессор Siemens Simatic 6GK7343-1EX11-0XE0",
+    "id": "ID:1005004647998616",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A851dc769db64423ba77f32ace8e8c5deY.jpg"
+  },
+  {
+    "name": "Автоматический выключатель Siemens 3VU1300-1MF00",
+    "id": "ID:1005004647998617",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac911ca0544c848fd909a0c7877511b9ds.jpg"
+  },
+  {
+    "name": "Блок питания Siemens Simatic 6ES7405-0KA02-0AA0",
+    "id": "ID:1005004648001575",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad723634a6f2b415fbc2ece75b57c6612U.jpg"
+  },
+  {
+    "name": "Алмазный круг 1EE1 250 16 10 50/40",
+    "id": "ID:1005004648002105",
+    "price": 9800,
+    "img": "http://ae01.alicdn.com/kf/A41db8d641a9e4ac6a725129eb7144171a.jpg"
+  },
+  {
+    "name": "Реле Siemens 3TK2801-0DB4",
+    "id": "ID:1005004648002588",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A963c002650e04a19a415b4a96ca4fccdM.jpg"
+  },
+  {
+    "name": "Коммутатор Siemens Simatic 6GK5205-3BD00-2AB2",
+    "id": "ID:1005004648003575",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A882ea63707fb4ed389ef4850607b6cc3n.jpg"
+  },
+  {
+    "name": "Модуль ввода Siemens Simatic 6ES7331-7KF02-0AB0",
+    "id": "ID:1005004648004584",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A33089ad008c64641bbf5d381f28617663.jpg"
+  },
+  {
+    "name": "Контактор Siemens Sirius 3RT1015-1BB42",
+    "id": "ID:1005004648004588",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad31ea843e8824b179bfede6e9800c635I.jpg"
+  },
+  {
+    "name": "Процессор Siemens Simatic 6GK7443-1EX11-0XE0",
+    "id": "ID:1005004648004602",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A713d759ed92f4e04bec77b640e531306p.jpg"
+  },
+  {
+    "name": "Процессор Siemens Simatic 6ES5944-7UB21",
+    "id": "ID:1005004648006541",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Af3b9bb711c50473f997a52f26d189d52W.jpg"
+  },
+  {
+    "name": "Преобразователь Siemens Simeas 7KG6113-2AN27-0B",
+    "id": "ID:1005004648007513",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ae047fd60e33d487495cf15a6dfb8eebeq.jpg"
+  },
+  {
+    "name": "Интерфейсный модуль Siemens Simatic 6ES7153-1AA03-0XB0",
+    "id": "ID:1005004648007523",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Abbbcc4a3cf8f4592ac7a8eaa8e817b7dL.jpg"
+  },
+  {
+    "name": "Шинный модуль Siemens Simatic 6ES7195-7HB00-0XA0",
+    "id": "ID:1005004648010534",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A6eea71a1c27a4d3da31e73f25bf68fcb3.jpg"
+  },
+  {
+    "name": "Контактор Siemens 3ZX1012-ORH11-1AA1",
+    "id": "ID:1005004648011485",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A362135a9660a432080bd10d803cf062cX.jpg"
+  },
+  {
+    "name": "Интерфейсный модуль Siemens Simatic 6ES7153-2BA02-0XB0",
+    "id": "ID:1005004648011505",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A11ead5abd6c64ec6862094d076778e4ch.jpg"
+  },
+  {
+    "name": "Цоколь Siemens LZS:PT78730",
+    "id": "ID:1005004648013439",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A29f5f35b72e74c22bf7a824acb2abbe7c.jpg"
+  },
+  {
+    "name": "Блок питания Siemens SITOP 6EP1334-2AA00",
+    "id": "ID:1005004648015466",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad7547cdd2a2b4bb781c2b116a7af90c5a.jpg"
+  },
+  {
+    "name": "Блок питания Siemens LT-Modul (Simodrive) 6SN1118-0AA11-0AA0",
+    "id": "ID:1005004648016427",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Afe7dcdfd784143749f12b6cc279bd3b0L.jpg"
+  },
+  {
+    "name": "Пневмоцилиндр RACO SCHWELM 58332",
+    "id": "ID:1005004648017419",
+    "price": 18000,
+    "img": "http://ae01.alicdn.com/kf/Ad8305157d17c438fa71ce82a36b5506fX.jpg"
+  },
+  {
+    "name": "Блок доп. контактов Siemens Sirius 3RH1911-1HA22",
+    "id": "ID:1005004648022403",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A1486de90920d406280b44d6c503cb7552.jpg"
+  },
+  {
+    "name": "Реле Siemens LZX:PT370024",
+    "id": "ID:1005004648023403",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aeb48716d92734410b8f81168d1634071y.jpg"
+  },
+  {
+    "name": "Модуль вывода Siemens Simatic 6ES7322-1BH01-0AA0",
+    "id": "ID:1005004648025387",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aac24242508ad4338976ebe230048f2bcd.jpg"
+  },
+  {
+    "name": "Модуль позиционирования Siemens Simatic 6ES7353-1AH01-0AE0",
+    "id": "ID:1005004648035280",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aefdac0510a744b689b563dc082a50b156.jpg"
+  },
+  {
+    "name": "Интерфейсный модуль Siemens Simatic 6ES7153-2BA01-0XB0",
+    "id": "ID:1005004648035292",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A401e6f129a6a4252bc3237faf20a91caC.jpg"
+  },
+  {
+    "name": "Двухдвигательный модуль Siemens Sinamics 6SL3120-2TE21-0AA4",
+    "id": "ID:1005004648036295",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aec793e7f5699474bbe83d6e134b2643eV.jpg"
+  },
+  {
+    "name": "Патрон Siemens 3SB3400-1F",
+    "id": "ID:1005004648036303",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab7fb2b4645ce4ebd87f4aeda4dfd3c31C.jpg"
+  },
+  {
+    "name": "Автоматический выключатель Siemens 5SX21",
+    "id": "ID:1005004648036306",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A05275969da5f46c4a469b88c1318f736d.jpg"
+  },
+  {
+    "name": "Модуль Siemens Simatic 6ES7432-1HF00-0AB0",
+    "id": "ID:1005004648037289",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A6f8be14277024133836a45983f464590Z.jpg"
+  },
+  {
+    "name": "Комуникационный процессор Siemens Simatic 6GK1543-1AA01",
+    "id": "ID:1005004648040910",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A82e7e82c27804f22b2763d500ac5e42ew.jpg"
+  },
+  {
+    "name": "Контактный блок Siemens Sirius 3SB3400-0A",
+    "id": "ID:1005004648043213",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aae7c669c1f35416fb4544632378db9dfm.jpg"
+  },
+  {
+    "name": "Коммутатор Siemens Simatic 6GK5212-2BB00-2AA3",
+    "id": "ID:1005004648045174",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aea0a7b4db16c47c494b6646806c646c6l.jpg"
+  },
+  {
+    "name": "Шинный модуль Siemens Simatic 6ES7195-7HA00-0XA0",
+    "id": "ID:1005004648046175",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A850e0be13d4a4398b3d85d15fdd6d16dY.jpg"
+  },
+  {
+    "name": "Блок питания Siemens Simatic 6ES7307-1KA01-0AA0",
+    "id": "ID:1005004648049158",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A8b70518c79a94127b1dd6a8e39eae469o.jpg"
+  },
+  {
+    "name": "Пневмоцилиндр Festo DNC-50-250-PPV-A-EX4",
+    "id": "ID:1005004648050152",
+    "price": 31239,
+    "img": "http://ae01.alicdn.com/kf/A204de05c1d1a433a931ad17def5a6b81w.jpg"
+  },
+  {
+    "name": "Модуль счета Siemens Simatic 6ES7350-1AH02-0AE0",
+    "id": "ID:1005004648053155",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A905f64dca8a04146832d6dc29d9a14e6l.jpg"
+  },
+  {
+    "name": "Процессор Siemens Simatic 6ES5454-7LA12",
+    "id": "ID:1005004648053162",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A08a0e4391c134b2dbc1e47515f740437z.jpg"
+  },
+  {
+    "name": "Модуль памяти Siemens Simatic 6ES5376-1AA21",
+    "id": "ID:1005004648056128",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Add5b857775a14057b22fc6462e5bdfa9h.jpg"
+  },
+  {
+    "name": "Процессор Siemens Simatic 6GK7343-1EX10-0XE0",
+    "id": "ID:1005004648058080",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A20c865df3b9343c6912cf83cd0fee8e1Q.jpg"
+  },
+  {
+    "name": "Пневмоцилиндр Camozzi QCT2A020A075",
+    "id": "ID:1005004648059708",
+    "price": 6000,
+    "img": "http://ae01.alicdn.com/kf/A347e5375eeb14ede963ed60284079fe2n.jpg"
+  },
+  {
+    "name": "Автоматический выключатель Siemens Sirius 3RV1011-1EA10",
+    "id": "ID:1005004648061036",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ae1c35adf86f0498c8848be20c51f0eceK.jpg"
+  },
+  {
+    "name": "Пневмоцилиндр Camozzi 61M2P032A0050",
+    "id": "ID:1005004648062052",
+    "price": 2400,
+    "img": "http://ae01.alicdn.com/kf/A3bb5853c52e840d88e63db7dca648cf9F.jpg"
+  },
+  {
+    "name": "Плавкая вставка Siemens gL-gG (Сколько I ном?)",
+    "id": "ID: 1005004648062712",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac119952b02434f0cad36e55b04337ac7H.jpg"
+  },
+  {
+    "name": "Блок Siemens Simatic 6SN1227-2ED10-0HA0",
+    "id": "ID: 1005004648063047",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Adf9fa6df24fd409e9fc7ff6d818a6827Q.jpg"
+  },
+  {
+    "name": "Процессор Siemens Simatic 6ES5951-7LB21",
+    "id": "ID: 1005004648063051",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A3311f48ca7674c96b4c4e383c00069a9N.jpg"
+  },
+  {
+    "name": "Процессор Siemens Simatic 6ES5434-7LA12",
+    "id": "ID: 1005004648066017",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A4c147be39e7f4e11a7d787416f9cf58ex.jpg"
+  },
+  {
+    "name": "Пневмоцилиндр JACOB 3300112",
+    "id": "ID: 1005004648066026",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad45fe8ff932f46fba3c2a0980b21bbfbF.jpg"
+  },
+  {
+    "name": "Управляющий модуль Siemens Sinamics 6SL3040-1MA00-0AA0",
+    "id": "ID: 1005004648067018",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A1130b25d15654c02bd0a8208b14b92409.jpg"
+  },
+  {
+    "name": "Реле Siemens 3UG9050-0AA10",
+    "id": "ID: 1005004648067029",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A58fdd91341ac4429a887bcc338134216M.jpg"
+  },
+  {
+    "name": "Модуль ввода-вывода Siemens Simatic 6ES5482-8MA13",
+    "id": "ID: 1005004648070010",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Afb0d5b7d026f41e59165aff5921491b6d.jpg"
+  },
+  {
+    "name": "Передатчик Siemens Simeas 7KG6113-2AN24-0B",
+    "id": "ID: 1005004648108355",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A02cdb61c8f5f4011a9f7304d6a095282l.jpg"
+  },
+  {
+    "name": "Пневмоцилиндр NORGREN TSM/950/250",
+    "id": "ID: 1005004648116317",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A8c5c026b76a04026b1d0c1af8cb13c88K.jpg"
+  },
+  {
+    "name": "Пневмоцилиндр Festo DZH-40-25-PPV-A",
+    "id": "ID: 1005004648125253",
+    "price": 18000,
+    "img": "http://ae01.alicdn.com/kf/Aed4e0e96946f4344bef7281f8e9e9130W.jpg"
+  },
+  {
+    "name": "Модуль Siemens Simatic 6ES7421-7BH01-0AB0",
+    "id": "ID: 1005004648148068",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A0424e10f3500471593ad917350bbb8b6C.jpg"
+  },
+  {
+    "name": "Модуль ввода Siemens Simatic 6ES7331-7KF01-0AB0",
+    "id": "ID: 1005004648151047",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A0230c5df80294a10830488802342b934v.jpg"
+  },
+  {
+    "name": "Фильтр магистральный BOGE F 745 FP",
+    "id": "ID: 1005004648151982",
+    "price": 395770,
+    "img": "http://ae01.alicdn.com/kf/Abbe1a610fb6b4acca9b5bd5f715ddd88n.jpg"
+  },
+  {
+    "name": "Манометр WIKA 0-160 mbar EN837-? Cl 1.6",
+    "id": "ID: 1005004648153946",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A36f5e439380a42d09e368ed0e958263aQ.jpg"
+  },
+  {
+    "name": "Кран North American MFG 1004-4C",
+    "id": "ID: 1005004648154993",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab06611d190874d5fa99a018605e4bc1ev.jpg"
+  },
+  {
+    "name": "Асинхронный двигатель Dunkermotoren DR62.0 0 x 60-2 SNR 88183 05312",
+    "id": "ID: 1005004648154995",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ae366922227394d669b3c0c793969dd14n.jpg"
+  },
+  {
+    "name": "Сигнальная лампа Siemens Sirius 3SB3001-6AA60",
+    "id": "ID: 1005004648155002",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab62addd084c742ab9f61868fab912526F.jpg"
+  },
+  {
+    "name": "Фильтр Zander KT 2016M",
+    "id": "ID: 1005004648155927",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Adc9802f5bb8a4ac8b7124653577b6248s.jpg"
+  },
+  {
+    "name": "Кран North American MFG 1004-4C",
+    "id": "ID: 1005004648155928",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab06611d190874d5fa99a018605e4bc1ev.jpg"
+  },
+  {
+    "name": "Генератор MAN R8V16/18",
+    "id": "ID: 1005004648155972",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A15f6693e5a94482db56aee3966a95541E.jpg"
+  },
+  {
+    "name": "Датчик индуктивный Siemens 3RG4031-6AD00",
+    "id": "ID: 1005004648158987",
+    "price": 9215,
+    "img": "http://ae01.alicdn.com/kf/Ac876f9414a4a43f086ea12ab0f2e1704F.jpg"
+  },
+  {
+    "name": "Регулятор давления Festo MS6-LR-1/2-D6-AS",
+    "id": "ID: 1005004648159877",
+    "price": 3209,
+    "img": "http://ae01.alicdn.com/kf/Ac6c032d1bcb545069ff40b2db203a25d9.jpg"
+  },
+  {
+    "name": "Исполнительный механизм ЗЗИМ ПР-1М",
+    "id": "ID: 1005004648160838",
+    "price": 1990,
+    "img": "http://ae01.alicdn.com/kf/A2dd5f0add6b849c5af3202a2235f3f09B.jpg"
+  },
+  {
+    "name": "Источник ПТ SEW Eurodrive MLU 11A",
+    "id": "ID: 1005004648160876",
+    "price": 5180,
+    "img": "http://ae01.alicdn.com/kf/A9e18c5b739cc4ec5b9b5c46ec6bf8918U.jpg"
+  },
+  {
+    "name": "Манометр WIKA 0-10 bar",
+    "id": "ID: 1005004648160883",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad04c6b51e82d4c24840b6a90e02f1550j.jpg"
+  },
+  {
+    "name": "Фильтр Grunbeck Wasseraufbereitung GENO FM 50 102100",
+    "id": "ID: 1005004648165784",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A0a990723ad1d49949ef727ec96585ddfL.jpg"
+  },
+  {
+    "name": "Гидроклапан Honeywell Braunmann S245 A-1/2",
+    "id": "ID: 1005004648168827",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ae9f8cf8c53e04ea2a2efe01fd9cd417f5.jpg"
+  },
+  {
+    "name": "Редуктор Nord SK 300F 63 S/4 TF",
+    "id": "ID: 1005004648169778",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A29abf6a31bf24400a6303b9079af404bO.jpg"
+  },
+  {
+    "name": "Двигатель Nord SK 63S/4 TF",
+    "id": "ID: 1005004648170756",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A29abf6a31bf24400a6303b9079af404bO.jpg"
+  },
+  {
+    "name": "Редуктор асинхронный двигатель ТНП РЧУ-80а",
+    "id": "ID: 1005004648171757",
+    "price": 30000,
+    "img": "http://ae01.alicdn.com/kf/Afe5732f8cc0348fbad46a36c256b76014.jpg"
+  },
+  {
+    "name": "ОДИНАРНЫЙ ЭЛЕКТРОМАГНИТНЫЙ КЛАПАН HERION 2631021",
+    "id": "ID: 1005004648179682",
+    "price": 7161,
+    "img": "http://ae01.alicdn.com/kf/Ab84da7fb360d40a59ce4585a8fdf5ca9m.jpg"
+  },
+  {
+    "name": "Насос KSB ETB 065-050-200",
+    "id": "ID: 1005004648180707",
+    "price": 162464,
+    "img": "http://ae01.alicdn.com/kf/A07adc0eedf054b2aa8f5b164e83112eeF.jpg"
+  },
+  {
+    "name": "Газовый клапан Kromschroder VAS3-/50R/NW",
+    "id": "ID: 1005004648181722",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac83c4bba42404ac8b5ac1bfba11285bdB.jpg"
+  },
+  {
+    "name": "Реле давления Kromscholder DG50U-3",
+    "id": "ID: 1005004648185622",
+    "price": 26300,
+    "img": "http://ae01.alicdn.com/kf/Acc658ee766124da1b1e97639ac8909851.jpg"
+  },
+  {
+    "name": "Датчик индуктивный Siemens 3RG4031-6AD00",
+    "id": "ID: 1005004648189655",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac876f9414a4a43f086ea12ab0f2e1704F.jpg"
+  },
+  {
+    "name": "Тахогенератор ТМГ-30 ТУ16-512.077-79",
+    "id": "ID: 1005004648194561",
+    "price": 1500,
+    "img": "http://ae01.alicdn.com/kf/Ab1a9e0bb1a6a4b4993d2957c95c163d8E.jpg"
+  },
+  {
+    "name": "Манометр WIKA 0-160 mbar EN837-? Cl 1.6",
+    "id": "ID: 1005004648194613",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A36f5e439380a42d09e368ed0e958263aQ.jpg"
+  },
+  {
+    "name": "Двигатель SEW Eurodrive WF30 DT71D4",
+    "id": "ID: 1005004648195567",
+    "price": 20958,
+    "img": "http://ae01.alicdn.com/kf/A0abecb5760544f8098bfa3f2eab5e9e5v.jpg"
+  },
+  {
+    "name": "Насос Grundfos UPS 50-180 F",
+    "id": "ID: 1005004648195605",
+    "price": 141255,
+    "img": "http://ae01.alicdn.com/kf/Ab373d78ff79444f38c151d633b6de91bn.jpg"
+  },
+  {
+    "name": "Счетчик Elster Kromschroder DM 65Z50-40",
+    "id": "ID: 1005004648198591",
+    "price": 748000,
+    "img": "http://ae01.alicdn.com/kf/A73d0d52730a84be9ac68a94a5e0ad4d87.jpg"
+  },
+  {
+    "name": "Манометр WIKA 0-10 bar Kl 1.0",
+    "id": "ID: 1005004648201579",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab0d1bb284ef0463fa5eee51017654f1cq.jpg"
+  },
+  {
+    "name": "Системный разъединитель Grunbeck DK2",
+    "id": "ID: 1005004648204541",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ae73985f515cd42f3971cb5363709ef86g.jpg"
+  },
+  {
+    "name": "Степпинг-машина Cyklop M-PAC3",
+    "id": "ID: 1005004648204550",
+    "price": 50311,
+    "img": "http://ae01.alicdn.com/kf/A71924004ff7b40d886a7cd92e121e9606.jpg"
+  },
+  {
+    "name": "Регулятор давления газа Medenus R 100 U",
+    "id": "ID: 1005004648206499",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad7a08e4bf92e4cf5a2be6344505edf34r.jpg"
+  },
+  {
+    "name": "Манометр VDO 0-10 bar",
+    "id": "ID: 1005004648208475",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad04c6b51e82d4c24840b6a90e02f1550j.jpg"
+  },
+  {
+    "name": "Счетчик Elster Kromschroder BK-G2,5 (Т)",
+    "id": "ID: 1005004648211474",
+    "price": 3800,
+    "img": "http://ae01.alicdn.com/kf/Adcdcbddc073b4cb9bd6f30dfc58c32cdE.jpg"
+  },
+  {
+    "name": "Преобразователь SEW Eurodrive MM05C-503-00",
+    "id": "ID: 1005004648213412",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ae8ae4a3dabe44dfa8b18d0ac7ba67bbfD.jpg"
+  },
+  {
+    "name": "Насос Wilo NF 80/2C-11",
+    "id": "ID: 1005004648213459",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Af6e4074e4a5146028fe62f890836c17a2.jpg"
+  },
+  {
+    "name": "Манометр WIKA 0-1 bar Kl 1.0",
+    "id": "ID: 1005004648214509",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac13514147f8d471a8d67064e9c43d27a6.jpg"
+  },
+  {
+    "name": "Манометр Tescom D50708-1000-00",
+    "id": "ID: 1005004648215476",
+    "price": 11676,
+    "img": "http://ae01.alicdn.com/kf/A5051ca39fcff4bfa874e5830034ec877i.jpg"
+  },
+  {
+    "name": "Инфракрасный термометр Ircon, Inc 2205F010 modline 4 серии 22",
+    "id": "ID: 1005004648220383",
+    "price": 21231,
+    "img": "http://ae01.alicdn.com/kf/Ac1a33ebbb7514cf0b17a3e0168bc3790x.jpg"
+  },
+  {
+    "name": "Пневмоцилиндр NORGREN TSM/950/250",
+    "id": "ID: 1005004648220426",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5383d5cab2ce4ffb94b3a4bda40099f1H.jpg"
+  },
+  {
+    "name": "Манометр Wika Din 1A012 Din 16006",
+    "id": "ID: 1005004648221428",
+    "price": 3936,
+    "img": "http://ae01.alicdn.com/kf/Ad5bbd0e2c5de45c6b73fc4e5306a7817o.jpg"
+  },
+  {
+    "name": "Клапан понижения давления Honeywell d06f DR",
+    "id": "ID: 1005004648223371",
+    "price": 6647,
+    "img": "http://ae01.alicdn.com/kf/Ac1a18f9f93f94dc29418f01547062c150.jpg"
+  },
+  {
+    "name": "Микрофильтр для технических газов Zander G 07 XPD",
+    "id": "ID: 1005004648223375",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Adc75c7e5ebeb4999bb4990bacf6d68e4o.jpg"
+  },
+  {
+    "name": "Редукционный клапан Festo LRP-1/4-07 159500",
+    "id": "ID: 1005004648225366",
+    "price": 4554,
+    "img": "http://ae01.alicdn.com/kf/A799f55f4a1f848f787cbc5740b969ccar.jpg"
+  },
+  {
+    "name": "Манометр для фильтров Honeywell D04FS - 16бар",
+    "id": "ID: 1005004648227392",
+    "price": 1780,
+    "img": "http://ae01.alicdn.com/kf/A44baf98c97ac4ac0879e1e37fedb9a47V.jpg"
+  },
+  {
+    "name": "ЭМ затвор Norgren H8L G1/2",
+    "id": "ID: 1005004648229321",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A0cc758a4f15b40b8a5c4db02e16c3b0ej.jpg"
+  },
+  {
+    "name": "Весы аналитические Techniprot WAGA Torsyjna-WT",
+    "id": "ID: 1005004648229367",
+    "price": 9999,
+    "img": "http://ae01.alicdn.com/kf/Aa4da57b7f0dc4cecae4c30219809d276A.jpg"
+  },
+  {
+    "name": "Клапан понижения давления DVGW RMG 917",
+    "id": "ID: 1005004648230353",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad7d55e4c8fe542e4b3cdbcab6a73441cE.jpg"
+  },
+  {
+    "name": "Расходомер Fischer Porter D10A3137N",
+    "id": "ID: 1005004648236256",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Abda954566e1d4546b04c77f58e5b569cp.jpg"
+  },
+  {
+    "name": "Клапан понижения давления Herion 2631021",
+    "id": "ID: 1005004648236308",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab84da7fb360d40a59ce4585a8fdf5ca9m.jpg"
+  },
+  {
+    "name": "Ручной клапан Festo Н-3-1/4-В",
+    "id": "ID: 1005004648236309",
+    "price": 21258,
+    "img": "http://ae01.alicdn.com/kf/Ade2fde53304748a9922f864e4b5c4921t.jpg"
+  },
+  {
+    "name": "Манометр Tecsis 0-10 bar EN837-1 Cl 1.0",
+    "id": "ID: 1005004648237254",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad04c6b51e82d4c24840b6a90e02f1550j.jpg"
+  },
+  {
+    "name": "Асинхронный двигатель, Электр. Тормоз и Мотор - Редуктор. Ас. Двиг: VEM Motors K21R 71 K 2",
+    "id": "ID: 1005004648239236",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A58a17651681a4dbe9f4096ef3da1e4f6k.jpg"
+  },
+  {
+    "name": "Мотор-Редуктор SEW Eurodrive SAF37-DT71D4",
+    "id": "ID: 1005004648241228",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Adc5a8ea1cf5942b1968f10acbfcf3ee9T.jpg"
+  },
+  {
+    "name": "Счетчик TYM 20B-1R x 5m",
+    "id": "ID: 1005004648243244",
+    "price": 16856,
+    "img": "http://ae01.alicdn.com/kf/Ae4b57138c5d9403ba87aa12367653048Q.jpg"
+  },
+  {
+    "name": "Манометр WIKA 0-100 mbar",
+    "id": "ID: 1005004648243253",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A36f5e439380a42d09e368ed0e958263aQ.jpg"
+  },
+  {
+    "name": "Двигатель Groschopp ED1 70",
+    "id": "ID: 1005004648244197",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A2e443b94b75643d38be145d242b7be7ed.jpg"
+  },
+  {
+    "name": "Двигатель ВАО-21-6У",
+    "id": "ID: 1005004648244238",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A8cab478cf59d4229b24dd94109918cb1x.jpg"
+  },
+  {
+    "name": "Система WITT Gasetechnik NG 4390 AL 0030",
+    "id": "ID: 1005004648244247",
+    "price": 14283,
+    "img": "http://ae01.alicdn.com/kf/A4cd70ba1c4b34ff892c84f2ac1c75c3cH.jpg"
+  },
+  {
+    "name": "Счетчик IWIS 16B-1 M1611 5m 1x17mm",
+    "id": "ID: 1005004648245212",
+    "price": 5313,
+    "img": "http://ae01.alicdn.com/kf/A332ba40da50b473ab99bc0a1961d71894.jpg"
+  },
+  {
+    "name": "Манометр WIKA EN 837-1",
+    "id": "ID: 1005004648249219",
+    "price": 1434,
+    "img": "http://ae01.alicdn.com/kf/A072f220f96244e07be660d053fe2d2e0c.jpg"
+  },
+  {
+    "name": "Кран Mont Selas 225/3 (?)",
+    "id": "ID: 1005004648249223",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A3fedee2d8e2d4f4786ac2da5cb8403c5i.jpg"
+  },
+  {
+    "name": "Заглушка AWG PVR 5/87-3",
+    "id": "ID: 1005004648250261",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A9af8cfdada1142dfb9b048adeeab5c32J.jpg"
+  },
+  {
+    "name": "Мотор-Редуктор S.T.M. RMI 63P 1/70",
+    "id": "ID: 1005004648253178",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Addfd7bd534d34ad4bccff0376ef4207b0.jpg"
+  },
+  {
+    "name": "Предохранитель Экопром 1.2-6-31,5-12,5 УХЛЗ",
+    "id": "ID: 1005004648255193",
+    "price": 478,
+    "img": "http://ae01.alicdn.com/kf/A71625170c8d34d2ebe6e0fd8d9b05ed62.jpg"
+  },
+  {
+    "name": "Клапан SPX WP-Qh/PN16/250cbm/H",
+    "id": "ID: 1005004648256140",
+    "price": 14120,
+    "img": "http://ae01.alicdn.com/kf/Aecab12a60d964559b7aa7379fa092699z.jpg"
+  },
+  {
+    "name": "Привод Keystone 14-102 GJL-250 DN 250",
+    "id": "ID: 1005004648258106",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A706075da42194c75b46c2d16e4df8f49C.jpg"
+  },
+  {
+    "name": "Фильтр тонкой очистки воды Honeywell F 76S 1AA",
+    "id": "ID: 1005004648259146",
+    "price": 29107,
+    "img": "http://ae01.alicdn.com/kf/Aecb05ffbe2904ec49c7224b4ab69eac14.jpg"
+  },
+  {
+    "name": "Регулятор давления Festo MS6-LR-1/2-D7-AS",
+    "id": "ID: 1005004648260113",
+    "price": 3209,
+    "img": "http://ae01.alicdn.com/kf/Ae68f1f2e544c4c9faf2edaca612a43ad7.jpg"
+  },
+  {
+    "name": "Кран Boehmer DN10 PN25",
+    "id": "ID: 1005004648261113",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A130b4cde5b1c4e37b2ba580a83fda8b6E.jpg"
+  },
+  {
+    "name": "Привод Keystone 796-036",
+    "id": "ID: 1005004648263094",
+    "price": 16745,
+    "img": "http://ae01.alicdn.com/kf/A28465e28806f4ac5b5b6e0553a315ad09.jpg"
+  },
+  {
+    "name": "Кран North American MFG 1004-C4",
+    "id": "ID: 1005004648264035",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab06611d190874d5fa99a018605e4bc1ev.jpg"
+  },
+  {
+    "name": "Электромагнитный клапан HOERBIGER KZ3673",
+    "id": "ID: 1005004648264085",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aa108a38cefa8428c8515aa19a4de6ad2x.jpg"
+  },
+  {
+    "name": "Манометр WIKA 0-160 mbar EN837-? Cl 1.6",
+    "id": "ID: 1005004648267007",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A36f5e439380a42d09e368ed0e958263aQ.jpg"
+  },
+  {
+    "name": "Счетчик RMG TERZ 94 DN50",
+    "id": "ID: 1005004648267047",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A60bd05a12c6e4ffba6a9acd01da47655E.jpg"
+  },
+  {
+    "name": "Насос ХЦМ 3-25 М",
+    "id": "ID: 1005004648276005",
+    "price": 133406,
+    "img": "http://ae01.alicdn.com/kf/A629f29ffc34443faa1ba213c20b9f0eda.jpg"
+  },
+  {
+    "name": "Ротаметр KROHNE h250/rr/m40/k1",
+    "id": "ID: 1005004648575644",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Adf87c74dd9074aec9b78fb6c17e7377a5.jpg"
+  },
+  {
+    "name": "Процессор Siemens Simatic 6ES5491-0LB11",
+    "id": "ID: 1005004648591042",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aeb6010a785924fc4a5fdaa47af061b97L.jpg"
+  },
+  {
+    "name": "Шаровой кран BEE KSN 75 PN16 B",
+    "id": "ID: 1005004650634992",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Adb18583a743e4a5ab469c978f30840e5W.jpg"
+  },
+  {
+    "name": "Контактор Siemens 3TK2807-0BB4",
+    "id": "ID: 1005004650639986",
+    "price": 228361,
+    "img": "http://ae01.alicdn.com/kf/A4a447ec0c0cb4883a4dcb81ebb59bd95c.jpg"
+  },
+  {
+    "name": "Привод Siemens Micro master 6SE3121-0DC40",
+    "id": "ID: 1005004650641931",
+    "price": 13012,
+    "img": "http://ae01.alicdn.com/kf/A316fa4558f5c4d4186d6c91765c7ec536.jpg"
+  },
+  {
+    "name": "Газовый вентиль Kromschroder vg 40/33 f1ont33",
+    "id": "ID: 1005004650644924",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A0af532b1da61465591ce4daaefadf0e8P.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Siemens M76344-2317-k408",
+    "id": "ID: 1005004650646948",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A4f0d401bc7df45f9b84ded56e23df70bv.jpg"
+  },
+  {
+    "name": "Шаговый мотор Leeds and Northrup Slo-Syn 017211 SS150-1005",
+    "id": "ID: 1005004650647866",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A014eb78ca6454aec9c6dc64939acc026Z.jpg"
+  },
+  {
+    "name": "Клапан регулирующий шаровой Pre vent BR11-1F670L2",
+    "id": "ID: 1005004650648980",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac5e5b078ad29420c806ebc4ecb5baa9cT.jpg"
+  },
+  {
+    "name": "Шланг Ersatzteile 300mm DN6 RS331",
+    "id": "ID: 1005004650652877",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A4fdf75bcd3e542a9bcf91317ee73e6b3X.jpg"
+  },
+  {
+    "name": "Задвижка Burbach 30DY MF 2001",
+    "id": "ID: 1005004650652933",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A6ce0a7cb4fa84940aedd4a0c5abbdf07v.jpg"
+  },
+  {
+    "name": "Система для измерения расхода Клапан: Swagelok TUV 278/03",
+    "id": "ID: 1005004650654965",
+    "price": 12533,
+    "img": "http://ae01.alicdn.com/kf/A1ebeefbf42444b39850da99032041c43e.jpg"
+  },
+  {
+    "name": "Пневмопривод Keystone F79E 024 DA",
+    "id": "ID: 1005004650656920",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5eb75d1fcb6c4684b0d8e5fb15b2bda4D.jpg"
+  },
+  {
+    "name": "Шаровой кран böhmer kugelhähne 6-din-DVGW",
+    "id": "ID: 1005004650658809",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab725eb6138a54abf858a696b10d86333o.jpg"
+  },
+  {
+    "name": "Регулятор давления Kromschroder gdj 25r04-0",
+    "id": "ID: 1005004650658916",
+    "price": 40500,
+    "img": "http://ae01.alicdn.com/kf/A5244ed2605c2482bb9975e3bb0e577dcl.jpg"
+  },
+  {
+    "name": "Задвижка böhmer kugelhähne 6-din-DVGW DN50 PN16",
+    "id": "ID: 1005004650659729",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A87aa55d9f3734e36b71d7ff90dddebc8W.jpg"
+  },
+  {
+    "name": "Шаровой кран Argus DN 10 PN 100 590847",
+    "id": "ID: 1005004650660772",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A49652175f965491cac256918e1b5b435v.jpg"
+  },
+  {
+    "name": "Силовой клапан Parker PVD-C3422",
+    "id": "ID: 1005004650660828",
+    "price": 13608,
+    "img": "http://ae01.alicdn.com/kf/A101ff3509eba44b9a0ffe8b787e128505.jpg"
+  },
+  {
+    "name": "Задвижка Keystone optiseal 14-102",
+    "id": "ID: 1005004650660853",
+    "price": 1707,
+    "img": "http://ae01.alicdn.com/kf/A8af39a40aea945f492e6d99676291a9aC.jpg"
+  },
+  {
+    "name": "Газовый вентиль Kromschroder vg 40/33 f1ont33",
+    "id": "ID: 1005004650660962",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A0af532b1da61465591ce4daaefadf0e8P.jpg"
+  },
+  {
+    "name": "Регулятор высокого давления RMG 100",
+    "id": "ID: 1005004650660970",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Af38721896b8a4209ba36ac69018b95b41.jpg"
+  },
+  {
+    "name": "Шаровой кран böhmer kugelhähne 6-din-DVGW DN50 PN16",
+    "id": "ID: 1005004650661820",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A1e218c2faa274c99bf71e4d6f55b1e811.jpg"
+  },
+  {
+    "name": "Фильтр газовый Kromschroder gfk 40",
+    "id": "ID: 1005004650661874",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A579e741b32054fe1beb82efcd1b6e1591.jpg"
+  },
+  {
+    "name": "Задвижка KSB AG 3G6K6 XU",
+    "id": "ID: 1005004650661944",
+    "price": 3780,
+    "img": "http://ae01.alicdn.com/kf/A62e3c51049624fc68d43a3653ef6cc21z.jpg"
+  },
+  {
+    "name": "Маслораспылитель Festo LOE-1/2-D-MIDI №159587",
+    "id": "ID: 1005004650662913",
+    "price": 11035,
+    "img": "http://ae01.alicdn.com/kf/Ae8ccce1acb074d2d8dc5cd2d62903ee92.jpg"
+  },
+  {
+    "name": "Best Hr. 200",
+    "id": "ID: 1005004650662919",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A9fa8001dddd04a60bd97bd5bbfbd53483.jpg"
+  },
+  {
+    "name": "Задвижка Ebro Armaturen z011 wn",
+    "id": "ID: 1005004650663800",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A24f38e5418f84dad87430340740c5653J.jpg"
+  },
+  {
+    "name": "Задвижка Ebro Z011 WN DN200 PN 6/10",
+    "id": "ID: 1005004650663813",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A999e3bcfebea4eada158da323f5e0ccaa.jpg"
+  },
+  {
+    "name": "Реле Murr Elektronik 3124049",
+    "id": "ID: 1005004650663936",
+    "price": 736,
+    "img": "http://ae01.alicdn.com/kf/Acd2afdc018ff48cfb98e37cc8067951cr.jpg"
+  },
+  {
+    "name": "Шаровой кран Arca vr DN50 PN40 1.0819/WCB",
+    "id": "ID: 1005004650665785",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aa394331902db44c7b71da0fdbaec6963C.jpg"
+  },
+  {
+    "name": "Задвижка KSB AG DVGW-W NW-6201AQ",
+    "id": "ID: 1005004650665982",
+    "price": 8000,
+    "img": "http://ae01.alicdn.com/kf/Abb2fd2b7d9844310a79006892517373e3.jpg"
+  },
+  {
+    "name": "Мембранный запорный клапан KSB AG Sisto-KB DN 50 PN10",
+    "id": "ID: 1005004650666849",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A75cb9fb0a8c44de1a43ad6e2600f82eai.jpg"
+  },
+  {
+    "name": "Манометр показывающий ТУ 25-02.180335-84 МП4-УУ2",
+    "id": "ID: 1005004650666867",
+    "price": 3296,
+    "img": "http://ae01.alicdn.com/kf/A6cdb425da116450f96b74502b34cf6f8H.jpg"
+  },
+  {
+    "name": "Шаровой кран Boehmer BBF FSK V DN65 PN16",
+    "id": "ID: 1005004650666884",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad2a9a87a331e433fbd575d3e54c798ffD.jpg"
+  },
+  {
+    "name": "Задвижка tecofi vg 3400 EN GJL 250",
+    "id": "ID: 1005004650666908",
+    "price": 75705,
+    "img": "http://ae01.alicdn.com/kf/Aab37bad98118460a800315f50f87d45cu.jpg"
+  },
+  {
+    "name": "Клапан регулирующий шаровой Pre vent BR11-1F670L2",
+    "id": "ID: 1005004650666941",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A7f5629dd1c284720bda403053d4199a9K.jpg"
+  },
+  {
+    "name": "Шаровой кран Argus Fk-k PN16 GGG40",
+    "id": "ID: 1005004650667745",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A090ae53356094befb6ac6176fabec76er.jpg"
+  },
+  {
+    "name": "Тельфер Балканкар Т10232",
+    "id": "ID: 1005004650667822",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ada867fedb8fa46bebae5b42aef49532e7.jpg"
+  },
+  {
+    "name": "Клапан Samson dn40 pn16",
+    "id": "ID: 1005004650667894",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aea600ecd785c4015b4a9a651b3a0c0b0c.jpg"
+  },
+  {
+    "name": "Клапан электромагнитный прямого действия / Прецизионный регулятор давления Burkert / Festo тип 0330 модель 00042218 / LRP-1/4",
+    "id": "ID: 1005004650667934",
+    "price": 22732,
+    "img": "http://ae01.alicdn.com/kf/Ab841a02e41574fda900c60924915ca2bj.jpg"
+  },
+  {
+    "name": "Шаровой кран Seagull DN40 pn 32/25",
+    "id": "ID: 1005004650668861",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A2b51560b9d5a4511bc6cbcbe1155c6e0w.jpg"
+  },
+  {
+    "name": "Задвижка Erhard GmbH and Co valve DN 80 TS-10+70 PT.17",
+    "id": "ID: 1005004650669716",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A964b0389f8ea4c54b857db12022e12aag.jpg"
+  },
+  {
+    "name": "Клапан burkert 413-g-g1/4",
+    "id": "ID: 1005004650669846",
+    "price": 5212,
+    "img": "http://ae01.alicdn.com/kf/A630818ab87b94d9bb2f67288a53a6c82L.jpg"
+  },
+  {
+    "name": "Шаровой кран böhmer kugelhähne 6-din-DVGW DN63 PN16 GG25",
+    "id": "ID: 1005004650669983",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Addd2b95df7a74eafb1a55310f01f53e9b.jpg"
+  },
+  {
+    "name": "Клапан Bürkert burkert 413-g-g",
+    "id": "ID: 1005004650670985",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Acffe43749852496bae3dcfd7662e36048.jpg"
+  },
+  {
+    "name": "Тельфер Калибр ЭТФ 500 П",
+    "id": "ID: 1005004650671933",
+    "price": 41635,
+    "img": "http://ae01.alicdn.com/kf/Ab47c30689dd84b55a4cb5bcfab1bdec5Y.jpg"
+  },
+  {
+    "name": "Насос Vogel Pumpen ZR25-BW16-S23",
+    "id": "ID: 1005004650672656",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aded78cbe918d4e0394b090a62fd141153.jpg"
+  },
+  {
+    "name": "Фильтр-регулятор давления Festo\"LFR-D-MAXI-A №159637 Е143\"",
+    "id": "ID: 1005004650672676",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Af8abb3ac397b4591962e84a765ec99b3a.jpg"
+  },
+  {
+    "name": "Пневматический привод Keystone 796-006",
+    "id": "ID: 1005004650672922",
+    "price": 11896,
+    "img": "http://ae01.alicdn.com/kf/Ad2a2143a29f944a9a497062236281af6O.jpg"
+  },
+  {
+    "name": "Клапан Bürkert 628006H",
+    "id": "ID: 1005004650673864",
+    "price": 3550,
+    "img": "http://ae01.alicdn.com/kf/A14ca16dbe4204ad095d65ecbffd3b02fZ.jpg"
+  },
+  {
+    "name": "Шаговый мотор Leeds and Northrup Slo-Syn 017883 SS221-2013",
+    "id": "ID: 1005004650673898",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Uf82f97bbbd8c4ce78ed7ff13fe4830e2Y.jpg"
+  },
+  {
+    "name": "Измерительный прибор\"MERIAM INSTRUMENT\"30EB25 WM серия R-40733 RANGE 40\"",
+    "id": "ID: 1005004650673971",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5d026568b97d4077a11f92b6a180f04cW.jpg"
+  },
+  {
+    "name": "Принтер Avery TTX 450",
+    "id": "ID: 1005004650674997",
+    "price": 19551,
+    "img": "http://ae01.alicdn.com/kf/A7616a6ceee95465db05e9e7a71167439Z.jpg"
+  },
+  {
+    "name": "Задвижка газовая Kromschroder D-49018 KROM",
+    "id": "ID: 1005004650675970",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A34601e9d139540e490c2e27dbb02b7afE.jpg"
+  },
+  {
+    "name": "Защитный предохранительный клапан WITT-Gasetechnik DVGW NG-4390 AL0032",
+    "id": "ID: 1005004650676928",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A6f5df28ac8ce4f068517a3389a04ca1bZ.jpg"
+  },
+  {
+    "name": "Задвижка premiseal 38DW112",
+    "id": "ID: 1005004650676943",
+    "price": 5978,
+    "img": "http://ae01.alicdn.com/kf/Ae60149daa7a44cc4a5e39e141dc8fd0ah.jpg"
+  },
+  {
+    "name": "Принтер cab A4+/300",
+    "id": "ID: 1005004650677842",
+    "price": 283360,
+    "img": "http://ae01.alicdn.com/kf/Uf82f97bbbd8c4ce78ed7ff13fe4830e2Y.jpg"
+  },
+  {
+    "name": "Электромагнитный клапан Kromschroeder VG 25 RO2NM31D",
+    "id": "ID: 1005004650677844",
+    "price": 11829,
+    "img": "http://ae01.alicdn.com/kf/A9979f61204f942bd8f6f57662568ebbeE.jpg"
+  },
+  {
+    "name": "Фланцевое соединение SIDEN PN10 DN100",
+    "id": "ID: 1005004650677887",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A3e4b1eaad51843df81d95b39e73b7137G.jpg"
+  },
+  {
+    "name": "Шаровой кран böhmer kugelhähne 6-din-DVGW DN100 PN16 GG25",
+    "id": "ID: 1005004650679743",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A1dc6833163a8403e807289c44861e5c3J.jpg"
+  },
+  {
+    "name": "Насос погружной Auras P 30",
+    "id": "ID: 1005004650679833",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A0915f37273e6448780ca0e3f6927a1f2E.jpg"
+  },
+  {
+    "name": "Погружной насос kN-Schubantrieb SBA 45-3 PEL",
+    "id": "ID: 1005004650680718",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A508880de43ab448fa51171fb0a3c5e33E.jpg"
+  },
+  {
+    "name": "Регулирующий клапан Samson 3802",
+    "id": "ID: 1005004650680727",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A091a18b36f40434591b4012fc0105b27L.jpg"
+  },
+  {
+    "name": "Задвижка Ebro PN10 DN150",
+    "id": "ID: 1005004650681863",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A17db5c2b20a44a5fa40b445626f591899.jpg"
+  },
+  {
+    "name": "Газовый клапан Kromschroder VCS665F05NNWSR3P/P3MM/MMZ",
+    "id": "ID: 1005004650681924",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A8bd6a36a58a548ba8ad578818d14ab8bR.jpg"
+  },
+  {
+    "name": "Регулирующий клапан Arca Ventile (8С или 6H) DN80",
+    "id": "ID: 1005004650681937",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A2dfa2e672d734320bf71711640b1c2148.jpg"
+  },
+  {
+    "name": "Регулятор давления газа RMG 300",
+    "id": "ID: 1005004650682794",
+    "price": 75397,
+    "img": "http://ae01.alicdn.com/kf/A7ac00fa3b71148a0a690e9faa75a9573O.jpg"
+  },
+  {
+    "name": "Шаровой кран: Schwer 332 G12-7",
+    "id": "ID: 1005004650683692",
+    "price": 2207,
+    "img": "http://ae01.alicdn.com/kf/A36cc0bef1c7840d1b69b3d4e609feb3dd.jpg"
+  },
+  {
+    "name": "Кран: Boehmer KNGV7 001.0054 DN16 PN25",
+    "id": "ID: 1005004650683836",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Acbbdd83738f045c68d55d049fa54ec60R.jpg"
+  },
+  {
+    "name": "Пневмопривод EBRO rotor 75/90 DE",
+    "id": "ID: 1005004650684803",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Acf77599acae4482db2f2af70b53ea041m.jpg"
+  },
+  {
+    "name": "Задвижка VIA DN300 PN16",
+    "id": "ID: 1005004650685692",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A2e888535389a44fca1555ab90896c8d9i.jpg"
+  },
+  {
+    "name": "Тельфер Балканкар Т10232",
+    "id": "ID: 1005004650685840",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A88d81799ebae4155aba5b88a2c7cbe692.jpg"
+  },
+  {
+    "name": "Резомат Automationstechnik Resomat RM7",
+    "id": "ID: 1005004650686690",
+    "price": 39000,
+    "img": "http://ae01.alicdn.com/kf/A8f32ab62f28a4154ae0b75f792e0e827d.jpg"
+  },
+  {
+    "name": "Задвижка KSB AG R1030",
+    "id": "ID: 1005004650687652",
+    "price": 13263,
+    "img": "http://ae01.alicdn.com/kf/A9f130f9a614144b6a3d6acfeb8040489H.jpg"
+  },
+  {
+    "name": "Электродвигатель stellgerät E0-1 2KN",
+    "id": "ID: 1005004650687739",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A07fcb1437b4447088ba127b86f5c8c3cb.jpg"
+  },
+  {
+    "name": "Задвижка Keystone 38ВDM112",
+    "id": "ID: 1005004650688707",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A517ceef28df34fab9fbbf9a23729eee5i.jpg"
+  },
+  {
+    "name": "Шаровой кран Boehmer FKK DN 80 PN 16",
+    "id": "ID: 1005004650689711",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad4d37ca7f5684d42af72653b86153cd4v.jpg"
+  },
+  {
+    "name": "Электродвигатель и клапана Двигатель: Adda Antriebstechnik FC100L-4",
+    "id": "ID: 1005004650689747",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A082b9e9ab60547b295d0dde52fd84002k.jpg"
+  },
+  {
+    "name": "Лазерный измеритель BETA LN1025XY",
+    "id": "ID: 1005004650689822",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Adc73f55ee91e4287a409c6b7f15ac38d4.jpg"
+  },
+  {
+    "name": "Обратный клапан Gestra RK 86a DN80 PN40",
+    "id": "ID: 1005004650690825",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A67decee5fb914bca9bcf7cf001eac2dbe.jpg"
+  },
+  {
+    "name": "Система с шаговым двигателем Astrosyn 23LM-C710-04",
+    "id": "ID: 1005004650691691",
+    "price": 2342,
+    "img": "http://ae01.alicdn.com/kf/A87ed3d832c784e86b1ce428d0ddf858fH.jpg"
+  },
+  {
+    "name": "Шаровой кран A+R Armaturen GmbH KH 525-32-NTG PN16",
+    "id": "ID: 1005004650691767",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ae1870becb6a74d0aabc54ea7bf9dca26A.jpg"
+  },
+  {
+    "name": "Клапан электромагнитный прямого действия с подъемным анкером / Прецизионный регулятор давления\"Burkert / Festo\"тип 0211 модель",
+    "id": "ID: 1005004650692664",
+    "price": 22732,
+    "img": "http://ae01.alicdn.com/kf/Ae7b90f9a6d49402f8e6488ddb189a61ex.jpg"
+  },
+  {
+    "name": "Тельфер Stahl T 510-10/1,7",
+    "id": "ID: 1005004650692728",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A4f8ef1c991a54b56874160019d268a9bR.jpg"
+  },
+  {
+    "name": "Задвижка Regada 282 0-1 3 BFF/04",
+    "id": "ID: 1005004650692804",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A22daac68e2af483b937207ddeec69186R.jpg"
+  },
+  {
+    "name": "Датчик: Siemens 3RG4031-6AD00",
+    "id": "ID: 1005004650694602",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A6b78c904bc90475cb61708013f52fa66N.jpg"
+  },
+  {
+    "name": "Измерительный преобразователь давления и шаровой кран Преобраз. Давл.: Schoppe and Faeser Contrans P AMD 220 15556 S 543227",
+    "id": "ID: 1005004650695799",
+    "price": 13244,
+    "img": "http://ae01.alicdn.com/kf/A503521e27aaa4445b405290f1c3bb7dfO.jpg"
+  },
+  {
+    "name": "Реле давления Fanal FF 142",
+    "id": "ID: 1005004650699570",
+    "price": 11871,
+    "img": "http://ae01.alicdn.com/kf/A2c16033ac82b42d4ac8b136e443a398bT.jpg"
+  },
+  {
+    "name": "обратный клапан WITT-Gasetechnik DVGW NG-4390",
+    "id": "ID: 1005004650699672",
+    "price": 21791,
+    "img": "http://ae01.alicdn.com/kf/A6f5df28ac8ce4f068517a3389a04ca1bZ.jpg"
+  },
+  {
+    "name": "реле давления Honeywell Drw D-71101",
+    "id": "ID: 1005004650699769",
+    "price": 8405,
+    "img": "http://ae01.alicdn.com/kf/A6400584dfb9a49f5be5f8643e4e456347.jpg"
+  },
+  {
+    "name": "Клапан burkert 413-g-g1/4",
+    "id": "ID: 1005004650700534",
+    "price": 5212,
+    "img": "http://ae01.alicdn.com/kf/A090ae53356094befb6ac6176fabec76er.jpg"
+  },
+  {
+    "name": "Регуляторы давления газ Dungs FRS 507",
+    "id": "ID: 1005004650700603",
+    "price": 14920,
+    "img": "http://ae01.alicdn.com/kf/Af9ed8909fb5245e7b9ce486d4cadd062R.jpg"
+  },
+  {
+    "name": "Реле давления Danfoss RT 31 B",
+    "id": "ID: 1005004650700605",
+    "price": 26558,
+    "img": "http://ae01.alicdn.com/kf/A5f7f91714b484f20ac3fb848e2b45531p.jpg"
+  },
+  {
+    "name": "Задвижка Ebro Armaturen Z011 k1 DN 60 PN6/16",
+    "id": "ID: 1005004650701503",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A999e3bcfebea4eada158da323f5e0ccaa.jpg"
+  },
+  {
+    "name": "Регулятор давления RMG 330",
+    "id": "ID: 1005004650701702",
+    "price": 207111,
+    "img": "http://ae01.alicdn.com/kf/A49417c91533e42069a21a9241c4070e9d.jpg"
+  },
+  {
+    "name": "Предохранительная муфта Mayr EAS-Sm",
+    "id": "ID: 1005004650702563",
+    "price": 20000,
+    "img": "http://ae01.alicdn.com/kf/A5e11261255f84044967e00dcfa00b503B.jpg"
+  },
+  {
+    "name": "Вентиль стальной MAW 8ND 400-12",
+    "id": "ID: 1005004650702582",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad6656249b31341b1ba03e7ec27a2fa813.jpg"
+  },
+  {
+    "name": "Клапан burkert 413-g-g1/4",
+    "id": "ID: 1005004650702612",
+    "price": 5212,
+    "img": "http://ae01.alicdn.com/kf/A857a20f7111748439683b09eb9e03861q.jpg"
+  },
+  {
+    "name": "Редуктор Mastergear GmbH 9801",
+    "id": "ID: 1005004650702629",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aa8651464387e4a588ba034f4b568ff4eN.jpg"
+  },
+  {
+    "name": "Конденсатоотводчик Корал РКД-3к Ду32РУ25",
+    "id": "ID: 1005004650702765",
+    "price": 10633,
+    "img": "http://ae01.alicdn.com/kf/Aa76b51976581424c9a785b3da6168b74j.jpg"
+  },
+  {
+    "name": "Задвижка Ebro rotor 100/90 DE",
+    "id": "ID: 1005004650703532",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A999e3bcfebea4eada158da323f5e0ccaa.jpg"
+  },
+  {
+    "name": "Капиллярный регулятор температуры ZPA EKOREG 611266 110-180 C°",
+    "id": "ID: 1005004650703753",
+    "price": 7089,
+    "img": "http://ae01.alicdn.com/kf/Ae0aaa98f1d1a44e3bb4e1d58ddb298aat.jpg"
+  },
+  {
+    "name": "Задвижка Ebro Armaturen Z014-A DN100 PN10/16",
+    "id": "ID: 1005004650704689",
+    "price": 66838,
+    "img": "http://ae01.alicdn.com/kf/A068a3a457745453ebd44d1ebc6493ee7a.jpg"
+  },
+  {
+    "name": "Газовый фильтр Kromschroder GFK 50F40-3",
+    "id": "ID: 1005004650705510",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A8d4c8d8d2745450f9cb3548a230274b37.jpg"
+  },
+  {
+    "name": "Счетчик воды Zenner de-13-mi001-ptb001",
+    "id": "ID: 1005004650705634",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A65f2d2a3013c4fb38fece3dcf976f4696.jpg"
+  },
+  {
+    "name": "Шаровой кран böhmer kugelhähne MOT 40-B5 DN80 PN16",
+    "id": "ID: 1005004650705733",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aadd7d01bf6cd45f58a50701393a55e2et.jpg"
+  },
+  {
+    "name": "Festo Industrial Control System Festo\"LR-1/2-S-7-B №150056 101290 PA6-GF30\"",
+    "id": "ID: 1005004650708528",
+    "price": 4684,
+    "img": "http://ae01.alicdn.com/kf/A22f6d54a8afb4de0bb02e8ac208093d58.jpg"
+  },
+  {
+    "name": "Тельфер Елпром 120Вт",
+    "id": "ID: 1005004650708646",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Abc0344c6aeb94de7be9096fe7bd0767cn.jpg"
+  },
+  {
+    "name": "Датчик индуктивный Siemens 3RG40 31-6AD00",
+    "id": "ID: 1005004650708660",
+    "price": 1220,
+    "img": "http://ae01.alicdn.com/kf/A4e217bb4d0444d74b75562b688e3457a7.jpg"
+  },
+  {
+    "name": "Соленоид: Herion 26360 00",
+    "id": "ID: 1005004650710411",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A570a43788871482d8b3114bcfd906763a.jpg"
+  },
+  {
+    "name": "Регуляторы соотношения давления и расхода Kromschroder GIK 15 R02-5",
+    "id": "ID: 1005004650710484",
+    "price": 50000,
+    "img": "http://ae01.alicdn.com/kf/Ab5a84349f6a64f499c21ee19b1b26ec1f.jpg"
+  },
+  {
+    "name": "Тельфер Stahl (двигат.) 115413",
+    "id": "ID: 1005004650710558",
+    "price": 150000,
+    "img": "http://ae01.alicdn.com/kf/A83fa32ae581544ad9b2dbe5ede14f1d88.jpg"
+  },
+  {
+    "name": "Линейный привод Hora Mc 163/24",
+    "id": "ID: 1005004650710589",
+    "price": 22772,
+    "img": "http://ae01.alicdn.com/kf/A1978e90762574c1ba0bf74fa6c813fcbf.jpg"
+  },
+  {
+    "name": "Измеритель уровня berthold lb 323-1",
+    "id": "ID: 1005004650711469",
+    "price": 22500,
+    "img": "http://ae01.alicdn.com/kf/A4318c400d37840768103e36867717ad5t.jpg"
+  },
+  {
+    "name": "Задвижка Ebro PN 10 DN65",
+    "id": "ID: 1005004650711654",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A823d277b0e2b44b4ac19dcb1714422a9U.jpg"
+  },
+  {
+    "name": "Регулирующий клапан Arca Ventile (8С или 6H) DN100",
+    "id": "ID: 1005004650712418",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A2dfa2e672d734320bf71711640b1c2148.jpg"
+  },
+  {
+    "name": "Задвижка ножевая шиберная AVK DN 80 PN10/16 702-080-10-134",
+    "id": "ID: 1005004650712420",
+    "price": 345000,
+    "img": "http://ae01.alicdn.com/kf/A12d940b999b64e93a4c8ae4a7d222c7be.jpg"
+  },
+  {
+    "name": "Шаровой кран Argus DN25 PN 100 590850",
+    "id": "ID: 1005004650713473",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A69e72c3a05694b3e8a03bfb963fc27f6k.jpg"
+  },
+  {
+    "name": "Задвижка Ebro Z011 WN",
+    "id": "ID: 1005004650713530",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A4eb3ca435e7e47c895e3c50a939a1843v.jpg"
+  },
+  {
+    "name": "Манометр показывающий ТУ 25-02.180335-84 МП4-III",
+    "id": "ID: 1005004650713537",
+    "price": 3296,
+    "img": "http://ae01.alicdn.com/kf/A42b8f8de2fcf4a37b6d2b32aeb47e7f7I.jpg"
+  },
+  {
+    "name": "Задвижка АДЛ DN150 Ру16 GG25",
+    "id": "ID: 1005004650713559",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A7760538869534e71bba2df1dfc3fe5d1j.jpg"
+  },
+  {
+    "name": "Вибрационный насос Fluid-o-tech 1108WAALM3V",
+    "id": "ID: 1005004650713651",
+    "price": 9400,
+    "img": "http://ae01.alicdn.com/kf/A7a6566bd04734c1f90338482304e78f8u.jpg"
+  },
+  {
+    "name": "Электродвигатель stellgerät R43/2017",
+    "id": "ID: 1005004650714598",
+    "price": 26000,
+    "img": "http://ae01.alicdn.com/kf/A5840ec18d67b4e3f990b4cd7fe07e099a.jpg"
+  },
+  {
+    "name": "Намотчик этикеток Labelmate MC-11",
+    "id": "ID: 1005004650714697",
+    "price": 39700,
+    "img": "http://ae01.alicdn.com/kf/A5d4a1b5fb1924a31b4c05acd328b17c8y.jpg"
+  },
+  {
+    "name": "Быстроразъемные соединения Stäubli rbe 19",
+    "id": "ID: 1005004650715631",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Affa80a045b6241ee9f1d92f35a98d439j.jpg"
+  },
+  {
+    "name": "Задвижка Ebro PN 10 DN80",
+    "id": "ID: 1005004650716574",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A975baad25940461fbdc3f2f934054528n.jpg"
+  },
+  {
+    "name": "Задвижка Ebro Armaturen PN10 DN200",
+    "id": "ID: 1005004650717371",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac5317a859273484aa4eef1b454f6be18a.jpg"
+  },
+  {
+    "name": "Задвижка Keystone optiseal 14-102",
+    "id": "ID: 1005004650718477",
+    "price": 1707,
+    "img": "http://ae01.alicdn.com/kf/Abc28b4c928b548b783985db95b6eff55m.jpg"
+  },
+  {
+    "name": "Клапан PRVA ISKRA 5862ZR ND25-40 NW15",
+    "id": "ID: 1005004650719527",
+    "price": 6650,
+    "img": "http://ae01.alicdn.com/kf/A7d9d4311c65e4d32ac677567ef2db3b2G.jpg"
+  },
+  {
+    "name": "Огнепреградительные клапаны WITT-Gasetechnik DVGW NG-4390 AL0032",
+    "id": "ID: 1005004650719574",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A6f5df28ac8ce4f068517a3389a04ca1bZ.jpg"
+  },
+  {
+    "name": "Запорный газовый клапан Honeywell VG 15/12R18NQ31",
+    "id": "ID: 1005004650720475",
+    "price": 113000,
+    "img": "http://ae01.alicdn.com/kf/A452f007375e345dbae370f4968150bd5t.jpg"
+  },
+  {
+    "name": "Реле давления Kromschroder DG110VC1-6W",
+    "id": "ID: 1005004650720586",
+    "price": 27300,
+    "img": "http://ae01.alicdn.com/kf/Af57c0c9b40954d728ac905e8b8b45d109.jpg"
+  },
+  {
+    "name": "Шаровой кран böhmer kugelhähne 6-din-DVGW DN40 PN16 GG25",
+    "id": "ID: 1005004650720657",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Abaf454d5aae74db7b53c2464041dec608.jpg"
+  },
+  {
+    "name": "Предохранительный отсекающий клапан RMG 720",
+    "id": "ID: 1005004650721335",
+    "price": 140717,
+    "img": "http://ae01.alicdn.com/kf/A28be4529853340d890b0c4be3ee1750cx.jpg"
+  },
+  {
+    "name": "Погружной нагреватель Fluid team Automationstechnik EK2-25-1",
+    "id": "ID: 1005004650721364",
+    "price": 8783,
+    "img": "http://ae01.alicdn.com/kf/A2499e31cbd43450880262db0279298d1k.jpg"
+  },
+  {
+    "name": "Задвижка UNIVAM U9 DN80 PN10",
+    "id": "ID: 1005004650721384",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A480d6bbc187d41d2a3ae5d8c52b454cdw.jpg"
+  },
+  {
+    "name": "Шаровой кран Argus DN 10 PN 100 590847",
+    "id": "ID: 1005004650721472",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Af2151a41b82849b485cc52b688f164c81.jpg"
+  },
+  {
+    "name": "Газовый клапан Kromschroder VAS1W0/W25R/NW",
+    "id": "ID: 1005004650721551",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A2ddc009c57f54d3394fc2b0cd07875b8F.jpg"
+  },
+  {
+    "name": "Оптоволоконная модель land model fg",
+    "id": "ID: 1005004650721590",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A32f591a957ff4bd8b78c1470125b45327.jpg"
+  },
+  {
+    "name": "Пневмопривод Keystone F79E 024 DA",
+    "id": "ID: 1005004650722427",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A5eb75d1fcb6c4684b0d8e5fb15b2bda4D.jpg"
+  },
+  {
+    "name": "Регулятор давления Kromschroder GDJ 20R04-0",
+    "id": "ID: 1005004650722437",
+    "price": 52000,
+    "img": "http://ae01.alicdn.com/kf/A65e71b0f642d49a3ba171f59ad0c02805.jpg"
+  },
+  {
+    "name": "Задвижка Manufacturing Co 1126",
+    "id": "ID: 1005004650722448",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Abcf9b60aeaa14082a680c2a253a81fbeT.jpg"
+  },
+  {
+    "name": "Задвижка Wilo DN50 PN16 GG25",
+    "id": "ID: 1005004650724299",
+    "price": 19200,
+    "img": "http://ae01.alicdn.com/kf/A255240e99aec4700bda0d5e9d6cac377M.jpg"
+  },
+  {
+    "name": "Тельфер Болгарский 1 т",
+    "id": "ID: 1005004650724387",
+    "price": 70000,
+    "img": "http://ae01.alicdn.com/kf/Aa94e552de10c49e2b10e84bb427154b7e.jpg"
+  },
+  {
+    "name": "Тельфер Балканское EХО 13T 10636",
+    "id": "ID: 1005004650724472",
+    "price": 140000,
+    "img": "http://ae01.alicdn.com/kf/Ad1f4c9122a984e5e8d4bd714261c8470p.jpg"
+  },
+  {
+    "name": "газовый фильтр Kromschroder GFK15 R10-4",
+    "id": "ID: 1005004650724605",
+    "price": 4358,
+    "img": "http://ae01.alicdn.com/kf/A23195c0866a24d2993ab0250e9a8bcfdj.jpg"
+  },
+  {
+    "name": "Задвижка Ebro Armaturen PN10 DN100",
+    "id": "ID: 1005004650725495",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A09f1692c0156416a943f60be6d8b5414R.jpg"
+  },
+  {
+    "name": "Электропривод Belimo GM230A",
+    "id": "ID: 1005004650725548",
+    "price": 25840,
+    "img": "http://ae01.alicdn.com/kf/A2f0f5524a4d9410cb9ad6878c89a7391t.jpg"
+  },
+  {
+    "name": "Задвижка KSB AG acs 02accny 005",
+    "id": "ID: 1005004650726397",
+    "price": 3062,
+    "img": "http://ae01.alicdn.com/kf/Abb2fd2b7d9844310a79006892517373e3.jpg"
+  },
+  {
+    "name": "Мембранные предохранительные клапаны Armagas BAP DN 65 SVT",
+    "id": "ID: 1005004650726515",
+    "price": 62262,
+    "img": "http://ae01.alicdn.com/kf/A17f19f8f20f6481387cef7bfbb04c976u.jpg"
+  },
+  {
+    "name": "Автомат контроля герметичности Kromschroder VPS 6/05NWS3",
+    "id": "ID: 1005004650727335",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab2cc03746f1b41bfb6197ea55b48c8c66.jpg"
+  },
+  {
+    "name": "Водомер Brunata D84/6.131.73",
+    "id": "ID: 1005004650727418",
+    "price": 4344,
+    "img": "http://ae01.alicdn.com/kf/Aacaefc2b65d943859c5aaa431178691cZ.jpg"
+  },
+  {
+    "name": "Шаровой кран фланцевый Boehmer FSK V DN50 PN16 NBR/PTFE",
+    "id": "ID: 1005004650729333",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A6d60da0527db494cbf8e705e1d3c57ado.jpg"
+  },
+  {
+    "name": "Изм. Расхода: ABB A6142A021KDA0AAS",
+    "id": "ID: 1005004650729362",
+    "price": 11000,
+    "img": "http://ae01.alicdn.com/kf/A2bee5f90665540dfa96fa86c950f106bj.jpg"
+  },
+  {
+    "name": "Задвижка АДЛ DN80 Py16 GG25",
+    "id": "ID: 1005004650729502",
+    "price": 13000,
+    "img": "http://ae01.alicdn.com/kf/A255240e99aec4700bda0d5e9d6cac377M.jpg"
+  },
+  {
+    "name": "Кран Boehmer BBS MKG V DN50 PN16",
+    "id": "ID: 1005004650729532",
+    "price": 12000,
+    "img": "http://ae01.alicdn.com/kf/A6a89a0ab5edd42b0a3be9c0eb16ce2a0z.jpg"
+  },
+  {
+    "name": "электромагнитный клапан Bender 6213EV A20 EPDM MS",
+    "id": "ID: 1005004650730503",
+    "price": 5500,
+    "img": "http://ae01.alicdn.com/kf/A630818ab87b94d9bb2f67288a53a6c82L.jpg"
+  },
+  {
+    "name": "Редукционный клапан давления Samson DN25 PN 16",
+    "id": "ID: 1005004650731261",
+    "price": 284804,
+    "img": "http://ae01.alicdn.com/kf/A8bee045113a8436ca7b47520a6ba38a3U.jpg"
+  },
+  {
+    "name": "Шаровой кран Seagull PN40 dn 50/40",
+    "id": "ID: 1005004650731284",
+    "price": 7000,
+    "img": "http://ae01.alicdn.com/kf/A5ba4f05eaed24da0b71ae76f2239ce05G.jpg"
+  },
+  {
+    "name": "Задвижка KWW D4000",
+    "id": "ID: 1005004650731420",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A8bd96484f3f74e878d56cdbb1700b1d6d.jpg"
+  },
+  {
+    "name": "Мотор-редуктор Bauer d-7300 esslingen M5019602",
+    "id": "ID: 1005004650731437",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5869a1bb06844b1a9d9f94d9baa89046m.jpg"
+  },
+  {
+    "name": "Клапан односторонний KSB AG DN 25 PN 40 462309",
+    "id": "ID: 1005004650731463",
+    "price": 9160,
+    "img": "http://ae01.alicdn.com/kf/A577dec5dc7794f58b9c7ab6ee72af4fap.jpg"
+  },
+  {
+    "name": "Датчик-реле давления Dungs GW 150 A6 (1P)",
+    "id": "ID: 1005004650732271",
+    "price": 10400,
+    "img": "http://ae01.alicdn.com/kf/A8e6eb7c108274f8591446c6daed9f933V.jpg"
+  },
+  {
+    "name": "Датчик индуктивный Siemens 3RG40 31-6AD00",
+    "id": "ID: 1005004650732470",
+    "price": 1220,
+    "img": "http://ae01.alicdn.com/kf/A4e217bb4d0444d74b75562b688e3457a7.jpg"
+  },
+  {
+    "name": "Задвижка samson jl1040 PN16 DN100",
+    "id": "ID: 1005004650732475",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A71edcb404b8f4676b4d958258077a894F.jpg"
+  },
+  {
+    "name": "Датчик индуктивный Siemens 3RG40 31-6AD00",
+    "id": "ID: 1005004650736350",
+    "price": 1220,
+    "img": "http://ae01.alicdn.com/kf/A4e217bb4d0444d74b75562b688e3457a7.jpg"
+  },
+  {
+    "name": "Мотор Lenze GST07-2W VBR 1E",
+    "id": "ID: 1005004650737161",
+    "price": 49499,
+    "img": "http://ae01.alicdn.com/kf/Uf82f97bbbd8c4ce78ed7ff13fe4830e2Y.jpg"
+  },
+  {
+    "name": "Индикатор HAHN+KOLB FA 969735",
+    "id": "ID: 1005004650737162",
+    "price": 8000,
+    "img": "http://ae01.alicdn.com/kf/Aac6ffe64ed0942b2b92c9d5e23e7a7c5A.jpg"
+  },
+  {
+    "name": "Задвижка KSB AG acs 02accny 005",
+    "id": "ID: 1005004650737168",
+    "price": 3062,
+    "img": "http://ae01.alicdn.com/kf/Abb2fd2b7d9844310a79006892517373e3.jpg"
+  },
+  {
+    "name": "Абсолютный однооборотный энкодер LEINE LINDE 670 PARALLEL\"LINDE Technische Gase\"FMD 670-34",
+    "id": "ID: 1005004650737346",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A70c9199d42d14e85bd03e022b01181faH.jpg"
+  },
+  {
+    "name": "Клапан регулирующий шаровой Pre vent BR11-1F670L2",
+    "id": "ID: 1005004650738370",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A54372fa078154b8fbf23b379a6619f050.jpg"
+  },
+  {
+    "name": "Вырубной выключатель Telemecanlque XY2 CE1A270",
+    "id": "ID: 1005004650739166",
+    "price": 61992,
+    "img": "http://ae01.alicdn.com/kf/Adc64cd1158fe47bfa3cfc7c76f6591cac.jpg"
+  },
+  {
+    "name": "Задвижка Ebro HP 114 DN100 PN16",
+    "id": "ID: 1005004650739213",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5959b6cdaaa64e89aecb8a940b96e28bs.jpg"
+  },
+  {
+    "name": "Шаровой кран böhmer kugelhähne 6-din-DVGW DN40 PN16",
+    "id": "ID: 1005004650739347",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Af73f1c56357e4c3a891a220e9c665a2bb.jpg"
+  },
+  {
+    "name": "Задвижка Buracco 610 B-G PN10 PN16 DN 80",
+    "id": "ID: 1005004650739395",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A73c91cee9a544f8784ffb1de43902f05c.jpg"
+  },
+  {
+    "name": "Регулятор давления Kromschroder GIK 20 R02-5",
+    "id": "ID: 1005004650739413",
+    "price": 53000,
+    "img": "http://ae01.alicdn.com/kf/A4c4d763edb4b42bf8f6be981bf38b8eb9.jpg"
+  },
+  {
+    "name": "Фильтр низкого давления MAHLE D-74613",
+    "id": "ID: 1005004650740185",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A778806666edc442084a4b4db86100febo.jpg"
+  },
+  {
+    "name": "Контроллер Asco PV XG320A196",
+    "id": "ID: 1005004650740386",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5d5d04b923c2467985f201b28295c37eE.jpg"
+  },
+  {
+    "name": "Манометр показывающий Festo MA-50-10-1/4",
+    "id": "ID: 1005004650741254",
+    "price": 1901,
+    "img": "http://ae01.alicdn.com/kf/Af08bc3fdaff4463e9cab7960f328e916Z.jpg"
+  },
+  {
+    "name": "Частотный преобразователь Siemens Micromaster 420",
+    "id": "ID: 1005004650741326",
+    "price": 17500,
+    "img": "http://ae01.alicdn.com/kf/Ad850a50cadb14daeba7c5606733c3d7bD.jpg"
+  },
+  {
+    "name": "Задвижка KWW K20-150B 1",
+    "id": "ID: 1005004650741405",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Af3f036f6733040a9b8fad079a5ce3c1dM.jpg"
+  },
+  {
+    "name": "Иономер универсальный ГОСТ 22261—76 ЭВ-74",
+    "id": "ID: 1005004650742133",
+    "price": 12500,
+    "img": "http://ae01.alicdn.com/kf/A5fb82d9f842a4a3c9557405e9153c9734.jpg"
+  },
+  {
+    "name": "РЕГУЛЯТОР ДАВЛЕНИЯ ПРЯМОГО ДЕЙСТВИЯ Polna DN 80 GJS40018LT",
+    "id": "ID: 1005004650743113",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A83af7801d7b74012b4c157f458cf8652Z.jpg"
+  },
+  {
+    "name": "Задвижка KSB AG acs 02accny 005",
+    "id": "ID: 1005004650743318",
+    "price": 3062,
+    "img": "http://ae01.alicdn.com/kf/Ae702e2a27c734a4f81ffe9368232a513z.jpg"
+  },
+  {
+    "name": "Автомат контроля герметичности kromschroder VPS 6/05NWS3",
+    "id": "ID: 1005004650744158",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad76da7e8e5374c60a259f25eb7c61a7bT.jpg"
+  },
+  {
+    "name": "Задвижка CIM 70BS 5154 PN 20 2 1/2",
+    "id": "ID: 1005004650744356",
+    "price": 7441,
+    "img": "http://ae01.alicdn.com/kf/A2c1cea9fb93346ffae6dd8d8fc341ec7G.jpg"
+  },
+  {
+    "name": "Задвижка KSB AG JS1030 DN100",
+    "id": "ID: 1005004650745212",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac8c76e3559ea43c28906dad78b13ecb5U.jpg"
+  },
+  {
+    "name": "Фильтр-регулятор давления Festo LFR-D-7-MIDI",
+    "id": "ID: 1005004650745243",
+    "price": 14137,
+    "img": "http://ae01.alicdn.com/kf/A272e9cab5cb749e197dd880f93a91e06l.jpg"
+  },
+  {
+    "name": "Клапан: Vickers DG4V-5-8CJ-VM-U-C6-20",
+    "id": "ID: 1005004650745244",
+    "price": 37654,
+    "img": "http://ae01.alicdn.com/kf/Acbb584110e144d0b8decb41891a9bbadD.jpg"
+  },
+  {
+    "name": "Задвижка KSB AG acs 02accny 005",
+    "id": "ID: 1005004650745327",
+    "price": 3062,
+    "img": "http://ae01.alicdn.com/kf/Abb2fd2b7d9844310a79006892517373e3.jpg"
+  },
+  {
+    "name": "Регулирующий клапан Kromschroder RV 350/H ML05 T 60 S1",
+    "id": "ID: 1005004650746244",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab05eb768140942feb06a5163edbf08b22.jpg"
+  },
+  {
+    "name": "Милливольтметр (Логометр), \"1\"ТУ 25-04-3057-75 Ш69003",
+    "id": "ID: 1005004650746294",
+    "price": 3966,
+    "img": "http://ae01.alicdn.com/kf/A4d21750415ee4c789d6e5c2de275ae09u.jpg"
+  },
+  {
+    "name": "Счетчик воды POLRATIK PRL Tsr",
+    "id": "ID: 1005004650747101",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ab3fc29f98f704b63a1f699edcd7e2df87.jpg"
+  },
+  {
+    "name": "Поворотные затворы Eclipse 104BVM",
+    "id": "ID: 1005004650748151",
+    "price": 8337,
+    "img": "http://ae01.alicdn.com/kf/A660a10cd1c284fe38b5765e765df0875C.jpg"
+  },
+  {
+    "name": "Шаровой кран: Boehmer BFF FSL V DN25 PN16",
+    "id": "ID: 1005004650749186",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A26f68d0f850a469f8d3880cbbaaf4f3bL.jpg"
+  },
+  {
+    "name": "Клапан задвижки Tuflin NW100 ND10",
+    "id": "ID: 1005004650749212",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A4992d554dfe642e793dffb3af9a2160eE.jpg"
+  },
+  {
+    "name": "Задвижка АДЛ DN200 Ру16",
+    "id": "ID: 1005004650749279",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aa822df25ae744bdb90d2b55610c3b01fz.jpg"
+  },
+  {
+    "name": "Задвижка Samson DN40 PN16 GG25",
+    "id": "ID: 1005004650749303",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A2cfa136710cf42d5a1faa45b01fd01c2U.jpg"
+  },
+  {
+    "name": "Задвижка KSB AG 3G6K6GXU",
+    "id": "ID: 1005004650749325",
+    "price": 10033,
+    "img": "http://ae01.alicdn.com/kf/A9f130f9a614144b6a3d6acfeb8040489H.jpg"
+  },
+  {
+    "name": "Выключатель автоматический КЭАЗ AE2046M",
+    "id": "ID: 1005004650750347",
+    "price": 2806,
+    "img": "http://ae01.alicdn.com/kf/Addfe48d5e9e0481296055e53097a5d89P.jpg"
+  },
+  {
+    "name": "Датчик-реле Улан -Уденский завод \"Теплоприбор\"ДН400-4",
+    "id": "ID: 1005004650751098",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aa6dbfe6c8fdd46eab0aa35cd79cb3377K.jpg"
+  },
+  {
+    "name": "Погружной насос kN-Schubantrieb SBA 45-3 PEL",
+    "id": "ID: 1005004650751201",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A907d4c7d3ab84636aea74c56ffc3e108P.jpg"
+  },
+  {
+    "name": "Задвижка KWW K20300B6",
+    "id": "ID: 1005004650753050",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A8bd96484f3f74e878d56cdbb1700b1d6d.jpg"
+  },
+  {
+    "name": "Шаровой кран + устройство Кран: Belimo R2025-S2",
+    "id": "ID: 1005004650753122",
+    "price": 9331,
+    "img": "http://ae01.alicdn.com/kf/A7974fb8877e544c6929e5bd85d81ffcf6.jpg"
+  },
+  {
+    "name": "Магнитный клапан Norgren 89J",
+    "id": "ID: 1005004650754088",
+    "price": 7505,
+    "img": "http://ae01.alicdn.com/kf/Uf82f97bbbd8c4ce78ed7ff13fe4830e2Y.jpg"
+  },
+  {
+    "name": "Задвижка Keystone optiseal 14-102",
+    "id": "ID: 1005004650755187",
+    "price": 1707,
+    "img": "http://ae01.alicdn.com/kf/Abc28b4c928b548b783985db95b6eff55m.jpg"
+  },
+  {
+    "name": "Клапан burkert 413-g-g1/4",
+    "id": "ID: 1005004650755192",
+    "price": 5212,
+    "img": "http://ae01.alicdn.com/kf/A9e82fedac2764d87bb504019bd5c725fS.jpg"
+  },
+  {
+    "name": "Клапан регулирующий ЭИМ еспа 02 пв",
+    "id": "ID: 1005004650755277",
+    "price": 7000,
+    "img": "http://ae01.alicdn.com/kf/A1899d49b12b54165b6e9212a57d284bcY.jpg"
+  },
+  {
+    "name": "Задвижка Ebro Z011 K1 DN65 PN 5/16",
+    "id": "ID: 1005004650756104",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aef3ee80e38d94c13b15e76f4be4cc543K.jpg"
+  },
+  {
+    "name": "Шаровой кран böhmer kugelhähne 6-din-DVGW DN32 PN16 GG25",
+    "id": "ID: 1005004650759005",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A6b1d200754a3431995a053d24b6771bcW.jpg"
+  },
+  {
+    "name": "Регуляторы давления газа Kromschroder VGBF 25R10-1",
+    "id": "ID: 1005004650759070",
+    "price": 33931,
+    "img": "http://ae01.alicdn.com/kf/Ac09f91ed92ff4034b03dcf8967b55a8a3.jpg"
+  },
+  {
+    "name": "Задвижка Ebro MO15-k1 DN 80 PN10",
+    "id": "ID: 1005004650759278",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A49f1b7773f2244949a86e2e2eaaf9ad68.jpg"
+  },
+  {
+    "name": "Предохранительное устройство RMG 917",
+    "id": "ID: 1005004650759279",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac447c3f494854c2288d37478758e6957F.jpg"
+  },
+  {
+    "name": "Фланцевый шаровой кран ARI Armaturen GmbH and Co. KG KHG 525-NTE DN80 PN16",
+    "id": "ID: 1005004650760079",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A87aa55d9f3734e36b71d7ff90dddebc8W.jpg"
+  },
+  {
+    "name": "Распределитель Festo MFH-5-1/8",
+    "id": "ID: 1005004650761259",
+    "price": 16017,
+    "img": "http://ae01.alicdn.com/kf/Ad74904f4ef2344cc95c6dd8c26e8c4eb0.jpg"
+  },
+  {
+    "name": "Задвижка Keystone fig-535 38 dn150",
+    "id": "ID: 1005004650762029",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aaf26d3877f1b4924a0c48e9fefd45e5d1.jpg"
+  },
+  {
+    "name": "Газовый фильтр Kromschroder gfk 50f60",
+    "id": "ID: 1005004650762042",
+    "price": 19543,
+    "img": "http://ae01.alicdn.com/kf/A8d4c8d8d2745450f9cb3548a230274b37.jpg"
+  },
+  {
+    "name": "Индуктивные датчики Balluff BES0201",
+    "id": "ID: 1005004650762172",
+    "price": 4293,
+    "img": "http://ae01.alicdn.com/kf/A7e93325ceb5a4894ac4a787abcdd98e41.jpg"
+  },
+  {
+    "name": "Манометр показывающий / Фланец воротниковый ТУ 25-02.180335-84 / HACK МП4-У / RST 37-2 DN50 PN16",
+    "id": "ID: 1005004650763149",
+    "price": 1296,
+    "img": "http://ae01.alicdn.com/kf/A322c30f18dde4a21a93913aef6d52f994.jpg"
+  },
+  {
+    "name": "Задвижка VAG BETA 200 Dn 100 PN 16",
+    "id": "ID: 1005004650764155",
+    "price": 23340,
+    "img": "http://ae01.alicdn.com/kf/Ab266b20876854559a3c9eef82e21dd947.jpg"
+  },
+  {
+    "name": "Мотор-редуктор трехфазный Dunkermotoren DR52.1X60-2 88119 03053",
+    "id": "ID: 1005004650765009",
+    "price": 32075,
+    "img": "http://ae01.alicdn.com/kf/Ab09c39052be94a2d84e692842b06dab6J.jpg"
+  },
+  {
+    "name": "Газовый фильтр+2 Шаровых крана Фильтр: RMG RMG 906 DN25 PN16",
+    "id": "ID: 1005004650766066",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac05053ae8cc94dc5aefa2dcddb8ebe0b3.jpg"
+  },
+  {
+    "name": "Двигатель Lenze GST07-2W VBR 1P",
+    "id": "ID: 1005004650767173",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad3d9a726c39e4281a6a11dee66a64c254.jpg"
+  },
+  {
+    "name": "Шаровой кран Boehmer BBF FSL V DN25 PN16",
+    "id": "ID: 1005004650768157",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Afa7215d8e38d4d60b7b6666b12728d66W.jpg"
+  },
+  {
+    "name": "Расходомер Brooks instrument Sho-Rate ….",
+    "id": "ID: 1005004650769099",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aa722c64f7a0848559d40af22d8d38105L.jpg"
+  },
+  {
+    "name": "Обратные клапаны WITT-Gasetechnik DIN DVGM NG-4390 BM02",
+    "id": "ID: 1005004650769122",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5794fd8c53b54beb841ff6db5349e233c.jpg"
+  },
+  {
+    "name": "Кодировщик управления HEIDENHAIN PGM 246 181-04",
+    "id": "ID: 1005004650771110",
+    "price": 42027,
+    "img": "http://ae01.alicdn.com/kf/Aa34f6752356840718f066f17f86f2dd2k.jpg"
+  },
+  {
+    "name": "Обандероливатель AKEBONO OB-360",
+    "id": "ID: 1005004650771140",
+    "price": 166936,
+    "img": "http://ae01.alicdn.com/kf/A1a08ed686f514faf9c7e0a2959f1e8f2F.jpg"
+  },
+  {
+    "name": "Шаровой кран RMA Rheinau HKSF-FL DN50",
+    "id": "ID: 1005004650772098",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A77dbaff80c3d4c8b8ada9c14a8990d9ad.jpg"
+  },
+  {
+    "name": "Регулятор давления RMG 330",
+    "id": "ID: 1005004650773045",
+    "price": 207111,
+    "img": "http://ae01.alicdn.com/kf/A30a9cf2178ff4a15afef6032ffafbf214.jpg"
+  },
+  {
+    "name": "Задвижка Keystone fig 14-261",
+    "id": "ID: 1005004650776014",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A517ceef28df34fab9fbbf9a23729eee5i.jpg"
+  },
+  {
+    "name": "Ротаметр Yokogawa d-79664 wehr ramc05-d4-ss-67l5",
+    "id": "ID: 1005004650776026",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A9cb9b8e1414243c7845adf91e13f771cv.jpg"
+  },
+  {
+    "name": "Задвижка Keystone 9-186 DN100 PN10",
+    "id": "ID: 1005004650776029",
+    "price": 4888,
+    "img": "http://ae01.alicdn.com/kf/A34152e33b81e4b1c8d6507ff4244773ct.jpg"
+  },
+  {
+    "name": "Вентилятор Ramfan EF400",
+    "id": "ID: 1005004650778007",
+    "price": 156269,
+    "img": "http://ae01.alicdn.com/kf/A0e0c8f52535b484f8d244e102a2e2dbf1.jpg"
+  },
+  {
+    "name": "Газовый вентиль Kromschroder vk65 F31T5A93DS",
+    "id": "ID: 1005004650780043",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ac2451a07113e484e913df9cb712963cdx.jpg"
+  },
+  {
+    "name": "Регуляторы соотношения давления и расхода Kromschroder GIK 15R02-5",
+    "id": "ID: 1005004650783019",
+    "price": 50000,
+    "img": "http://ae01.alicdn.com/kf/A4c4d763edb4b42bf8f6be981bf38b8eb9.jpg"
+  },
+  {
+    "name": "Задвижка Ebro Z011 WN DN80 PN 6/16",
+    "id": "ID: 1005004650783034",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A999e3bcfebea4eada158da323f5e0ccaa.jpg"
+  },
+  {
+    "name": "Измерительный прибор\"MERIAM INSTRUMENT\"30EB25 WM серия R-40733 RANGE 40\"",
+    "id": "ID: 1005004650786015",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5d026568b97d4077a11f92b6a180f04cW.jpg"
+  },
+  {
+    "name": "Газовый клапан Kromschroder VAS1W0/W25R/NW",
+    "id": "ID: 1005004650788032",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A70bac34e23bc497d93c825d269a8f4d8H.jpg"
+  },
+  {
+    "name": "Задвижка Ebro Armaturen GG25",
+    "id": "ID: 1005004650792001",
+    "price": 30000,
+    "img": "http://ae01.alicdn.com/kf/A068a3a457745453ebd44d1ebc6493ee7a.jpg"
+  },
+  {
+    "name": "Задвижка Regada 282 0-1 3 BFF/04",
+    "id": "ID: 1005004650794008",
+    "price": 40000,
+    "img": "http://ae01.alicdn.com/kf/A22daac68e2af483b937207ddeec69186R.jpg"
+  },
+  {
+    "name": "Кран шаровой BROEN DZT DN50 PN40",
+    "id": "ID: 1005004650794021",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aab8246219fc148cc9cf8568c5284d89et.jpg"
+  },
+  {
+    "name": "Термостат SAMSON 2231 10106160 1026",
+    "id": "ID: 1005004650795007",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5c64ac2ffc4b483c9487cde7b9a1fad1H.jpg"
+  },
+  {
+    "name": "Регулировка каретки ERO-Fuhrungen VS50 YZ",
+    "id": "ID: 1005004650987818",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A2e2a599844bc4ee1b954a855aeed333bO.jpg"
+  },
+  {
+    "name": "Улан -Уденский завод \"Теплоприбор\"ДН-40-11",
+    "id": "ID: 1005004650996810",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A8db412fb96694061928f66f09776edb6j.jpg"
+  },
+  {
+    "name": "Модуль Witt Wasserstoff steuergerät",
+    "id": "ID: 1005004651010648",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/A36a1aaae8e2f4f86878acc309578706fc.jpg"
+  },
+  {
+    "name": "УФ датчик Hans Hennig UV2-SG-Q (c 30.06.2019 не впускаются)",
+    "id": "ID: 1005004651016591",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/A8dde864d8a8341339b8399a1a75cac8cl.jpg"
+  },
+  {
+    "name": "Лампа OSRAM LZM-A/EB-A",
+    "id": "ID: 1005004651035447",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A28342ad5cd8f4eb9a3deb7ecaa191b04T.jpg"
+  },
+  {
+    "name": "Pyronics MM0066B",
+    "id": "ID: 1005004651035454",
+    "price": 18000,
+    "img": "http://ae01.alicdn.com/kf/A90ee097c4aff4279a4aab1e5b96a78383.jpg"
+  },
+  {
+    "name": "Электродвигатель AB-052-2MY3",
+    "id": "ID: 1005004651038485",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A09c9a23ca10b44788a40bca3245a586aT.jpg"
+  },
+  {
+    "name": "Лазер ЛТН-103",
+    "id": "ID: 1005004651052340",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A53d678253dbd4499821585c79a2388aac.jpg"
+  },
+  {
+    "name": "Клапан typ417 dn20",
+    "id": "ID: 1005004651063275",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A9f4eeb3eedd24d508e2a828ac297500aq.jpg"
+  },
+  {
+    "name": "Ручная лебедка Pfaff silberblau 271136",
+    "id": "ID: 1005004651071221",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/A463993668ce64183af7fa2446633046av.jpg"
+  },
+  {
+    "name": "Компенсаторы EKO 20RA",
+    "id": "ID: 1005004651080091",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A5750ac26ab114205802b2a3483708f4cp.jpg"
+  },
+  {
+    "name": "Лампа OSRAM 3044",
+    "id": "ID: 1005004651083102",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A28342ad5cd8f4eb9a3deb7ecaa191b04T.jpg"
+  },
+  {
+    "name": "Измерительный прибор\"MERIAM INSTRUMENT\"30FB25HM серия R-29993 RANGE 12\"",
+    "id": "ID: 1005004651084081",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/A698279b063164313ad8a5e494cd24d86g.jpg"
+  },
+  {
+    "name": "Червячный редуктор РЧУ 80А Uн 40",
+    "id": "ID: 1005004651090029",
+    "price": 6000,
+    "img": "http://ae01.alicdn.com/kf/Ab830920edeac4565a65f71d9390538e2r.jpg"
+  },
+  {
+    "name": "Пневматический привод, индуктивный датчик и соленоид Привод: Keystone 796-070",
+    "id": "ID: 1005004651090033",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Ad67ec2d102a44ed7bed11c55de216393B.jpg"
+  },
+  {
+    "name": "Вентилятор Siemens 1LA3063-2442",
+    "id": "ID: 1005004651805962",
+    "price": 70000,
+    "img": "http://ae01.alicdn.com/kf/A85c98ccda0134c9cb3f36273a2ae193at.jpg"
+  },
+  {
+    "name": "Вентилятор Piller 3246RX80140",
+    "id": "ID: 1005004651810974",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ae8178a135acd41bd992f9e5e6d6a8895y.jpg"
+  },
+  {
+    "name": "Вентилятор Elektra 9AA160L04",
+    "id": "ID: 1005004651815897",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A581c188462f6430691cdaab6c1217060N.jpg"
+  },
+  {
+    "name": "Вентилятор Ekotechna RSE560p90",
+    "id": "ID: 1005004651830722",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Abd970e08c22c4ec0a772a1d836d02c616.jpg"
+  },
+  {
+    "name": "Вентилятор КВЗ В-Ц14-46",
+    "id": "ID: 1005004651831711",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ad5b7ca9403a949c7980a5c49bf0853496.jpg"
+  },
+  {
+    "name": "Вентилятор Piller 5156M80-250",
+    "id": "ID: 1005004651832743",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A1fcc6527e4a24c6ba2f44431511b97a5D.jpg"
+  },
+  {
+    "name": "Вентилятор Завод Вентилятор ВЦ14-46",
+    "id": "ID: 1005004651836710",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ae8178a135acd41bd992f9e5e6d6a8895y.jpg"
+  },
+  {
+    "name": "Вентилятор Siemens 2CF1 142-0EA1",
+    "id": "ID: 1005004651839615",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A9cb94085575a41a9b00eed12396ff977M.jpg"
+  },
+  {
+    "name": "Вентилятор КВЗ ВЦ 5-45-8",
+    "id": "ID: 1005004651839616",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ad4d967fc8bad4c96aee7271b134c9d8cs.jpg"
+  },
+  {
+    "name": "Вентилятор Siemens 1LA7166 4AA60 Z",
+    "id": "ID: 1005004651840672",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A59a22f3e3e004c0fab803f0c170cfa64w.jpg"
+  },
+  {
+    "name": "Вентилятор Ekotechna RSE560p90",
+    "id": "ID: 1005004651840681",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A0b2d8f35d0d841de9d144ee89affb422B.jpg"
+  },
+  {
+    "name": "Вентилятор Siemens 2CF1052-0BA1",
+    "id": "ID: 1005004651843638",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Aa9bab03f8cf044f3a63337a4e816290b2.jpg"
+  },
+  {
+    "name": "Вентилятор Reitz MXE016-040015",
+    "id": "ID: 1005004651847636",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ae8178a135acd41bd992f9e5e6d6a8895y.jpg"
+  },
+  {
+    "name": "Вентилятор АИР 56В2У3",
+    "id": "ID: 1005004651853511",
+    "price": 9000,
+    "img": "http://ae01.alicdn.com/kf/A60868af59c7b4a91aa19fb3011b749e68.jpg"
+  },
+  {
+    "name": "Вентилятор Siemens 1LA9113-2KA61-Z",
+    "id": "ID: 1005004651853518",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ada25c0ed4cc54b05bcfe1c992769ed68y.jpg"
+  },
+  {
+    "name": "Вентилятор Ziehl-Abegg FC031-2DF.3B.3",
+    "id": "ID: 1005004651858484",
+    "price": 50000,
+    "img": "http://ae01.alicdn.com/kf/A37dd8cfca5494b1a9db27171f6506788X.jpg"
+  },
+  {
+    "name": "Вентилятор Piller 3246RX80140",
+    "id": "ID: 1005004651869389",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ae8178a135acd41bd992f9e5e6d6a8895y.jpg"
+  },
+  {
+    "name": "Вентилятор Istral D 79282",
+    "id": "ID: 1005004651871377",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ab6e72201d65f445181009c1ae976f8e7Z.jpg"
+  },
+  {
+    "name": "Вентилятор АИР 56А4 У3",
+    "id": "ID: 1005004651877322",
+    "price": 4000,
+    "img": "http://ae01.alicdn.com/kf/A9213952612434909b343f3bf130ec08dD.jpg"
+  },
+  {
+    "name": "Вентилятор BBC 160 M2 AG",
+    "id": "ID: 1005004651884291",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A12c23b92e7324e2586e6b2dcc0f93d99a.jpg"
+  },
+  {
+    "name": "Вентилятор Ziehall-abegg RE45P 6DK.7Q.1R",
+    "id": "ID: 1005004651885276",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ae8178a135acd41bd992f9e5e6d6a8895y.jpg"
+  },
+  {
+    "name": "Вентилятор Dynamo Sliven Pik 6-25/3",
+    "id": "ID: 1005004651897180",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ae8178a135acd41bd992f9e5e6d6a8895y.jpg"
+  },
+  {
+    "name": "Вентилятор Siemens 1LE10011AA434AB4",
+    "id": "ID: 1005004651903159",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ab3339247dbcb49e9b3f570798264212eO.jpg"
+  },
+  {
+    "name": "Вентилятор АИР 80В2-У3",
+    "id": "ID: 1005004651906131",
+    "price": 9000,
+    "img": "http://ae01.alicdn.com/kf/Ab0f3a8ce4b2642829d4ee5fc5baf7264B.jpg"
+  },
+  {
+    "name": "Вентилятор Reitz MXE016-040015-00",
+    "id": "ID: 1005004651908106",
+    "price": 190000,
+    "img": "http://ae01.alicdn.com/kf/Ab15b608918e64c9ea189a87022285902l.jpg"
+  },
+  {
+    "name": "Вентилятор Radial ventilator KXE125-063030-00",
+    "id": "ID: 1005004651909112",
+    "price": 180000,
+    "img": "http://ae01.alicdn.com/kf/A3d21e0256c9d434183e89750a2f9a4f47.jpg"
+  },
+  {
+    "name": "Вентилятор Leroy Somer LSES",
+    "id": "ID: 1005004651910095",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Aab5bd32d7efc488ea8e7097042baed0ef.jpg"
+  },
+  {
+    "name": "Вентилятор Ekotechna RSE560L90",
+    "id": "ID: 1005004651912087",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A2e5658bff022451986d820fc65603e07E.jpg"
+  },
+  {
+    "name": "Газовый клапан Kromschroder VAS1T15N/NQ 88001872",
+    "id": "ID: 1005004651995753",
+    "price": 38000,
+    "img": "http://ae01.alicdn.com/kf/A8de81839c2f7451a86f9c04e793f5aaa9.jpg"
+  },
+  {
+    "name": "CCD камера teli TYPE TK5573A0",
+    "id": "ID: 1005004652178140",
+    "price": 18000,
+    "img": "http://ae01.alicdn.com/kf/A0f7dec70cf564d3fbb8b6b5168e9adeb5.jpg"
+  },
+  {
+    "name": "Вентилятор Siemens 1LA7106 2AA10 Z",
+    "id": "ID: 1005004652338673",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A322c851535394f1faf309891c5e0f329D.jpg"
+  },
+  {
+    "name": "Вентилятор Reitz MXE125-010030",
+    "id": "ID: 1005004652367420",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ac159d0ac18b04a69982565560eb69158G.jpg"
+  },
+  {
+    "name": "Вентилятор Siemens 2 CF6631-1EE0-Z2403",
+    "id": "ID: 1005004652385324",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A95a6b15822ff45dfa9411a8177e3d164q.jpg"
+  },
+  {
+    "name": "Вентилятор Casals MA18 T2",
+    "id": "ID: 1005004652412088",
+    "price": 10000,
+    "img": "http://ae01.alicdn.com/kf/A43f35d6ae96b442b99fc67077b9e023fo.jpg"
+  },
+  {
+    "name": "Вентилятор Rotamill R0-14-100-30",
+    "id": "ID: 1005004652481935",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A41781373ce19446fb9178b0e768433bfj.jpg"
+  },
+  {
+    "name": "Датчик контроля сходы ленты Kiepe Elektrik VG 250V AC 10A",
+    "id": "ID: 1005004652489105",
+    "price": 905613,
+    "img": "http://ae01.alicdn.com/kf/Aa70ad9c986e34e4da152b38a2cdb9bb4b.jpg"
+  },
+  {
+    "name": "Вентилятор Solyvent-Ventec DB 46",
+    "id": "ID: 1005004652535530",
+    "price": 100000,
+    "img": "http://ae01.alicdn.com/kf/Ac7358ac0f40d48d9ad639160bb48599fX.jpg"
+  },
+  {
+    "name": "Вентилятор Kuenle 3ph-motor",
+    "id": "ID: 1005004653804815",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A1219b3caccbd4f93a42ca597c50d9376M.jpg"
+  },
+  {
+    "name": "Вентилятор КВЗ В-Ц14-46-8",
+    "id": "ID: 1005004653826654",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A3ff9687991284b3495e65b8e509abcf7E.jpg"
+  },
+  {
+    "name": "Вентилятор Piller M132K-2Z",
+    "id": "ID: 1005004653845498",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A810660c08a9541a4b5624cd5fd95afe1j.jpg"
+  },
+  {
+    "name": "Вентилятор Siemens 1LA3113 2AA70 Z",
+    "id": "ID: 1005004653860374",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A65005efc13e948fcad72d9437838b1d4x.jpg"
+  },
+  {
+    "name": "Вентилятор СовПлим 6000",
+    "id": "ID: 1005004653862373",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A5d9418ac8fea463a90023064f320be66u.jpg"
+  },
+  {
+    "name": "Вентилятор Reitz MXE125-010030",
+    "id": "ID: 1005004653872254",
+    "price": 200000,
+    "img": "http://ae01.alicdn.com/kf/A49913d3ec4104dc8bf393fa9fe8a92f03.jpg"
+  },
+  {
+    "name": "Вентилятор Maico DZR 40/6 B",
+    "id": "ID: 1005004653888172",
+    "price": 34000,
+    "img": "http://ae01.alicdn.com/kf/Af2eb823009264de6adc80059e7e23ae53.jpg"
+  },
+  {
+    "name": "Завод Вентилятор Электромашина 180М6У2",
+    "id": "ID: 1005004653889152",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A6eb2d4994fce496f88515c226f2978e14.jpg"
+  },
+  {
+    "name": "Вентилятор 020/400-2",
+    "id": "ID: 1005004653895118",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Aabe216b523ef4e8e9ceb9a96ffe9257fX.jpg"
+  },
+  {
+    "name": "Осушитель воздуха Kaeser TI 751W",
+    "id": "ID: 1005004654778888",
+    "price": 999999,
+    "img": "http://ae01.alicdn.com/kf/Ac997bc02e02042c18fcc1347e757d7cb3.jpg"
+  },
+  {
+    "name": "Компрессор Demag 0/170 WH",
+    "id": "ID: 1005004654778898",
+    "price": 1100000,
+    "img": "http://ae01.alicdn.com/kf/A00b6c418848f4ded9321400ec598b31bv.jpg"
+  },
+  {
+    "name": "Вибролоток",
+    "id": "ID: 1005004654782816",
+    "price": 350000,
+    "img": "http://ae01.alicdn.com/kf/Adc9a1183d6e74fc7acdd968f7ed0139cs.jpg"
+  },
+  {
+    "name": "Шнековый транспортер",
+    "id": "ID: 1005004654786834",
+    "price": 240000,
+    "img": "http://ae01.alicdn.com/kf/A8b8f4f1ab8df4f9db43e0a5af54d6ec34.jpg"
+  },
+  {
+    "name": "Дробилка валковая",
+    "id": "ID: 1005004654789851",
+    "price": 1200000,
+    "img": "http://ae01.alicdn.com/kf/A18246d1102ea48f1b9752d8e887ed8844.jpg"
+  },
+  {
+    "name": "Дизельный генератор Man",
+    "id": "ID: 1005004654801656",
+    "price": 1500000,
+    "img": "http://ae01.alicdn.com/kf/A30b7a3099dee4f998cf2383d13b1b064d.jpg"
+  },
+  {
+    "name": "Компрессор Boge SO 220",
+    "id": "ID: 1005004654819546",
+    "price": 4500000,
+    "img": "http://ae01.alicdn.com/kf/A8783d46531ac45a080b322929e98b995y.jpg"
+  },
+  {
+    "name": "Загрузчик шихты",
+    "id": "ID: 1005004654820518",
+    "price": 400000,
+    "img": "http://ae01.alicdn.com/kf/A3a884850099340d9b71fe909e1404bc4E.jpg"
+  },
+  {
+    "name": "Дробилка валковая",
+    "id": "ID: 1005004654830450",
+    "price": 340000,
+    "img": "http://ae01.alicdn.com/kf/A3ce357bd7c9f461297408bbf34afad39T.jpg"
+  },
+  {
+    "name": "Компрессор-охладитель Sabroe SH 3400",
+    "id": "ID: 1005004654833427",
+    "price": 970000,
+    "img": "http://ae01.alicdn.com/kf/A979de48d6c5942419961f2483cbb4325l.jpg"
+  },
+  {
+    "name": "Компрессор Demag 0/350 WH",
+    "id": "ID: 1005004654843297",
+    "price": 1200000,
+    "img": "http://ae01.alicdn.com/kf/Aef70145681c44e8eb82b4746c532a3e9B.jpg"
+  },
+  {
+    "name": "Воздушный компрессор Wilhelm KkleinSK41",
+    "id": "ID: 1005004654844316",
+    "price": 190000,
+    "img": "http://ae01.alicdn.com/kf/Aeea3e24bff9948d89c22c16eaee80d2e8.jpg"
+  },
+  {
+    "name": "Дробилка валковая",
+    "id": "ID: 1005004654845279",
+    "price": 1600000,
+    "img": "http://ae01.alicdn.com/kf/Aa0d22d9a9af14b20a1796d486e759c96v.jpg"
+  },
+  {
+    "name": "Осушитель Ultratroc",
+    "id": "ID: 1005004654845287",
+    "price": 140000,
+    "img": "http://ae01.alicdn.com/kf/Ae6a9f8bccb8943d08e131adfd02dad245.jpg"
+  },
+  {
+    "name": "Дробилка валковая",
+    "id": "ID: 1005004654846290",
+    "price": 1400000,
+    "img": "http://ae01.alicdn.com/kf/A9a361baa6c544267a6a0bd8ac4f7a172q.jpg"
+  },
+  {
+    "name": "Вибролоток",
+    "id": "ID: 1005004654852256",
+    "price": 250000,
+    "img": "http://ae01.alicdn.com/kf/A8abc15cf08e547629f19643e7ad947e0n.jpg"
+  },
+  {
+    "name": "Осушитель воздуха Boge DS 900",
+    "id": "ID: 1005004654856250",
+    "price": 1000000,
+    "img": "http://ae01.alicdn.com/kf/Ac714f4a006aa416e8f23f52f6ff666cbY.jpg"
+  },
+  {
+    "name": "Промышленный робот KukaKR 125/1",
+    "id": "ID: 1005004654872128",
+    "price": 1200000,
+    "img": "http://ae01.alicdn.com/kf/A649dc80e9d5f4780b857010217edbc2d9.jpg"
+  },
+  {
+    "name": "Магнитный сепаратор",
+    "id": "ID: 1005004654877078",
+    "price": 1190000,
+    "img": "http://ae01.alicdn.com/kf/Af825d8ee2013475680529ca55df44be9K.jpg"
+  },
+  {
+    "name": "Компрессор Kaeser DSDX 172",
+    "id": "ID: 1005004654881042",
+    "price": 4500000,
+    "img": "http://ae01.alicdn.com/kf/A955f81eccd9d4b67ae4ebb8055ce88e0C.jpg"
+  },
+  {
+    "name": "Вентилятор № 0120",
+    "id": "ID: 1005004658453573",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A97ea2e6bb4674580be21597e91cd58cbb.jpg"
+  },
+  {
+    "name": "Вентилятор № H0-89",
+    "id": "ID: 1005004658468889",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A9b89297e64204b309d554ddb0e334828g.jpg"
+  },
+  {
+    "name": "Вентилятор № B0-26",
+    "id": "ID: 1005004658469848",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A374804d36a6141e6baea278cde76cd10Q.jpg"
+  },
+  {
+    "name": "Вентилятор № B6-11",
+    "id": "ID: 1005004658469852",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A12b5f7966cbb4ad5ad3ab398597fdbd3z.jpg"
+  },
+  {
+    "name": "Вентилятор № H6-59",
+    "id": "ID: 1005004658472787",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A2a286af3dee84d8d94c283c9e7b12c48D.jpg"
+  },
+  {
+    "name": "Вентилятор № B7-83",
+    "id": "ID: 1005004658472799",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A5772aae59fd64c29b10b9f550793ea46y.jpg"
+  },
+  {
+    "name": "Вентилятор № H7-5",
+    "id": "ID: 1005004658476750",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A3418373cc35f4f9f84bb09cc67488d337.jpg"
+  },
+  {
+    "name": "Вентилятор № B1-81 ОАО \"Мовен\" ВО-14-320",
+    "id": "ID: 1005004658477805",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A6c0811f76ff9498a952a756f627284ffJ.jpg"
+  },
+  {
+    "name": "Вентилятор № B2-88",
+    "id": "ID: 1005004658481762",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A3b13f848568e4969941b50a8cd19b663c.jpg"
+  },
+  {
+    "name": "Вентилятор № B0-89",
+    "id": "ID: 1005004658482749",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A162cd5da19a349c3844a0a575110ee98u.jpg"
+  },
+  {
+    "name": "Вентилятор № H0-87",
+    "id": "ID: 1005004658485717",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A9a40bed30b35481d9a672fb2400485c9u.jpg"
+  },
+  {
+    "name": "Вентилятор № H5-84",
+    "id": "ID: 1005004658486713",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A0b081a68d09341cf8f8b2712e3d795cdd.jpg"
+  },
+  {
+    "name": "Вентилятор № H7-14",
+    "id": "ID: 1005004658487672",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/Ab5859750aea34d829fbe4ac5bf73cfe2X.jpg"
+  },
+  {
+    "name": "Вентилятор № B2-13",
+    "id": "ID: 1005004658489656",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A27a588e81967441e9ae7d6bef063c9dfA.jpg"
+  },
+  {
+    "name": "Вентилятор № H5-31",
+    "id": "ID: 1005004658495641",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A5975dabd9f3b47888d20c448c9d1670ds.jpg"
+  },
+  {
+    "name": "Вентилятор № B0-90",
+    "id": "ID: 1005004658497704",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/Aaa5c10f5635a411e867115b620b0b2b3T.jpg"
+  },
+  {
+    "name": "Вентилятор № B4-46",
+    "id": "ID: 1005004658502552",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A1bd900c22727447e94f1ad057fb34fc0e.jpg"
+  },
+  {
+    "name": "Вентилятор № H6-88",
+    "id": "ID: 1005004658506588",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A987b2ac7909f4932ad0ff28148407112D.jpg"
+  },
+  {
+    "name": "Вентилятор № 0125",
+    "id": "ID: 1005004658508075",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A0d032ea459fb4deba12f97eaf06f72baS.jpg"
+  },
+  {
+    "name": "Вентилятор № B0-17",
+    "id": "ID: 1005004658511474",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A18b165844add456593dcd8319f362e0dB.jpg"
+  },
+  {
+    "name": "Вентилятор № H6-94",
+    "id": "ID: 1005004658525362",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A345162b5dc664259a20b9c6ed7f2b5e2I.jpg"
+  },
+  {
+    "name": "Вентилятор № H6-90",
+    "id": "ID: 1005004658527369",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A5c5b87df6d9f4637930711c4f9b9ff93Y.jpg"
+  },
+  {
+    "name": "Вентилятор № B-56",
+    "id": "ID: 1005004658528355",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A43eed724cf544900b9d9576264935da85.jpg"
+  },
+  {
+    "name": "Вентилятор № B0-14",
+    "id": "ID: 1005004658533334",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A86d29af358a64afca37f3debec58f8c19.jpg"
+  },
+  {
+    "name": "Вентилятор № H5-92",
+    "id": "ID: 1005004658535750",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A7a296f7cb177484fb1b26e4c3ada9980k.jpg"
+  },
+  {
+    "name": "Вентилятор № B0-3",
+    "id": "ID: 1005004658537307",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/Ac3296882cdcf4597a3a9778dfb80ab38v.jpg"
+  },
+  {
+    "name": "Вентилятор № H6-92",
+    "id": "ID: 1005004658541245",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/Abb293d7e8426472d800f0b26284f58345.jpg"
+  },
+  {
+    "name": "Вентилятор улитка № H5-77",
+    "id": "ID: 1005004658543247",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A5225f1fe0b2944c5a6776aca3f25c5d0P.jpg"
+  },
+  {
+    "name": "Вентилятор № B0-27",
+    "id": "ID: 1005004658552195",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/Ab094f88cbf5043d68cddc01d29f0a70bX.jpg"
+  },
+  {
+    "name": "Вентилятор № B3-2",
+    "id": "ID: 1005004658556163",
+    "price": 40000,
+    "img": "http://ae01.alicdn.com/kf/Ac2e7ca6f59cd4894bf62f950a65e8ef1S.jpg"
+  },
+  {
+    "name": "Вентилятор № B2-54",
+    "id": "ID: 1005004658557150",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/Abaff7cc44409415289013c2b3d9eb66bU.jpg"
+  },
+  {
+    "name": "Вентилятор № B0-13",
+    "id": "ID: 1005004658559136",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A6c56ecf9b3ee41fdbaa12a69479889c5P.jpg"
+  },
+  {
+    "name": "Вентилятор № H5-33",
+    "id": "ID: 1005004658560108",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/Ab7a3e6f62cb14303bb702730a5cef473M.jpg"
+  },
+  {
+    "name": "Вентилятор № B8-34 B7-89",
+    "id": "ID: 1005004658561082",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/Adfccb1c1be054f008aac461eac1790eem.jpg"
+  },
+  {
+    "name": "Вентилятор № B7-85",
+    "id": "ID: 1005004658566064",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A102e8766af424000813b1492f7f8d66aO.jpg"
+  },
+  {
+    "name": "Вентилятор АИС 56 А4 У3",
+    "id": "ID: 1005004658567042",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/A8165e7b7b1834f1d8cbe11de1ccb8499S.jpg"
+  },
+  {
+    "name": "Вентилятор № B7-82",
+    "id": "ID: 1005004658569026",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/Ab4561addfad24fed951a687b176ecdadP.jpg"
+  },
+  {
+    "name": "Вентилятор № B2-86",
+    "id": "ID: 1005004658570028",
+    "price": 160000,
+    "img": "http://ae01.alicdn.com/kf/Abca59be10f0b4341a388888d12aa3e530.jpg"
+  },
+  {
+    "name": "Вентилятор № H0-82",
+    "id": "ID: 1005004659463935",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ab9ddea0298bc492bab16e913d2b95176Z.jpg"
+  },
+  {
+    "name": "Вентилятор № H8-88",
+    "id": "ID: 1005004659510531",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/A1a3d4d2cc46b4ce2bd867ca754b18da1f.jpg"
+  },
+  {
+    "name": "Вентилятор № H2-72",
+    "id": "ID: 1005004659515545",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Ae1361ffc5043432ba4828e7a1f4bb76cP.jpg"
+  },
+  {
+    "name": "Вентилятор с управляемыми задвижками № H2-42",
+    "id": "ID: 1005004659555159",
+    "price": 105613,
+    "img": "http://ae01.alicdn.com/kf/A98f5c8bf7af345d1b4bdfe406eea9b96x.jpg"
+  },
+  {
+    "name": "Вентилятор № 0079",
+    "id": "ID: 1005004659559115",
+    "price": 170000,
+    "img": "http://ae01.alicdn.com/kf/Aaa70df0458d3434c9f5b55334993d8d7K.jpg"
+  },
+  {
+    "name": "Ибп Masterguard Chloride в-ser 80 kva 3/3 top SU63080AA040aa0 MASTERGUARD UPS",
+    "id": "ID: 1005004663035959",
+    "price": 340000,
+    "img": "http://ae01.alicdn.com/kf/A723194747fc14e168427e56723f09cdek.jpg"
+  },
+  {
+    "name": "Датчик давления Endress Hauser CERABAR M PMC41-RE11F1A11M1",
+    "id": "ID: 1005004663039967",
+    "price": 16000,
+    "img": "http://ae01.alicdn.com/kf/Ac2505bd6898d47339cb64e6906f20f95E.jpg"
+  },
+  {
+    "name": "Осушитель рефрижераторный Atlas Copco FD 5",
+    "id": "ID: 1005004663098568",
+    "price": 70000,
+    "img": "http://ae01.alicdn.com/kf/Af578df6548ed4992a9bf3893af62b3840.jpeg"
+  },
+  {
+    "name": "Вакуумный подъемник Aero-lift Robokran Вакуумная траверса 300 кг",
+    "id": "ID: 1005004663107465",
+    "price": 190000,
+    "img": "http://ae01.alicdn.com/kf/Afb625c7e0b9d45439d42a58c66dd3be5S.jpg"
+  },
+  {
+    "name": "Термостат Siemens RAK-TW.1000HB",
+    "id": "ID: 1005004663116389",
+    "price": 2400,
+    "img": "http://ae01.alicdn.com/kf/Ae067442e22814a8cb6181cb3ce8a4bc6O.jpg"
+  },
+  {
+    "name": "Датчик давления Endress Hauser Ceraphant T PTC31-A1C11P1AE6A",
+    "id": "ID: 1005004663120304",
+    "price": 24000,
+    "img": "http://ae01.alicdn.com/kf/Ac8ea3ae4636b4cd387367a33b05dfd1en.jpg"
+  },
+  {
+    "name": "Грейферный ковш",
+    "id": "ID: 1005004663262105",
+    "price": 280000,
+    "img": "http://ae01.alicdn.com/kf/Aa1faf06bec5945fbaad22be6deb171caf.jpg"
+  },
+  {
+    "name": "Манометр WIKA 111.10",
+    "id": "ID: 1005004670826791",
+    "price": 781,
+    "img": "http://ae01.alicdn.com/kf/Afc283d72e37e4d759f5e552928dc6835U.jpg"
+  }
+]
