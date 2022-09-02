@@ -30,3 +30,7 @@
   background-size: contain;
   cursor: pointer;
 }
+
+body {
+  background-color: var(--color-green1);
+}
