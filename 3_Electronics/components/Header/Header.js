@@ -15,14 +15,16 @@ class Header {
             </div>
           </div>
 
-            <div class="header-container2">
+            <div class="header-number">
                 <div >
                     <strong><a class="btn-number number" href="tel:+79056132557" rel="nofollow">+7(905)-613-25-57</a></strong>
                 </div>  
+            </div>
 
-                <div class="header-counter" onclick="headerPage.handlerOpenShoppingPage();" >
-                    🔥 Корзина: ${count}
-                </div>
+            <div class="header-cart">
+              <div class="header-counter" onclick="headerPage.handlerOpenShoppingPage();" >
+              🔥 Корзина: ${count}
+              </div>
             </div>
 
             <a href="#" title="Вернуться к началу" class="topbutton">^</a>
