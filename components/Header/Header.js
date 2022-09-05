@@ -24,6 +24,7 @@ class Header {
                     <img  src="./img/Whatsapp.png" />
                       <a class="btn-number number"  href="tel:+79056132557" rel="nofollow"> +7(905)-613-25-57
                       </a>
+                      info@salesk.ru 
                     </strong>
                 </div>  
             </div>

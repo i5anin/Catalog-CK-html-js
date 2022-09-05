@@ -7,6 +7,8 @@ class Header {
     const html = `
 
           <div class="header-container">
+
+          
             <div div class="header-counter">
               <a href="https://salesk.ru/1_Power/" class="btn">Электродвигатели</a>
               <a href="https://salesk.ru/2_Ventilation_gas/" class="btn">Вентиляционные и газовые</a>    
