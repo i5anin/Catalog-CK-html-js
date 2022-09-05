@@ -11,7 +11,7 @@ class Header {
               <a href="https://salesk.ru/1_Power/" class="btn">Электродвигатели</a>
               <a href="https://salesk.ru/2_Ventilation_gas/" class="btn">Вентиляционные и газовые</a>    
               <a href="https://salesk.ru/3_Electronics/" class="btn">Электроника</a>    
-              <a href="https://salesk.ru/4_Mechanical/" class="btn">Механообработка</a>    
+              <a href="https://salesk.ru/4_Mechanical/" class="btn">Техника</a>    
             </div>
           </div>
 
