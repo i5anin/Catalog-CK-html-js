@@ -37,14 +37,26 @@ class Products {
       htmlCatalog += `
                 <li class="products-element">
                     <span class="products-element__name">${name} </span>
-                    <p><a target = "_blank" href="https://aliexpress.ru/item/${id
-                      .split("ID:")
-                      .join(
-                        ""
-                      )}.html"><img class="products-element__img" src="${img}" /></a></p>
-                    <span class="products-element__price">
+                    
+                    <p>
+                      <a target = "_blank" href="https://aliexpress.ru/item/${id
+                        .split("ID:")
+                        .join(
+                          ""
+                        )}.html"><img class="products-element__img" src="${img}" />
+                      </a>
+                    </p>
+
+                    <p>
+                      <span class="products-element__price">
                         ⚡️ ${price.toLocaleString()} ₽
-                    </span>
+                      </span>
+                      <a class="aliexpress" target = "_blank" href="https://aliexpress.ru/item/${id
+                        .split("ID:")
+                        .join("")}.html"> AliExpress
+                      </a>
+                    </p>
+
                     <button class="products-element__btn${activeClass}" onclick="productsPage.handlerSetLocatStorage(this, '${id}');">
                         ${activeText}
                     </button>

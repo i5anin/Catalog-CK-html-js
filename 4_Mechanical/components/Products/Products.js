@@ -47,12 +47,11 @@ class Products {
                       </a>
                     </p>
 
-                    <span class="products-element__price">
-                        ⚡️ ${price.toLocaleString()} ₽
-                    </span>
-
                     <p>
-                      <a target = "_blank" href="https://aliexpress.ru/item/${id
+                      <span class="products-element__price">
+                        ⚡️ ${price.toLocaleString()} ₽
+                      </span>
+                      <a class="aliexpress" target = "_blank" href="https://aliexpress.ru/item/${id
                         .split("ID:")
                         .join("")}.html"> AliExpress
                       </a>

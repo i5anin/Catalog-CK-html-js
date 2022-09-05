@@ -7,6 +7,8 @@ class Header {
     const html = `
 
           <div class="header-container">
+
+          
             <div div class="header-counter">
               <a href="https://salesk.ru/1_Power/" class="btn">Электродвигатели</a>
               <a href="https://salesk.ru/2_Ventilation_gas/" class="btn">Вентиляционные и газовые</a>    
@@ -17,7 +19,12 @@ class Header {
 
             <div class="header-number">
                 <div >
-                    <strong><a class="btn-number number" href="tel:+79056132557" rel="nofollow">+7(905)-613-25-57</a></strong>
+                    
+                    <strong>
+                    <img  src="./img/Whatsapp.png" />
+                      <a class="btn-number number"  href="tel:+79056132557" rel="nofollow"> +7(905)-613-25-57
+                      </a>
+                    </strong>
                 </div>  
             </div>
 
