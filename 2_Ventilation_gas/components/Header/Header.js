@@ -17,7 +17,7 @@ class Header {
               <a href="https://salesk.ru/2_Ventilation_gas/" class="btn">Вентиляционные и газовые</a>    
               <a href="https://salesk.ru/3_Electronics/" class="btn">Электроника</a>    
               <a href="https://salesk.ru/4_Mechanical/" class="btn">Техника</a> 
-              <p>Актуальную стоимость и наличие уточнайте по телефону</p>
+              <p>Актуальную стоимость и наличие уточняйте по телефону</p>
               
             </div>
           </div>
