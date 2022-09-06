@@ -9,11 +9,16 @@ class Header {
           <div class="header-container">
 
           
+
+          
             <div div class="header-counter">
+
               <a href="https://salesk.ru/1_Power/" class="btn">Электродвигатели</a>
               <a href="https://salesk.ru/2_Ventilation_gas/" class="btn">Вентиляционные и газовые</a>    
               <a href="https://salesk.ru/3_Electronics/" class="btn">Электроника</a>    
-              <a href="https://salesk.ru/4_Mechanical/" class="btn">Техника</a>    
+              <a href="https://salesk.ru/4_Mechanical/" class="btn">Техника</a> 
+              <p>Актуальную стоимость и наличие уточнайте по телефону</p>
+              
             </div>
           </div>
 
