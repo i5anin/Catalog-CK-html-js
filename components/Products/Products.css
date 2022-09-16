@@ -46,6 +46,8 @@
   background-image: var(--linear-gradient);
 }
 
-.aliexpress {
-  font-size: 9px;
+.warning {
+  font-size: 10px;
+  text-decoration: none;
+  color: black;
 }

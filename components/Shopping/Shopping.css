@@ -9,6 +9,7 @@
   transform: translate(-50%, -50%);
   background-color: var(--color-white);
   box-shadow: var(--box-shadow);
+  margin-top: 50px;
 }
 .shopping-element__name {
   padding: var(--spacing-medium);

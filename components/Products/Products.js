@@ -35,8 +35,8 @@ class Products {
       }
 
       htmlCatalog += `
-                <li class="products-element">
-                    <span class="products-element__name">${name} </span>
+     <li class="products-element">
+        <span class="products-element__name">${name} </span>
                     
                     <p>
                       <a target = "_blank" href="https://aliexpress.ru/item/${id
@@ -48,20 +48,19 @@ class Products {
                     </p>
 
                     <p>
-                      <span class="products-element__price">
-                        ⚡️ ${price.toLocaleString()} ₽
-                      </span>
-                      <a class="aliexpress" target = "_blank" href="https://aliexpress.ru/item/${id
-                        .split("ID:")
-                        .join("")}.html"> AliExpress
-                      </a>
+                        <span class="products-element__price">
+                          <b>
+                            ⚡️ ${price.toLocaleString()} ₽
+                          </b>
+                        </span>
+                      <a class="warning"  href="tel:+79056132557" rel="nofollow"> стоимость&nbsp;и&nbsp;наличие&nbsp;уточняйте&nbsp;по&nbsp;телефону</a>
                     </p>
 
-                    <button class="products-element__btn${activeClass}" onclick="productsPage.handlerSetLocatStorage(this, '${id}');">
-                        ${activeText}
-                    </button>
-                </li>
-            `;
+        <button class="products-element__btn${activeClass}" onclick="productsPage.handlerSetLocatStorage(this, '${id}');">
+          ${activeText}
+        </button>
+      </li>
+    `;
     });
 
     const html = `

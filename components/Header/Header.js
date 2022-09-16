@@ -6,30 +6,34 @@ class Header {
   render(count) {
     const html = `
 
+    <nav id="navbar" class="navbar">
+      <div class="container">
+        <a href="https://salesk.ru/" class="navbar__brand" target="_blank"><img class="logo" width="100" height="100"  src="./img/favicon.png" /></a>
+        
+        <ul class="navbar__nav">
+          <li><a href="https://salesk.ru/1_Power/">Электродвигатели</a></li>
+          <li><a href="https://salesk.ru/2_Ventilation_gas/">Вентиляционные и газовые</a></li>
+          <li><a href="https://salesk.ru/3_Electronics/">Электроника</a></li>
+          <li><a href="https://salesk.ru/4_Mechanical/">Техника</a></li>
+          <li><a>|</a></li>
+          <li><a href="https://salesk.ru/info/">О нас</a></li>
+          <li><a>|</a></li>
+          <li><a class="header-counter" onclick="headerPage.handlerOpenShoppingPage();">🔥 Корзина: ${count}</a></li>
+        </ul>
+      </div>
+    </nav>
+
           <div class="header-container">
-
-          
-
-          
-            <div div class="header-counter">
-
-              <a href="https://salesk.ru/1_Power/" class="btn">Электродвигатели</a>
-              <a href="https://salesk.ru/2_Ventilation_gas/" class="btn">Вентиляционные и газовые</a>    
-              <a href="https://salesk.ru/3_Electronics/" class="btn">Электроника</a>    
-              <a href="https://salesk.ru/4_Mechanical/" class="btn">Техника</a> 
-              <p>Актуальную стоимость и наличие уточняйте по телефону</p>
-              
-            </div>
           </div>
 
             <div class="header-number">
                 <div >
                     
                     <strong>
-                    <img  src="./img/Whatsapp.png" />
+                    <img class="whatsapp"  src="./img/Whatsapp.png" />
                       <a class="btn-number number"  href="tel:+79056132557" rel="nofollow"> +7(905)-613-25-57
                       </a>
-                      <a href="mailto:info@salesk.ru&body=Здравствуйте"> info@salesk.ru </a>
+                      <a class="email" href="mailto:info@salesk.ru&body=Здравствуйте"> info@salesk.ru </a>
                       
                       
                     </strong>
