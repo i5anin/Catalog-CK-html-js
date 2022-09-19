@@ -10,15 +10,15 @@ class Header {
       <div class="container">
         <a href="https://salesk.ru/" class="navbar__brand" target="_blank"><img class="logo" width="100" height="100"  src="./img/favicon.png" /></a>
         
-        <ul class="navbar__nav">
-          <li><a href="https://salesk.ru/1_Power/">Электродвигатели</a></li>
-          <li><a href="https://salesk.ru/2_Ventilation_gas/">Вентиляционные и газовые</a></li>
-          <li><a href="https://salesk.ru/3_Electronics/">Электроника</a></li>
-          <li><a href="https://salesk.ru/4_Mechanical/">Техника</a></li>
-          <li><a>|</a></li>
-          <li><a href="https://salesk.ru/info/">О нас</a></li>
-          <li><a>|</a></li>
-          <li><a class="header-counter" onclick="headerPage.handlerOpenShoppingPage();">🔥 Корзина: ${count}</a></li>
+        <ul class="navbar__nav hamburger noselect">
+          <li class="line"><a href="https://salesk.ru/1_Power/">Электродвигатели</a></li>
+          <li class="line"><a href="https://salesk.ru/2_Ventilation_gas/">Вентиляционные и газовые</a></li>
+          <li class="line"><a href="https://salesk.ru/3_Electronics/">Электроника</a></li>
+          <li class="line"><a href="https://salesk.ru/4_Mechanical/">Техника</a></li>
+          <li class="line"><a>|</a></li>
+          <li class="line"><a href="https://salesk.ru/info/">О нас</a></li>
+          <li class="line"><a>|</a></li>
+          <li class="line"><a class="header-counter" onclick="headerPage.handlerOpenShoppingPage();">🔥 Корзина: ${count}</a></li>
         </ul>
       </div>
     </nav>
@@ -34,8 +34,6 @@ class Header {
                       <a class="btn-number number"  href="tel:+79056132557" rel="nofollow"> +7(905)-613-25-57
                       </a>
                       <a class="email" href="mailto:info@salesk.ru&body=Здравствуйте"> info@salesk.ru </a>
-                      
-                      
                     </strong>
                 </div>  
             </div>
