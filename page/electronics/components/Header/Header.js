@@ -18,7 +18,7 @@ class Header {
           <li class="line"><a class="bold" href="https://salesk.ru/page/mechanical/">Техника</a></li>
 
           <li class="line"><a>|</a></li>
-          <li class="line"><a href="https://salesk.ru/info/">О нас</a></li>
+          <li class="line"><a href="https://salesk.ru/page/info/">О нас</a></li>
           <li class="line"><a>|</a></li>
           <li class="line"><a class="header-counter" onclick="headerPage.handlerOpenShoppingPage();">🔥 Корзина: ${count}</a></li>
         </ul>
