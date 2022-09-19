@@ -13,6 +13,9 @@
         font-size: 12px ;
         --spacing-small: 10px ;
     }
+    .navbar{
+      height: 85px !important;
+    }
 }
 
 /* smartphones, Android phones, landscape iPhone */
