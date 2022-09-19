@@ -12,10 +12,10 @@ class Header {
         
         <ul class="navbar__nav hamburger noselect">
 
-          <li class="line"><a class="bold" href="https://salesk.ru/page/motors/">Электродвигатели</a></li>
-          <li class="line"><a class="bold" href="https://salesk.ru/page/ventilation-gas/">Вентиляционные и газовые</a></li>
-          <li class="line"><a class="bold" href="https://salesk.ru/page/electronics/">Электроника</a></li>
-          <li class="line"><a class="bold" href="https://salesk.ru/page/mechanical/">Техника</a></li>
+          <li class="line"><a class="bold" href="https://salesk.ru/page/motors/#1">Электродвигатели</a></li>
+          <li class="line"><a class="bold" href="https://salesk.ru/page/ventilation-gas/#2">Вентиляционные и газовые</a></li>
+          <li class="line"><a class="bold" href="https://salesk.ru/page/electronics/#3">Электроника</a></li>
+          <li class="line"><a class="bold" href="https://salesk.ru/page/mechanical/#4">Техника</a></li>
 
           <li class="line"><a>|</a></li>
           <li class="line"><a href="https://salesk.ru/page/info/">О нас</a></li>
