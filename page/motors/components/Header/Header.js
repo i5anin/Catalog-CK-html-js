@@ -8,13 +8,15 @@ class Header {
 
     <nav id="navbar" class="navbar">
       <div class="container">
-        <a href="https://salesk.ru/" class="navbar__brand" target="_blank"><img class="logo" width="100" height="100"  src="./img/favicon.png" /></a>
+        <a href="https://salesk.ru/" class="navbar__brand"><img class="logo" width="100" height="100"  src="./img/favicon.png" /></a>
         
         <ul class="navbar__nav hamburger noselect">
+
           <li class="line"><a class="bold" href="https://salesk.ru/page/motors/">Электродвигатели</a></li>
           <li class="line"><a class="bold" href="https://salesk.ru/page/ventilation-gas/">Вентиляционные и газовые</a></li>
-          <li class="line"><a class="bold" href="https://salesk.ru/page/electronics/>Электроника</a></li>
+          <li class="line"><a class="bold" href="https://salesk.ru/page/electronics/">Электроника</a></li>
           <li class="line"><a class="bold" href="https://salesk.ru/page/mechanical/">Техника</a></li>
+
           <li class="line"><a>|</a></li>
           <li class="line"><a href="https://salesk.ru/info/">О нас</a></li>
           <li class="line"><a>|</a></li>
