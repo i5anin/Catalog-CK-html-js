@@ -73,6 +73,30 @@
 		</noscript>
 		<!-- /Yandex.Metrika counter -->
 
+		<script>
+			let filterInput = document.getElementById("filterInput");
+
+			filterInput.addEventListener("keyup", filterName);
+
+			function filterName() {
+				let filterValue = document
+					.getElementById("filterInput")
+					.value.toUpperCase();
+
+				let ul = document.getElementById("names");
+				let li = ul.querySelectorAll("li.collection-item");
+
+				for (let i = 0; i < li.length; i++) {
+					let a = li[i].getElementsByTagName("a")[0];
+					if (a.innerHTML.toUpperCase().indexOf(filterValue) > -1) {
+						li[i].style.display = "";
+					} else {
+						li[i].style.display = "none";
+					}
+				}
+			}
+		</script>
+
 		<script charset="utf-8" type="text/javascript" src="https://cp.callback-free.com/api/js/form-builder.js"
 			data-key="Xw-KL_fj"></script>
 

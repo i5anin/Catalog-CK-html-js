@@ -47,6 +47,11 @@ class Header {
             </div>
 
             <a href="#" title="Вернуться к началу" class="topbutton">^</a>
+
+            <div class="text-field">
+              <input class="text-field__input" type="text" name="search" id="filterInput" placeholder="Поиск" value="">
+            </div>
+
         `;
     ROOT_HEADER.innerHTML = html;
   }
